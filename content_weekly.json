@@ -1,0 +1,51 @@
+{
+  "edition": "Issue 01",
+  "date": "Wednesday 29 July 2026",
+  "topline": [
+    {"text": "New statutory suspension and exclusion guidance came into force on 26 July 2026 — the framework schools return to in September.", "action": "Re-read it before term; check your recording and pupil-movement processes line up."},
+    {"text": "Annual 2024/25 exclusion figures are due this month — the headline dataset for the year, not yet published.", "action": "We’ll circulate the day it lands, with your cohort context."},
+    {"text": "Inclusion signals are converging — SEND White Paper tiers, the new EEF inclusive teaching guide, and the December 2026 inclusion-strategy duty all point the same way MAPs already works.", "action": "Start your inclusion strategy now — don’t wait for the autumn rush."}
+  ],
+  "diary": [
+    {"date": "Now", "color": "coral", "text": "Statutory suspension & exclusion guidance in force (26 Jul 2026)."},
+    {"date": "Jul 2026", "color": "indigo", "text": "Annual 2024/25 suspension & exclusion statistics expected."},
+    {"date": "1 Sep 2026", "color": "indigo", "text": "New academic year: KCSIE 2026 safeguarding guidance, Ofsted operating-guide changes and FSM expansion all take effect."},
+    {"date": "By Dec 2026", "color": "magenta", "text": "Statutory duty: publish your school inclusion strategy."},
+    {"date": "Autumn 2026", "color": "indigo", "text": "Education for All Bill — first reading and committee stages."},
+    {"date": "Sep 2029–30", "color": "grey", "text": "On the horizon: SEND legislative change; EHCP changes no earlier than Sep 2030."}
+  ],
+  "sections": [
+    {"heading": "Policy & legislation", "color": "purple", "items": [
+      {"lede": "Statutory exclusion guidance in force.", "body": "Updated guidance for maintained schools, academies and PRUs — including pupil movement — took effect 26 July 2026.", "source": "GOV.UK", "url": "https://www.gov.uk/government/publications/school-suspensions-and-permanent-exclusions"},
+      {"lede": "Education for All Bill.", "body": "Announced in the May 2026 King’s Speech; will carry the white paper’s legislative changes, including SEND reform.", "source": "Commons Library", "url": "https://commonslibrary.parliament.uk/"},
+      {"lede": "“Every Child Can” enrichment programme.", "body": "A new £132.5m programme funds in-school and community enrichment; Ofsted will weigh enrichment in personal development.", "source": "Sector round-up", "url": "https://www.gov.uk/government/organisations/department-for-education", "action": "An enrichment offer is now an inspection asset — map what you already run against it."}
+    ]},
+    {"heading": "Inclusion & SEND", "color": "magenta", "items": [
+      {"lede": "White Paper reshapes the model.", "body": "“Every Child Achieving and Thriving” proposes tiered support — universal, targeted, targeted plus, specialist — with Individual Support Plans, School Inclusion Bases and an Inclusive Mainstream Fund.", "source": "Commons Library", "url": "https://commonslibrary.parliament.uk/"},
+      {"lede": "Seven principles, and a statutory duty.", "body": "All schools must publish an inclusion strategy from December 2026 and report on how inclusive mainstream funding is deployed.", "source": "Tes", "url": "https://www.tes.com/magazine", "action": "Your cohort data is the backbone of a credible strategy — see the tool spotlight below."}
+    ]},
+    {"heading": "Evidence & research", "color": "teal", "items": [
+      {"lede": "EEF Guide to Inclusive Teaching.", "body": "Published 6 July 2026: a two-part model — strengthen universal practice, then adapt thoughtfully — directly supporting the inclusion-strategy duty.", "source": "EEF", "url": "https://educationendowmentfoundation.org.uk/"},
+      {"lede": "“Who’s Losing Learning?”", "body": "The Difference and IPPR set out four principles of whole-school inclusion and call for £850m over five years for preventative, universal support — modelling suggests it pays for itself by 2030 by reducing the need for around 35,000 EHCPs.", "source": "IPPR / The Difference", "url": "https://www.ippr.org/"}
+    ]},
+    {"heading": "Behaviour, exclusions & attendance", "color": "coral", "items": [
+      {"lede": "Latest term data.", "body": "Spring 2025: 3,320 permanent exclusions — a spring-term record — and 312,562 suspensions; the FSM permanent-exclusion rate ran 5.9× that of peers.", "source": "DfE / CSJ", "url": "https://www.centreforsocialjustice.org.uk/"},
+      {"lede": "The trajectory.", "body": "Full-year suspensions rose 21% to 955,000 in 2023/24, with persistent disruptive behaviour cited in 51% of cases.", "source": "Explore Education Statistics", "url": "https://explore-education-statistics.service.gov.uk/"}
+    ]},
+    {"heading": "Ofsted & accountability", "color": "indigo", "items": [
+      {"lede": "September 2026 operating guide.", "body": "New procedures for inspecting inclusion bases and a similar-schools attainment model from 1 September.", "source": "The Key", "url": "https://schoolleaders.thekeysupport.com/"},
+      {"lede": "Inclusion as a standalone judgement.", "body": "Under the renewed framework, inclusion is judged directly rather than spread across areas — a structural argument in the network’s favour.", "source": "Ofsted", "url": "https://educationinspection.blog.gov.uk/"}
+    ]},
+    {"heading": "Safeguarding & wellbeing", "color": "teal", "items": [
+      {"lede": "KCSIE 2026 published.", "body": "The new statutory safeguarding guidance (in force 1 September) removes Annex A so all staff read Part 1, requires an annual review of filtering and monitoring, and strengthens provisions on AI, cyber security and misogyny.", "source": "GOV.UK", "url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2", "action": "Refresh your child-protection policy and staff training against the 2026 changes before term."}
+    ]},
+    {"heading": "Funding", "color": "amber", "items": [
+      {"lede": "Free school meals expansion.", "body": "From September 2026, FSM extends to all Universal Credit households; transitional protections end and eligibility rechecks are required.", "source": "GOV.UK", "url": "https://www.gov.uk/government/organisations/department-for-education"}
+    ]},
+    {"heading": "South Yorkshire & Sheffield", "color": "purple", "items": [
+      {"lede": "Sheffield Ofsted results under the new framework.", "body": "The Star rounded up May–June outcomes; Stocksbridge High rated ‘urgent improvement’ on achievement and attendance/behaviour.", "source": "The Star", "url": "https://www.thestar.co.uk/education"},
+      {"lede": "Council finances.", "body": "Sheffield City Council reported an improved 2025/26 position — useful background to the funding bid.", "source": "Sheffield City Council", "url": "https://www.sheffield.gov.uk/"}
+    ]}
+  ],
+  "box": {"type": "datapoint", "big": "2×", "text": "Pupils suspended even once are around twice as likely to be NEET (not in education, employment or training) by age 24.", "attribution": "EPI (2024), cited in IPPR & The Difference’s “Who’s Losing Learning?” — the evidence base the upstream model is built to interrupt."}
+}

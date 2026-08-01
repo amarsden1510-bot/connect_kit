@@ -1,0 +1,24 @@
+{
+  "edition": "",
+  "date": "Wednesday 29 July 2026",
+  "topline": [
+    {"text": "New statutory suspension and exclusion guidance came into force on 26 July 2026 — the framework schools return to in September.", "action": "Re-read it before term; check your recording and pupil-movement processes line up."},
+    {"text": "KCSIE 2026 safeguarding guidance is confirmed and in force from 1 September.", "action": "Refresh your child-protection policy and training against the 2026 changes."}
+  ],
+  "diary": [
+    {"date": "Now", "color": "coral", "text": "Statutory suspension & exclusion guidance in force (26 Jul 2026)."},
+    {"date": "1 Sep 2026", "color": "indigo", "text": "KCSIE 2026, Ofsted operating-guide changes and FSM expansion take effect."}
+  ],
+  "sections": [
+    {"heading": "Policy & legislation", "color": "purple", "items": [
+      {"lede": "Statutory exclusion guidance in force.", "body": "Updated guidance for maintained schools, academies and PRUs — including pupil movement — took effect 26 July 2026.", "source": "GOV.UK", "url": "https://www.gov.uk/government/publications/school-suspensions-and-permanent-exclusions"}
+    ]},
+    {"heading": "Inclusion & SEND", "color": "magenta", "items": [
+      {"lede": "Inclusion-strategy duty approaching.", "body": "All schools must publish an inclusion strategy from December 2026 and report on inclusive mainstream funding.", "source": "Tes", "url": "https://www.tes.com/magazine", "action": "Your cohort data is the backbone of a credible strategy — see the tool spotlight below."}
+    ]},
+    {"heading": "Safeguarding & wellbeing", "color": "teal", "items": [
+      {"lede": "KCSIE 2026 published.", "body": "In force 1 September: Annex A removed so all staff read Part 1, annual filtering/monitoring review required, plus new provisions on AI, cyber security and misogyny.", "source": "GOV.UK", "url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2"}
+    ]}
+  ],
+  "box": {"type": "datapoint", "big": "2×", "text": "Pupils suspended even once are around twice as likely to be NEET by age 24.", "attribution": "EPI (2024), cited in IPPR & The Difference’s “Who’s Losing Learning?”"}
+}
