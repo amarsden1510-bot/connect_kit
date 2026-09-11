@@ -1,24 +1,24 @@
 {
   "edition": "",
-  "date": "Wednesday 29 July 2026",
+  "date": "Friday 11 September 2026",
   "topline": [
-    {"text": "New statutory suspension and exclusion guidance came into force on 26 July 2026 — the framework schools return to in September.", "action": "Re-read it before term; check your recording and pupil-movement processes line up."},
-    {"text": "KCSIE 2026 safeguarding guidance is confirmed and in force from 1 September.", "action": "Refresh your child-protection policy and training against the 2026 changes."}
+    {"text": "The Stop School Cuts coalition (ASCL, NEU, NAHT) says schools have lost £4.5bn to real-terms funding cuts since 2010, with 92% of secondaries left worse off.", "action": "Union-commissioned figures, not independent stats — useful context if you're building a funding case, but cite with that caveat."},
+    {"text": "DfE's consultation on reforming education otherwise than at school (EOTAS) for children with EHC plans closes 18 September.", "action": "Get any school or trust response in before the deadline."}
   ],
   "diary": [
-    {"date": "Now", "color": "coral", "text": "Statutory suspension & exclusion guidance in force (26 Jul 2026)."},
-    {"date": "1 Sep 2026", "color": "indigo", "text": "KCSIE 2026, Ofsted operating-guide changes and FSM expansion take effect."}
+    {"date": "18 Sep 2026", "color": "magenta", "text": "DfE EOTAS (education otherwise than at school) consultation closes."},
+    {"date": "18 Sep 2026", "color": "teal", "text": "Rotherham Schools Forum meets — agenda includes the exclusion & suspensions annual report and an EHCP update."}
   ],
   "sections": [
-    {"heading": "Policy & legislation", "color": "purple", "items": [
-      {"lede": "Statutory exclusion guidance in force.", "body": "Updated guidance for maintained schools, academies and PRUs — including pupil movement — took effect 26 July 2026.", "source": "GOV.UK", "url": "https://www.gov.uk/government/publications/school-suspensions-and-permanent-exclusions"}
+    {"heading": "Funding", "color": "amber", "items": [
+      {"lede": "Unions: schools £4.5bn worse off since 2010.", "body": "The Stop School Cuts coalition's report, launched this week, puts real-terms losses at £4.5bn over 16 years, with over 3,700 schools down more than £1,000 per pupil and 92% of secondaries worse off than in 2010.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/schools-lost-4-5-billion-to-real-terms-cuts-in-16-years-report-warns/", "action": "Treat the topline figures as a campaign framing rather than official statistics."}
     ]},
     {"heading": "Inclusion & SEND", "color": "magenta", "items": [
-      {"lede": "Inclusion-strategy duty approaching.", "body": "All schools must publish an inclusion strategy from December 2026 and report on inclusive mainstream funding.", "source": "Tes", "url": "https://www.tes.com/magazine", "action": "Your cohort data is the backbone of a credible strategy — see the tool spotlight below."}
+      {"lede": "EOTAS consultation deadline approaching.", "body": "The government's proposals on education otherwise than at school for pupils with EHC plans close for responses on 18 September, feeding into a planned Education for All Bill; existing EHCPs stay protected until 2030.", "source": "GOV.UK", "url": "https://www.gov.uk/government/consultations/send-reform-education-otherwise-than-at-school"}
     ]},
-    {"heading": "Safeguarding & wellbeing", "color": "teal", "items": [
-      {"lede": "KCSIE 2026 published.", "body": "In force 1 September: Annex A removed so all staff read Part 1, annual filtering/monitoring review required, plus new provisions on AI, cyber security and misogyny.", "source": "GOV.UK", "url": "https://www.gov.uk/government/publications/keeping-children-safe-in-education--2"}
+    {"heading": "Sheffield & South Yorkshire", "color": "teal", "items": [
+      {"lede": "Rotherham forum to review exclusions and EHCPs.", "body": "Rotherham's Schools Forum meets 18 September to consider its exclusion & suspensions annual report, an EHCP update and 2027/28 budget planning — a useful read-across given Sheffield's own high-needs budget pressures.", "source": "Rotherham MBC", "url": "https://moderngov.rotherham.gov.uk/documents/s157473/AGENDA%20ITEM%2010b%20-%20DRAFT%20Rotherham%20Schools%20Forum%20Forward%20Plan%202026-27.pdf"}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "2×", "text": "Pupils suspended even once are around twice as likely to be NEET by age 24.", "attribution": "EPI (2024), cited in IPPR & The Difference’s “Who’s Losing Learning?”"}
+  "box": {"type": "jargon", "label": "Jargon-buster - EOTAS", "intro": "Cropping up in this month's SEND consultation:", "text": "Education Otherwise Than at School — when a council arranges a child's EHC-plan provision somewhere other than a school or college, e.g. at home or via a mixed package of providers."}
 }
