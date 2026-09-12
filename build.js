@@ -68,7 +68,7 @@ children.push(new Table({width:{size:9360,type:WidthType.DXA},columnWidths:[1180
       new Paragraph({spacing:{after:0},children:[new TextRun({text:type==='weekly'?'CONNECT WEEKLY':'CONNECT DAILY',font:HEAD,bold:true,size:38,color:PURPLE,characterSpacing:20})]})]}),
     new TableCell({width:{size:3860,type:WidthType.DXA},borders:noBorders,verticalAlign:'center',children:[
       new Paragraph({alignment:AlignmentType.RIGHT,spacing:{after:60},children:[
-        new ImageRun({type:'jpg',data:logo,transformation:{width:108,height:50}})]}),
+        new ImageRun({type:'jpg',data:logo,transformation:{width:108,height:41}})]}),
       new Paragraph({alignment:AlignmentType.RIGHT,spacing:{after:0},children:[
         new TextRun({text:C.edition||'',font:BODY,size:16,bold:true,color:INDIGO}),
         new TextRun({text:(C.edition?'   \u00B7   ':'')+C.date,font:BODY,size:18,color:GREY,bold:true})]}),
