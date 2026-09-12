@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(node *)",
+      "Bash(npm *)",
+      "Bash(npx *)",
+      "Bash(bash setup.sh*)",
+      "Bash(bash make.sh*)",
+      "Bash(apt-get *)",
+      "Bash(sudo apt-get *)",
+      "Bash(soffice *)",
+      "Bash(libreoffice *)",
+      "Bash(gs *)",
+      "Bash(pdftoppm *)",
+      "Bash(mkdir *)",
+      "Bash(ls*)",
+      "Bash(git status*)",
+      "Bash(git log*)",
+      "Bash(git diff*)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push*)",
+      "Bash(git checkout*)",
+      "Bash(git branch*)",
+      "mcp__Gmail__send_message",
+      "mcp__Gmail__create_draft",
+      "mcp__Gmail__get_draft",
+      "mcp__Gmail__update_draft"
+    ]
+  }
+}
