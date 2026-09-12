@@ -1,24 +1,21 @@
 {
   "edition": "",
-  "date": "Friday 11 September 2026",
+  "date": "Saturday 12 September 2026",
   "topline": [
-    {"text": "The Stop School Cuts coalition (ASCL, NEU, NAHT) says schools have lost £4.5bn to real-terms funding cuts since 2010, with 92% of secondaries left worse off.", "action": "Union-commissioned figures, not independent stats — useful context if you're building a funding case, but cite with that caveat."},
-    {"text": "DfE's consultation on reforming education otherwise than at school (EOTAS) for children with EHC plans closes 18 September.", "action": "Get any school or trust response in before the deadline."}
+    {"text": "A new independent report, \"The Cost of Waiting,\" warns that prolonged delays in SEND provision increase safeguarding and welfare risk for vulnerable children, drawing on FOI responses from 16 local authorities.", "action": "Useful evidence if you're pressing a local authority on interim provision while a child awaits an EHCP or specialist placement."},
+    {"text": "DfE's fortnightly sector bulletin (DfE Update, 9 September) went out this week — worth a scan for any grant deadlines or data-collection asks relevant to your school.", "action": "Check the update for anything time-limited that affects your setting."}
   ],
   "diary": [
     {"date": "18 Sep 2026", "color": "magenta", "text": "DfE EOTAS (education otherwise than at school) consultation closes."},
     {"date": "18 Sep 2026", "color": "teal", "text": "Rotherham Schools Forum meets — agenda includes the exclusion & suspensions annual report and an EHCP update."}
   ],
   "sections": [
-    {"heading": "Funding", "color": "amber", "items": [
-      {"lede": "Unions: schools £4.5bn worse off since 2010.", "body": "The Stop School Cuts coalition's report, launched this week, puts real-terms losses at £4.5bn over 16 years, with over 3,700 schools down more than £1,000 per pupil and 92% of secondaries worse off than in 2010.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/schools-lost-4-5-billion-to-real-terms-cuts-in-16-years-report-warns/", "action": "Treat the topline figures as a campaign framing rather than official statistics."}
-    ]},
     {"heading": "Inclusion & SEND", "color": "magenta", "items": [
-      {"lede": "EOTAS consultation deadline approaching.", "body": "The government's proposals on education otherwise than at school for pupils with EHC plans close for responses on 18 September, feeding into a planned Education for All Bill; existing EHCPs stay protected until 2030.", "source": "GOV.UK", "url": "https://www.gov.uk/government/consultations/send-reform-education-otherwise-than-at-school"}
+      {"lede": "\"The Cost of Waiting\" — new report on SEND delays.", "body": "The report examines what happens when children with SEND can't access suitable education for prolonged periods, arguing schools should weigh the wider educational, emotional and safeguarding implications of reduced timetables or waits for specialist placement, and calls for more consistent recognition of urgency across local authorities.", "source": "Nasen", "url": "https://nasen.org.uk/news/new-report-highlights-risks-vulnerable-children-when-suitable-education-delayed", "action": "A citable source if you're escalating a case where interim provision has stalled."}
     ]},
-    {"heading": "Sheffield & South Yorkshire", "color": "teal", "items": [
-      {"lede": "Rotherham forum to review exclusions and EHCPs.", "body": "Rotherham's Schools Forum meets 18 September to consider its exclusion & suspensions annual report, an EHCP update and 2027/28 budget planning — a useful read-across given Sheffield's own high-needs budget pressures.", "source": "Rotherham MBC", "url": "https://moderngov.rotherham.gov.uk/documents/s157473/AGENDA%20ITEM%2010b%20-%20DRAFT%20Rotherham%20Schools%20Forum%20Forward%20Plan%202026-27.pdf"}
+    {"heading": "National policy & funding", "color": "amber", "items": [
+      {"lede": "DfE Update, 9 September 2026.", "body": "The department's regular fortnightly bulletin to schools and trusts was published this week; it typically covers grant deadlines, data-collection windows and operational guidance rather than headline policy.", "source": "GOV.UK", "url": "https://www.gov.uk/government/publications/dfe-update-9-september-2026"}
     ]}
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - EOTAS", "intro": "Cropping up in this month's SEND consultation:", "text": "Education Otherwise Than at School — when a council arranges a child's EHC-plan provision somewhere other than a school or college, e.g. at home or via a mixed package of providers."}
+  "box": {"type": "corridor", "quote": "It's a quiet weekend on the national wires — the next few days are a good moment to catch up on the EOTAS consultation before it closes 18 September.", "author": "Editor's note"}
 }
