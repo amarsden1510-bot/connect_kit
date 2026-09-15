@@ -1,21 +1,21 @@
 {
   "edition": "",
-  "date": "Saturday 12 September 2026",
+  "date": "Tuesday 15 September 2026",
   "topline": [
-    {"text": "A new independent report, \"The Cost of Waiting,\" warns that prolonged delays in SEND provision increase safeguarding and welfare risk for vulnerable children, drawing on FOI responses from 16 local authorities.", "action": "Useful evidence if you're pressing a local authority on interim provision while a child awaits an EHCP or specialist placement."},
-    {"text": "DfE's fortnightly sector bulletin (DfE Update, 9 September) went out this week — worth a scan for any grant deadlines or data-collection asks relevant to your school.", "action": "Check the update for anything time-limited that affects your setting."}
+    {"text": "DfE has published the biggest overhaul of school food standards in a generation — deep-fried food banned outright, high-sugar ‘grab and go’ items like sausage rolls and pizza capped, and a new national enforcement mechanism to check compliance.", "action": "Rollout isn't until September 2027, but worth an early flag to your catering team and any food-related PSHE planning."},
+    {"text": "Nine Sheffield schools and nurseries had new Ofsted reports published this week. Stocksbridge High School was marked down over ‘unacceptable’ attendance and disadvantaged pupils leaving without basic qualifications, while Bankwood Community fully recovered from a 2022 ‘inadequate’ rating.", "action": "Useful local benchmarking if you're comparing inclusion and attendance practice across nearby settings."}
   ],
   "diary": [
     {"date": "18 Sep 2026", "color": "magenta", "text": "DfE EOTAS (education otherwise than at school) consultation closes."},
     {"date": "18 Sep 2026", "color": "teal", "text": "Rotherham Schools Forum meets — agenda includes the exclusion & suspensions annual report and an EHCP update."}
   ],
   "sections": [
-    {"heading": "Inclusion & SEND", "color": "magenta", "items": [
-      {"lede": "\"The Cost of Waiting\" — new report on SEND delays.", "body": "The report examines what happens when children with SEND can't access suitable education for prolonged periods, arguing schools should weigh the wider educational, emotional and safeguarding implications of reduced timetables or waits for specialist placement, and calls for more consistent recognition of urgency across local authorities.", "source": "Nasen", "url": "https://nasen.org.uk/news/new-report-highlights-risks-vulnerable-children-when-suitable-education-delayed", "action": "A citable source if you're escalating a case where interim provision has stalled."}
-    ]},
     {"heading": "National policy & funding", "color": "amber", "items": [
-      {"lede": "DfE Update, 9 September 2026.", "body": "The department's regular fortnightly bulletin to schools and trusts was published this week; it typically covers grant deadlines, data-collection windows and operational guidance rather than headline policy.", "source": "GOV.UK", "url": "https://www.gov.uk/government/publications/dfe-update-9-september-2026"}
+      {"lede": "Government confirms new School Food Standards.", "body": "Following a consultation that closed in June, DfE has finalised reforms banning deep-fried food outright and capping high-sugar ‘grab and go’ options, with salad or vegetables required in every main meal. A new national enforcement mechanism will monitor compliance, though the standards themselves don't take effect until September 2027.", "source": "GOV.UK", "url": "https://www.gov.uk/government/news/healthier-school-dinners-as-government-delivers-major-reforms", "action": "Long lead-in time, but catering contracts and menu planning may be worth an early look."}
+    ]},
+    {"heading": "Sheffield & South Yorkshire", "color": "coral", "items": [
+      {"lede": "Latest Ofsted round-up for Sheffield schools and nurseries.", "body": "Nine local settings had reports published this week. Stocksbridge High School was criticised for ‘unacceptable’ attendance records and disadvantaged pupils often leaving without basic qualifications; Bankwood Community was praised for recovering fully from a 2022 ‘inadequate’ rating; Swallownest Primary also impressed inspectors.", "source": "The Star", "url": "https://www.thestar.co.uk/education/latest-ofsteds-sept-14-2026-9046964"}
     ]}
   ],
-  "box": {"type": "corridor", "quote": "It's a quiet weekend on the national wires — the next few days are a good moment to catch up on the EOTAS consultation before it closes 18 September.", "author": "Editor's note"}
+  "box": {"type": "datapoint", "big": "1 in 3", "text": "children leave primary school overweight or obese in England — one driver behind this week's school food standards overhaul.", "attribution": "DfE, 14 September 2026"}
 }
