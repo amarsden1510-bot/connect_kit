@@ -17,6 +17,6 @@ echo "2/2  Installing the docx library…"
 [ -f package.json ] || npm init -y >/dev/null 2>&1
 npm install docx >/dev/null 2>&1
 
-echo "Done. Note: PDF conversion needs LibreOffice installed (the 'soffice' command)."
+echo "Done. Note: PDF conversion needs LibreOffice Writer installed (the 'soffice' command with the writer component — 'libreoffice-core' alone fails to load .docx files)."
 echo "  macOS:  brew install --cask libreoffice"
-echo "  Ubuntu: sudo apt-get install libreoffice"
+echo "  Ubuntu: sudo apt-get install libreoffice-writer"
