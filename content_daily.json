@@ -1,23 +1,24 @@
 {
   "edition": "",
-  "date": "Thursday 17 September 2026",
+  "date": "Friday 18 September 2026",
   "topline": [
-    {"text": "The DfE has told the NEU that this year's 3.5% teacher pay rise will be fully funded after all, via roughly £500m freed up by lower local government pension contributions — potentially averting the strike ballot due to open on 3 October.", "action": "NEU's national executive meets on 24 September to decide whether to stand the ballot down."},
-    {"text": "Newfield Secondary's first Ofsted report since Mercia Learning Trust's 2025 takeover rated attendance/behaviour and inclusion at 'strong standard', a marked turnaround from last year's parent and pupil protests over curriculum cuts.", "action": "A useful local case study on inclusion recovering after a difficult MAT transition."}
+    {"text": "The DfE's twin SEND reform consultations — on education otherwise than at school (EOTAS) and a new 'local SEND inclusion formula' funding mainstream schools upfront — close at 11.59pm tonight.", "action": "Last call to get any outstanding MAPs school responses in before the deadline."},
+    {"text": "Sheffield City Council is bringing a new learning places strategy to committee, proposing extra specialist SEND places and a 'joined-up approach' to exclusions and alternative provision after a sustained rise in both.", "action": "Worth tracking as it moves through committee — directly touches AP and SEND placements for partner schools."}
   ],
   "diary": [
-    {"date": "18 Sep 2026", "color": "magenta", "text": "DfE's twin SEND/EOTAS reform consultations close tomorrow — last call to respond before proposals are firmed up."}
+    {"date": "18 Sep 2026", "color": "amber", "text": "DfE's twin SEND/EOTAS reform consultations close tonight at 11.59pm."},
+    {"date": "24 Sep 2026", "color": "grey", "text": "Deadline for academy trusts to submit their budget forecast return, per this week's DfE Update."}
   ],
   "sections": [
-    {"heading": "National policy & funding", "color": "amber", "items": [
-      {"lede": "Teachers' pay rise now fully funded, DfE confirms.", "body": "Education secretary Lucy Powell told the NEU that recent local government pension scheme revaluations free up roughly £500m for schools this year, meaning the pay award won't need to come out of existing budgets after all. The NEU's national executive meets on 24 September to decide whether to stand down its planned ballot.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/government-commits-to-fully-funding-teacher-pay-rise-neu-reports/", "action": "Worth holding off on any budget-planning adjustments until the 24 September decision is confirmed."}
-    ]},
-    {"heading": "Behaviour & attendance", "color": "indigo", "items": [
-      {"lede": "Suspension rates keep falling — but the disadvantage gap doesn't.", "body": "New FFT Education Datalab analysis of autumn term 2025/26 finds secondary suspension and exclusion rates still falling, extending last year's post-pandemic reversal, while primary years 1-4 saw a small rise. Disadvantaged pupils remain far more likely than their peers to be excluded or suspended. Figures are FFT's own analysis, flagged here as provisional pending the DfE's official autumn release.", "source": "FFT Education Datalab", "url": "https://ffteducationdatalab.org.uk/2026/09/exclusions-and-suspensions-in-2025-26/", "action": "Worth checking against your own autumn-term figures if disadvantage-gap language is going into this year's SEF."}
+    {"heading": "Inclusion, SEND & alternative provision", "color": "purple", "items": [
+      {"lede": "SEND/EOTAS consultations close today.", "body": "The DfE's linked consultations on reforming education otherwise than at school and on a new local SEND inclusion formula — which would front-load more SEND funding to mainstream schools rather than via top-ups — both close at 11.59pm tonight. Existing EHCPs stay protected until 2030; the government's response is expected in autumn.", "source": "GOV.UK", "url": "https://www.gov.uk/government/consultations/send-reform-education-otherwise-than-at-school", "action": "If any MAPs partner school hasn't responded, today is the last chance."}
     ]},
     {"heading": "Sheffield & South Yorkshire", "color": "teal", "items": [
-      {"lede": "Newfield's first Ofsted since the Mercia takeover: a turnaround story.", "body": "Inspectors called Newfield Secondary (Norton Lees) 'warm, caring, calm, orderly and respectful' in its first report since Mercia Learning Trust took over in 2025, rating attendance/behaviour and inclusion at 'strong standard' — a marked shift after last year's contentious takeover, which included a pupil walkout over proposed arts cuts.", "source": "The Star", "url": "https://www.thestar.co.uk/education/newfield-ofsted-sept-15-2026-9055324", "action": "A live example of inclusion recovering post-MAT-transition — useful if you're advising other schools going through the same."}
+      {"lede": "New learning places strategy aims to tackle SEND demand and exclusions together.", "body": "Councillors are considering a city-wide learning places strategy proposing extra specialist SEND places and a joined-up approach linking exclusions, alternative provision and SEND placement decisions — responding to a sustained rise in both exclusions and SEND demand. Children with SEND, from disadvantaged backgrounds and from ethnic minority communities remain over-represented in exclusion figures, the report notes.", "source": "Sheffield City Council", "url": "https://www.sheffield.gov.uk/news/2026/whats-coming-committee-next-week", "action": "Flag to partner schools once a committee date is confirmed — this is the strategy that will shape AP commissioning locally."}
+    ]},
+    {"heading": "National policy & funding", "color": "amber", "items": [
+      {"lede": "DfE pushes back two autumn deadlines.", "body": "This week's DfE Update moves the operational deadline for autumn-census free school meal eligibility checks from 1 October to 2 November, giving schools more time to implement the new Universal Credit-based FSM expansion, while academy trusts get until 24 September for budget forecast returns.", "source": "GOV.UK (DfE Update, 16 September 2026)", "url": "https://www.gov.uk/government/publications/dfe-update-16-september-2026", "action": "Useful breathing room if FSM re-checks are still in progress for MAPs schools."}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "3.8%", "text": "FFT Education Datalab's estimate of the combined suspension and exclusion rate in secondary schools, autumn term 2025/26 — down from 4.1% the year before.", "attribution": "FFT Education Datalab, 15 Sept 2026 (provisional)"}
+  "box": {"type": "jargon", "label": "Jargon-buster - EOTAS", "intro": "Cropping up a lot in today's SEND coverage:", "text": "Education Otherwise Than At School — provision for children who can't attend a mainstream or special school placement, e.g. home tuition, hospital education or approved online providers. Tonight's consultation proposes new statutory guidance for how councils commission and quality-assure it."}
 }
