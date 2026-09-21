@@ -1,23 +1,21 @@
 {
   "edition": "",
-  "date": "Thursday 17 September 2026",
+  "date": "Monday 21 September 2026",
   "topline": [
-    {"text": "The DfE has told the NEU that this year's 3.5% teacher pay rise will be fully funded after all, via roughly £500m freed up by lower local government pension contributions — potentially averting the strike ballot due to open on 3 October.", "action": "NEU's national executive meets on 24 September to decide whether to stand the ballot down."},
-    {"text": "Newfield Secondary's first Ofsted report since Mercia Learning Trust's 2025 takeover rated attendance/behaviour and inclusion at 'strong standard', a marked turnaround from last year's parent and pupil protests over curriculum cuts.", "action": "A useful local case study on inclusion recovering after a difficult MAT transition."}
+    {"text": "Sheffield's exclusion rate rose 32% in 2024-25 — averaging six pupils a week, with secondary exclusions now second-worst among the core cities — a report to the council's finance and performance policy committee shows.", "action": "Committee considers the report on Tuesday 22 September; worth watching what action it commits to."},
+    {"text": "DfE has opened a £22.5m Enrichment Expansion Programme for 400+ disadvantaged mainstream, special and alternative provision secondary schools, funding music, sport, debating and outdoor learning clubs.", "action": "Worth checking whether any MAPs schools are among the named beneficiaries."}
   ],
   "diary": [
-    {"date": "18 Sep 2026", "color": "magenta", "text": "DfE's twin SEND/EOTAS reform consultations close tomorrow — last call to respond before proposals are firmed up."}
+    {"date": "22 Sep 2026", "color": "teal", "text": "Sheffield's finance and performance policy committee considers the exclusions report — first test of what action follows the 32% rise."},
+    {"date": "24 Sep 2026", "color": "magenta", "text": "NEU's national executive meets to decide whether to stand down the strike ballot, after DfE confirmed this year's pay rise is fully funded."}
   ],
   "sections": [
-    {"heading": "National policy & funding", "color": "amber", "items": [
-      {"lede": "Teachers' pay rise now fully funded, DfE confirms.", "body": "Education secretary Lucy Powell told the NEU that recent local government pension scheme revaluations free up roughly £500m for schools this year, meaning the pay award won't need to come out of existing budgets after all. The NEU's national executive meets on 24 September to decide whether to stand down its planned ballot.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/government-commits-to-fully-funding-teacher-pay-rise-neu-reports/", "action": "Worth holding off on any budget-planning adjustments until the 24 September decision is confirmed."}
-    ]},
-    {"heading": "Behaviour & attendance", "color": "indigo", "items": [
-      {"lede": "Suspension rates keep falling — but the disadvantage gap doesn't.", "body": "New FFT Education Datalab analysis of autumn term 2025/26 finds secondary suspension and exclusion rates still falling, extending last year's post-pandemic reversal, while primary years 1-4 saw a small rise. Disadvantaged pupils remain far more likely than their peers to be excluded or suspended. Figures are FFT's own analysis, flagged here as provisional pending the DfE's official autumn release.", "source": "FFT Education Datalab", "url": "https://ffteducationdatalab.org.uk/2026/09/exclusions-and-suspensions-in-2025-26/", "action": "Worth checking against your own autumn-term figures if disadvantage-gap language is going into this year's SEF."}
-    ]},
     {"heading": "Sheffield & South Yorkshire", "color": "teal", "items": [
-      {"lede": "Newfield's first Ofsted since the Mercia takeover: a turnaround story.", "body": "Inspectors called Newfield Secondary (Norton Lees) 'warm, caring, calm, orderly and respectful' in its first report since Mercia Learning Trust took over in 2025, rating attendance/behaviour and inclusion at 'strong standard' — a marked shift after last year's contentious takeover, which included a pupil walkout over proposed arts cuts.", "source": "The Star", "url": "https://www.thestar.co.uk/education/newfield-ofsted-sept-15-2026-9055324", "action": "A live example of inclusion recovering post-MAT-transition — useful if you're advising other schools going through the same."}
+      {"lede": "Sheffield exclusions up 32% in a year — now second-worst among core cities.", "body": "A report going to Tuesday's finance and performance policy committee found secondary exclusions averaged six a week in 2024-25, with over a third linked to a single serious incident rather than persistent disruption. A small number of schools account for a disproportionate share, and the Sheffield Inclusion Centre — statutory alternative provision from day six — is nearing capacity. Cllr Douglas Johnson called the rise 'really alarming'. Figures are as reported ahead of the committee meeting; worth checking against the published papers once available.", "source": "The Star", "url": "https://www.thestar.co.uk/news/politics/council/action-promised-to-tackle-alarming-rise-in-sheffield-school-exclusions-5334445", "action": "Useful context if you're fielding questions about Inclusion Centre capacity or managed-move pressure this term."}
+    ]},
+    {"heading": "National policy & funding", "color": "amber", "items": [
+      {"lede": "£22.5m enrichment drive targets 400+ disadvantaged secondary schools.", "body": "The Enrichment Expansion Programme funds music, sport, debating, engineering clubs and outdoor learning in mainstream, special and AP schools serving disadvantaged communities, building on the DfE's Enrichment Framework published in June. From this term, Ofsted assesses enrichment provision under personal development and wellbeing.", "source": "GOV.UK / DfE", "url": "https://www.gov.uk/government/news/more-enriching-activities-for-hundreds-of-thousands-of-children", "action": "A lever worth flagging to schools still building out their enrichment offer."}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "3.8%", "text": "FFT Education Datalab's estimate of the combined suspension and exclusion rate in secondary schools, autumn term 2025/26 — down from 4.1% the year before.", "attribution": "FFT Education Datalab, 15 Sept 2026 (provisional)"}
+  "box": {"type": "datapoint", "big": "32%", "text": "Rise in Sheffield pupils excluded from school in 2024-25 — averaging six children a week — ahead of Tuesday's council committee report.", "attribution": "Sheffield City Council report, via The Star, Sept 2026 (provisional ahead of committee)"}
 }
