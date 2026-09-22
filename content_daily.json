@@ -1,21 +1,18 @@
 {
   "edition": "",
-  "date": "Monday 21 September 2026",
+  "date": "Tuesday 22 September 2026",
   "topline": [
-    {"text": "Sheffield's exclusion rate rose 32% in 2024-25 — averaging six pupils a week, with secondary exclusions now second-worst among the core cities — a report to the council's finance and performance policy committee shows.", "action": "Committee considers the report on Tuesday 22 September; worth watching what action it commits to."},
-    {"text": "DfE has opened a £22.5m Enrichment Expansion Programme for 400+ disadvantaged mainstream, special and alternative provision secondary schools, funding music, sport, debating and outdoor learning clubs.", "action": "Worth checking whether any MAPs schools are among the named beneficiaries."}
+    {"text": "Sheffield's finance and performance policy committee heard Monday that multi-academy trust chief executives have shown 'a real commitment' to reducing exclusions — but the council's own exclusions team is often only pulled in once a pupil has already been excluded, not before.", "action": "Worth checking whether early-intervention contact is reaching MAPs schools ahead of a managed move or exclusion, not just after."},
+    {"text": "A quieter day otherwise — nothing new broke overnight across DfE, Ofsted, SEND or national funding beyond what's already on your radar."}
   ],
   "diary": [
-    {"date": "22 Sep 2026", "color": "teal", "text": "Sheffield's finance and performance policy committee considers the exclusions report — first test of what action follows the 32% rise."},
-    {"date": "24 Sep 2026", "color": "magenta", "text": "NEU's national executive meets to decide whether to stand down the strike ballot, after DfE confirmed this year's pay rise is fully funded."}
+    {"date": "3 Oct 2026", "color": "indigo", "text": "NEU opens a formal strike ballot over teacher pay and school funding, covering 280,000+ teachers; closes 15 Dec, with action possible from early 2027 if it passes."},
+    {"date": "Autumn 2026", "color": "grey", "text": "DfE response due to its EOTAS/alternative-provision SEND reform consultation, which closed 18 September."}
   ],
   "sections": [
     {"heading": "Sheffield & South Yorkshire", "color": "teal", "items": [
-      {"lede": "Sheffield exclusions up 32% in a year — now second-worst among core cities.", "body": "A report going to Tuesday's finance and performance policy committee found secondary exclusions averaged six a week in 2024-25, with over a third linked to a single serious incident rather than persistent disruption. A small number of schools account for a disproportionate share, and the Sheffield Inclusion Centre — statutory alternative provision from day six — is nearing capacity. Cllr Douglas Johnson called the rise 'really alarming'. Figures are as reported ahead of the committee meeting; worth checking against the published papers once available.", "source": "The Star", "url": "https://www.thestar.co.uk/news/politics/council/action-promised-to-tackle-alarming-rise-in-sheffield-school-exclusions-5334445", "action": "Useful context if you're fielding questions about Inclusion Centre capacity or managed-move pressure this term."}
-    ]},
-    {"heading": "National policy & funding", "color": "amber", "items": [
-      {"lede": "£22.5m enrichment drive targets 400+ disadvantaged secondary schools.", "body": "The Enrichment Expansion Programme funds music, sport, debating, engineering clubs and outdoor learning in mainstream, special and AP schools serving disadvantaged communities, building on the DfE's Enrichment Framework published in June. From this term, Ofsted assesses enrichment provision under personal development and wellbeing.", "source": "GOV.UK / DfE", "url": "https://www.gov.uk/government/news/more-enriching-activities-for-hundreds-of-thousands-of-children", "action": "A lever worth flagging to schools still building out their enrichment offer."}
+      {"lede": "Council points to MAT engagement as the next step on rising exclusions.", "body": "Following Monday's committee report on the 32% rise in Sheffield exclusions, the council's strategic director for children's services said she had met multi-academy trust chief executives, who 'showed a real commitment' to keeping children in school. Cllr Douglas Johnson flagged that the council's exclusions team too often becomes involved only at the point of exclusion, rather than earlier when a placement is at risk.", "source": "The Star", "url": "https://www.thestar.co.uk/news/politics/council/action-promised-to-tackle-alarming-rise-in-sheffield-school-exclusions-5334445", "action": "Useful if you're approached about earlier support before a managed move or exclusion is finalised."}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "32%", "text": "Rise in Sheffield pupils excluded from school in 2024-25 — averaging six children a week — ahead of Tuesday's council committee report.", "attribution": "Sheffield City Council report, via The Star, Sept 2026 (provisional ahead of committee)"}
+  "box": {"type": "datapoint", "big": "280,000+", "text": "Teachers eligible to vote in the NEU's formal strike ballot over pay and school funding, opening 3 October and closing 15 December.", "attribution": "National Education Union, Sept 2026"}
 }
