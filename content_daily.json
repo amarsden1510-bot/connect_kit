@@ -1,26 +1,18 @@
 {
   "edition": "",
-  "date": "Wednesday 23 September 2026",
+  "date": "Thursday 24 September 2026",
   "topline": [
-    {"text": "Sheffield's finance committee approved extra funding for a new SEND facility at Stocksbridge Junior School — total budget now £823,000.", "action": "Worth logging alongside Monday's exclusions discussion."},
-    {"text": "NAHT is calling for graded Ofsted inspections to be halted, warning the framework poses 'a real and present danger' to leader wellbeing."},
-    {"text": "Schools Week disputes DfE's claim the 2026-27 teacher pay award is 'fully funded'; NEU's executive responds on 24 September."},
-    {"text": "A quieter day otherwise — nothing else new broke overnight across DfE, SEND or national funding beyond what's already on your radar."}
+    {"text": "NEU's national executive meets today to decide whether to press ahead with the 3 October strike ballot, after ministers offered around £500m in pension-savings funding towards the 2026-27 teacher pay award.", "action": "Worth watching for the outcome later today — it signals whether autumn disruption is likely."},
+    {"text": "A genuinely quiet 24-48 hours otherwise: nothing else new broke overnight across DfE, SEND, Ofsted, safeguarding or funding beyond what's already on your radar."}
   ],
   "diary": [
-    {"date": "24 Sep 2026", "color": "amber", "text": "NEU's national executive decides its formal response to the 2026-27 pay award, after Schools Week challenged DfE's 'fully funded' claim."},
-    {"date": "3 Oct 2026", "color": "indigo", "text": "NEU opens a formal strike ballot over teacher pay and school funding, covering 280,000+ teachers; closes 15 Dec."}
+    {"date": "24 Sep 2026", "color": "amber", "text": "NEU's national executive meets to decide its formal response to the government's pay/funding offer, including whether the 3 October ballot still proceeds."},
+    {"date": "3 Oct 2026", "color": "indigo", "text": "NEU's formal strike ballot opens (if not called off), covering 280,000+ teachers; closes 15 Dec."}
   ],
   "sections": [
-    {"heading": "Sheffield & South Yorkshire", "color": "teal", "items": [
-      {"lede": "Sheffield approves extra £758k for new SEND facility at Stocksbridge Junior School.", "body": "The finance and performance policy committee backed additional funding on Monday, taking the total to £823,000, for a Key Stage 2 Integrated Resource Provision for pupils with communication and interaction needs — citing rising local demand and families travelling long distances. Due to complete by May 2027; figures as reported ahead of published committee papers.", "source": "The Star", "url": "https://www.thestar.co.uk/news/school-education/ps800000-plan-for-special-needs-youngsters-in-sheffield-neighbourhood-stocksbridge-9092000", "action": "A local capacity signal worth logging alongside Monday's exclusions discussion."}
-    ]},
-    {"heading": "Ofsted & accountability", "color": "indigo", "items": [
-      {"lede": "NAHT calls for graded Ofsted inspections to be halted, citing risk to leader wellbeing.", "body": "A survey of 5,000+ school leaders found nearly three-quarters feel inspection has worsened over the past year, one year on from the report-card reforms. General secretary Paul Whiteman said the framework poses 'a real and present danger' to leaders' wellbeing; the union wants grades replaced with a short narrative report pending a review.", "source": "ITV News", "url": "https://www.itv.com/news/2026-09-21/union-urges-halt-to-graded-ofsted-inspections-amid-fears-they-pose-risk-to-life", "action": "Worth watching how this lands with leaders you support — inspection stress can ripple into inclusion decisions."}
-    ]},
-    {"heading": "National funding", "color": "amber", "items": [
-      {"lede": "Is the 'fully funded' teacher pay rise actually new money? Schools Week says no.", "body": "DfE says the 3.5% pay award is fully funded via ~£500m/year in pension savings, but Schools Week argues schools already budgeted for those lower rates from April — so there's no genuine new money, and the saving varies school to school.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/is-the-fully-funded-teacher-pay-award-just-an-illusion/", "action": "Useful if finance leads ask why 'fully funded' doesn't match their budget reality."}
+    {"heading": "National pay & funding", "color": "amber", "items": [
+      {"lede": "NEU executive meets today to decide on the strike ballot after a £500m pension-savings offer.", "body": "Education secretary Lucy Powell told NEU general secretary Daniel Kebede that schools can use savings from reduced employer pension contributions — around £500m nationally — to help fund the 2026-27 pay award, addressing the union's objection that it wasn't fully funded. The executive meets today to decide whether the 3 October ballot still goes ahead. Figure as widely reported; today's outcome wasn't confirmed at time of writing.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/government-commits-to-fully-funding-teacher-pay-rise-neu-reports/", "action": "Worth confirming with your finance lead once the executive's decision lands — it affects whether disruption is likely this term."}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "£823,000", "text": "Total budget approved by Sheffield's finance and performance policy committee for a new SEND Integrated Resource Provision at Stocksbridge Junior School, due to open by May 2027.", "attribution": "Sheffield City Council, via The Star, Sept 2026"}
+  "box": {"type": "datapoint", "big": "£500m", "text": "Extra funding ministers say schools can draw from pension-contribution savings to help fund the 2026-27 teacher pay award, addressing NEU's 'fully funded' objection.", "attribution": "Schools Week, Sept 2026"}
 }
