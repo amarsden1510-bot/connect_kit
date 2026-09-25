@@ -1,18 +1,16 @@
 {
   "edition": "",
-  "date": "Thursday 24 September 2026",
+  "date": "Friday 25 September 2026",
   "topline": [
-    {"text": "NEU's national executive meets today to decide whether to press ahead with the 3 October strike ballot, after ministers offered around £500m in pension-savings funding towards the 2026-27 teacher pay award.", "action": "Worth watching for the outcome later today — it signals whether autumn disruption is likely."},
-    {"text": "A genuinely quiet 24-48 hours otherwise: nothing else new broke overnight across DfE, SEND, Ofsted, safeguarding or funding beyond what's already on your radar."}
+    {"text": "NEU's national executive voted yesterday to call off the 3 October formal strike ballot, after education secretary Lucy Powell confirmed schools can keep — rather than have clawed back — savings from lower employer pension contributions to help fund the 2026-27 pay award.", "action": "Worth a short note to staff and governors confirming the strike threat has lifted for now, and flagging that the union still wants the wider pension saving to stay in education."},
+    {"text": "Otherwise a genuinely quiet 24-48 hours: nothing else new broke across SEND, Ofsted, safeguarding, exclusions or local funding beyond the pay/pension story."}
   ],
-  "diary": [
-    {"date": "24 Sep 2026", "color": "amber", "text": "NEU's national executive meets to decide its formal response to the government's pay/funding offer, including whether the 3 October ballot still proceeds."},
-    {"date": "3 Oct 2026", "color": "indigo", "text": "NEU's formal strike ballot opens (if not called off), covering 280,000+ teachers; closes 15 Dec."}
-  ],
+  "diary": [],
   "sections": [
     {"heading": "National pay & funding", "color": "amber", "items": [
-      {"lede": "NEU executive meets today to decide on the strike ballot after a £500m pension-savings offer.", "body": "Education secretary Lucy Powell told NEU general secretary Daniel Kebede that schools can use savings from reduced employer pension contributions — around £500m nationally — to help fund the 2026-27 pay award, addressing the union's objection that it wasn't fully funded. The executive meets today to decide whether the 3 October ballot still goes ahead. Figure as widely reported; today's outcome wasn't confirmed at time of writing.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/government-commits-to-fully-funding-teacher-pay-rise-neu-reports/", "action": "Worth confirming with your finance lead once the executive's decision lands — it affects whether disruption is likely this term."}
+      {"lede": "NEU calls off the 3 October ballot after the government's pension-savings offer.", "body": "The union's national executive met yesterday and voted not to proceed with the formal strike ballot, after Powell wrote to NEU general secretary Daniel Kebede confirming schools can retain local savings from lower employer pension contributions — rather than having them reclaimed centrally — to help meet the 2026-27 pay award. The union says this addresses its 'fully funded' objection, though it wants the full national pension saving, which it puts at £3.3bn, to stay in education too; that total figure is as reported by the union and not independently verified here.", "source": "Tes", "url": "https://www.tes.com/magazine/news/general/teacher-pay-award-be-funded-through-pension-savings", "action": "Strike risk this term has lifted — worth confirming with your finance lead once written DfE guidance on using the saving is published."},
+      {"lede": "The saving comes from a Local Government Pension Scheme revaluation.", "body": "A cut to employer contribution rates freed up roughly £500m across England's schools nationally; DfE says schools can keep it rather than have it clawed back by the Treasury. The pay ballot decision reached earlier this month did not extend to support staff.", "source": "LBC", "url": "https://www.lbc.co.uk/article/largest-education-union-pauses-ballot-on-strike-action-over-teacher-pay-5HjdhyH_2/"}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "£500m", "text": "Extra funding ministers say schools can draw from pension-contribution savings to help fund the 2026-27 teacher pay award, addressing NEU's 'fully funded' objection.", "attribution": "Schools Week, Sept 2026"}
+  "box": {"type": "jargon", "label": "Jargon-buster - pension 'clawback'", "intro": "Why yesterday's row was about accounting, not new cash.", "text": "When employer pension contribution rates fall, government normally reclaims ('claws back') the saving centrally. This time DfE let schools keep it — turning an accounting change into real money for pay bills."}
 }
