@@ -1,18 +1,18 @@
 {
   "edition": "",
-  "date": "Thursday 24 September 2026",
+  "date": "Monday 28 September 2026",
   "topline": [
-    {"text": "NEU's national executive meets today to decide whether to press ahead with the 3 October strike ballot, after ministers offered around £500m in pension-savings funding towards the 2026-27 teacher pay award.", "action": "Worth watching for the outcome later today — it signals whether autumn disruption is likely."},
-    {"text": "A genuinely quiet 24-48 hours otherwise: nothing else new broke overnight across DfE, SEND, Ofsted, safeguarding or funding beyond what's already on your radar."}
+    {"text": "A quiet start to the week — nothing new broke over the weekend across DfE, SEND, Ofsted, safeguarding or funding beyond what Friday's weekly issue already covered (the NEU ballot pause, the West Sussex DSG deficit, the closed SEND consultations).", "action": ""},
+    {"text": "The PE and sport premium digital expenditure return is due by 5pm this Wednesday, 30 September — flagged in Friday's issue, now just two days out.", "action": "Worth a quick check with whoever holds the PE premium budget that the return has actually gone in."}
   ],
   "diary": [
-    {"date": "24 Sep 2026", "color": "amber", "text": "NEU's national executive meets to decide its formal response to the government's pay/funding offer, including whether the 3 October ballot still proceeds."},
-    {"date": "3 Oct 2026", "color": "indigo", "text": "NEU's formal strike ballot opens (if not called off), covering 280,000+ teachers; closes 15 Dec."}
+    {"date": "30 Sep 2026", "color": "amber", "text": "5pm deadline for schools' PE and sport premium digital expenditure reporting return."},
+    {"date": "22 Oct 2026", "color": "indigo", "text": "NEU national executive reconvenes to decide whether and when to relaunch the paused strike ballot."}
   ],
   "sections": [
-    {"heading": "National pay & funding", "color": "amber", "items": [
-      {"lede": "NEU executive meets today to decide on the strike ballot after a £500m pension-savings offer.", "body": "Education secretary Lucy Powell told NEU general secretary Daniel Kebede that schools can use savings from reduced employer pension contributions — around £500m nationally — to help fund the 2026-27 pay award, addressing the union's objection that it wasn't fully funded. The executive meets today to decide whether the 3 October ballot still goes ahead. Figure as widely reported; today's outcome wasn't confirmed at time of writing.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/government-commits-to-fully-funding-teacher-pay-rise-neu-reports/", "action": "Worth confirming with your finance lead once the executive's decision lands — it affects whether disruption is likely this term."}
+    {"heading": "This week ahead", "color": "amber", "items": [
+      {"lede": "PE and sport premium return closes Wednesday.", "body": "This term's digital expenditure reporting return for the 2025/26 PE and sport premium — shorter than previous years' forms — must be submitted by 5pm on Wednesday. It's a routine compliance deadline rather than a policy change, but an easy one to let slip in a busy week.", "source": "GOV.UK (DfE Update, 23 September 2026)", "url": "https://www.gov.uk/government/publications/dfe-update-23-september-2026/dfe-update-local-authorities-23-september-2026", "action": "Confirm the return is in before Wednesday afternoon rather than after."}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "£500m", "text": "Extra funding ministers say schools can draw from pension-contribution savings to help fund the 2026-27 teacher pay award, addressing NEU's 'fully funded' objection.", "attribution": "Schools Week, Sept 2026"}
+  "box": {"type": "jargon", "label": "Jargon-buster - reduced timetable", "intro": "Coming up in Rotherham's still-unpublished Schools Forum papers, and a term worth having ready.", "text": "A 'reduced' or 'part-time' timetable is a temporary, formally agreed cut to a pupil's school hours — usually while additional SEND or behaviour support is arranged. It should never be used as an informal way to manage a difficult pupil out of full-time education, and DfE guidance expects it to be time-limited, reviewed regularly, and recorded with parental agreement."}
 }
