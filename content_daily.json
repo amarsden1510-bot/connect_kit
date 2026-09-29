@@ -1,18 +1,19 @@
 {
   "edition": "",
-  "date": "Monday 28 September 2026",
+  "date": "Tuesday 29 September 2026",
   "topline": [
-    {"text": "A quiet start to the week — nothing new broke over the weekend across DfE, SEND, Ofsted, safeguarding or funding beyond what Friday's weekly issue already covered (the NEU ballot pause, the West Sussex DSG deficit, the closed SEND consultations).", "action": ""},
-    {"text": "The PE and sport premium digital expenditure return is due by 5pm this Wednesday, 30 September — flagged in Friday's issue, now just two days out.", "action": "Worth a quick check with whoever holds the PE premium budget that the return has actually gone in."}
+    {"text": "Labour's conference in Liverpool (running to tomorrow) produced two lines with real classroom weight: new vocational GCSEs alongside the traditional set from 2029, and a demand that schools 'go further' than existing RSHE teaching to shift the wider culture on misogyny.", "action": ""},
+    {"text": "The OECD published its Education at a Glance 2026 report today, with this year's special focus on teacher shortages — previous editions have flagged England as having one of the OECD's worst teacher attrition rates.", "action": ""}
   ],
   "diary": [
-    {"date": "30 Sep 2026", "color": "amber", "text": "5pm deadline for schools' PE and sport premium digital expenditure reporting return."},
-    {"date": "22 Oct 2026", "color": "indigo", "text": "NEU national executive reconvenes to decide whether and when to relaunch the paused strike ballot."}
+    {"date": "30 Sep 2026", "color": "indigo", "text": "Labour's annual conference in Liverpool closes; the PE and sport premium digital expenditure return is also due by 5pm the same day."},
+    {"date": "22 Oct 2026", "color": "amber", "text": "NEU national executive reconvenes to decide whether and when to relaunch the paused strike ballot."}
   ],
   "sections": [
-    {"heading": "This week ahead", "color": "amber", "items": [
-      {"lede": "PE and sport premium return closes Wednesday.", "body": "This term's digital expenditure reporting return for the 2025/26 PE and sport premium — shorter than previous years' forms — must be submitted by 5pm on Wednesday. It's a routine compliance deadline rather than a policy change, but an easy one to let slip in a busy week.", "source": "GOV.UK (DfE Update, 23 September 2026)", "url": "https://www.gov.uk/government/publications/dfe-update-23-september-2026/dfe-update-local-authorities-23-september-2026", "action": "Confirm the return is in before Wednesday afternoon rather than after."}
+    {"heading": "Labour conference: two lines for schools", "color": "indigo", "items": [
+      {"lede": "New vocational GCSEs confirmed for 2029.", "body": "Education secretary Lucy Powell used her conference speech to confirm vocational GCSEs — covering subjects like construction, child development and business — sitting alongside traditional GCSEs from as early as September 2029. She rejected the 'dumbing down' charge, calling them 'very hard subjects' with real maths and problem-solving content.", "source": "LBC", "url": "https://www.lbc.co.uk/article/7cee8e8ba38b4bf384c69c1b3fd980bb-5HjdhwF_2/", "action": "Four years out, but worth a mention to your curriculum/options lead as a future pathway for pupils the current GCSE offer doesn't serve well."},
+      {"lede": "Schools told to 'go further' on misogyny.", "body": "Powell said schools must move beyond this year's RSHE strategy and embed healthy relationships 'into every part of school life, not just RSHE lessons', including teaching on deepfakes, image-based abuse and online harassment. Her line: 'We simply cannot just teach our way out of misogyny.'", "source": "Tes", "url": "https://www.tes.com/magazine/news/general/schools-must-teach-healthy-relationships-tackle-violence-against-girls-misogyny", "action": "Worth checking with your PSHE/RSHE lead that deepfakes and image-based abuse are explicitly covered, not folded into a generic online-safety unit."}
     ]}
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - reduced timetable", "intro": "Coming up in Rotherham's still-unpublished Schools Forum papers, and a term worth having ready.", "text": "A 'reduced' or 'part-time' timetable is a temporary, formally agreed cut to a pupil's school hours — usually while additional SEND or behaviour support is arranged. It should never be used as an informal way to manage a difficult pupil out of full-time education, and DfE guidance expects it to be time-limited, reviewed regularly, and recorded with parental agreement."}
+  "box": {"type": "datapoint", "big": "~10%", "text": "of England's teachers left the profession in the most recent year the OECD measured — over three times the rate in France or Ireland. That was last year's Education at a Glance; this year's edition, published today with a fresh focus on teacher shortages, will show whether the gap has moved. Figure unconfirmed for the 2026 edition at time of writing.", "attribution": "OECD, Education at a Glance (2025 data); 2026 edition published 29 September 2026"}
 }
