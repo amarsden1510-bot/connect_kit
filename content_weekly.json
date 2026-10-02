@@ -1,41 +1,164 @@
 {
-  "edition": "Issue 04",
-  "date": "week ending Friday 25 September 2026",
+  "edition": "Issue 05",
+  "date": "week ending Friday 2 October 2026",
   "topline": [
-    {"text": "The NEU's national executive stood down its planned strike ballot on 24 September after the DfE confirmed schools can keep the roughly £500m freed up by lower pension contributions to fund the 3.5% pay award, rather than having it clawed back centrally — resolving the cliffhanger flagged in last issue.", "action": "Stand down any strike-contingency planning, but keep the pension-savings underspend earmarked for the pay award rather than folding it into general reserves."},
-    {"text": "West Sussex County Council will still face a £147m Dedicated Schools Grant deficit even after a fresh £183m of government support — a stark local illustration of how far the national High Needs Stability Grant is from actually closing SEND funding gaps.", "action": "Worth raising with your own LA's finance team as a benchmark when they report on progress against their SEND reform plan."},
-    {"text": "Ofsted's latest published Sheffield report — for Wisewood Nursery & Primary — rated the school a 'strong standard' for inclusion, an early live example of inclusion now being inspected and graded as its own distinct area under the September 2026 framework.", "action": "Read the report if you want a concrete sense of what 'strong standard' inclusion practice looks like under the new grading structure."},
-    {"text": "Schools that haven't yet submitted their PE and sport premium digital expenditure return have until 5pm Wednesday 30 September, per this week's DfE Update — a shorter, simplified form than in previous years.", "action": "Check with whoever holds the PE premium budget that the return has actually gone in; the window is short."}
+    {
+      "text": "Education secretary Lucy Powell told Schools Week she's planning changes to Ofsted's inspection framework ‘within the next few months’, responding to an NAHT survey of over 5,000 leaders in which nearly three-quarters said inspection has become more stressful since the renewed report-card framework began.",
+      "action": "Nothing to change yet, but worth flagging to senior leaders that an accountability shift may be coming before next term."
+    },
+    {
+      "text": "The education secretary unveiled a new whole-school plan to tackle misogyny on 26 September, backed by a £150,000 RSHE expert advisory group and two programmes launched under the £16m Violence Against Women and Girls Prevention Programme, aimed partly at countering the influence of figures like Andrew Tate.",
+      "action": "Ask your RSHE lead whether they've seen the new practical guides — they're designed to be used, not just filed."
+    },
+    {
+      "text": "Closing Labour's party conference in Liverpool, Powell confirmed new vocational GCSEs will replace existing technical awards from 2029 — but NFER immediately warned that, on international evidence, uneven take-up could widen rather than narrow socio-economic gaps.",
+      "action": "No immediate action, but a useful line to have ready if parents or governors ask whether this is a genuine alternative route or a rebrand."
+    },
+    {
+      "text": "The DfE has shared draft 'reasonable adjustments' guidance for SEND pupils in mainstream schools with trust leaders, giving worked examples such as a supervised early-arrival window for a pupil whose sensory processing needs affect attendance.",
+      "action": "Worth getting in front of your SENDCo now, since these examples will likely shape what Ofsted treats as 'reasonable' once finalised."
+    }
   ],
   "diary": [
-    {"date": "30 Sep 2026", "color": "amber", "text": "Deadline for schools to submit their PE and sport premium digital expenditure reporting return."},
-    {"date": "2 Nov 2026", "color": "purple", "text": "Extended deadline for completing FSM autumn-census eligibility checks (carried over from last issue)."}
+    {
+      "date": "7 Oct 2026",
+      "color": "amber",
+      "text": "Rotherham's Overview and Scrutiny Management Board considers a review of school-gate parking safety and CCTV enforcement."
+    },
+    {
+      "date": "8 Oct 2026",
+      "color": "purple",
+      "text": "2026-27 pupil premium quarter 2 allocations due to be paid to academies."
+    },
+    {
+      "date": "11 Nov 2026",
+      "color": "indigo",
+      "text": "5pm deadline for Care to Learn and 16-19 Bursary Fund (defined vulnerable groups element) funding claim forms."
+    },
+    {
+      "date": "2 Nov 2026",
+      "color": "grey",
+      "text": "Extended deadline for completing FSM autumn-census eligibility checks (carried over from last issue)."
+    }
   ],
   "sections": [
-    {"heading": "National policy", "color": "purple", "items": [
-      {"lede": "A quieter week for top-down policy.", "body": "After last week's School Food Standards overhaul and the twin SEND consultations closing, no major new standalone DfE policy announcement landed this week — this issue's biggest national story is the pay/pension funding resolution, covered under Funding below."}
-    ]},
-    {"heading": "Funding", "color": "amber", "items": [
-      {"lede": "NEU stands down the strike ballot due to open 3 October.", "body": "The union's national executive met on 24 September and agreed to stand the ballot down after education secretary Lucy Powell confirmed schools can keep — rather than have clawed back centrally — the roughly £500m freed up by a fall in employer pension contributions, using it to fund the 3.5% pay award in full. General secretary Daniel Kebede called it a sign the government is 'willing to put its money where its mouth is', while warning the NEU expects further funding action to follow.", "source": "LBC", "url": "https://www.lbc.co.uk/article/largest-education-union-pauses-ballot-on-strike-action-over-teacher-pay-5HjdhyH_2/", "action": "Stand down any strike-day contingency planning, but keep the pension-savings underspend ring-fenced for the pay award pending the NEU's next move."},
-      {"lede": "PE and sport premium return due 30 September.", "body": "This week's DfE Update to local authorities reminds schools that the digital expenditure reporting return for the 2025/26 PE and sport premium — significantly shorter than previous years' — must be completed and submitted by 5pm on Wednesday 30 September.", "source": "GOV.UK (DfE Update, 23 September 2026)", "url": "https://www.gov.uk/government/publications/dfe-update-23-september-2026/dfe-update-local-authorities-23-september-2026", "action": "A quick check with your PE lead now avoids a last-minute scramble next Wednesday."},
-      {"lede": "£147m DSG deficit remains in West Sussex despite £183m top-up.", "body": "Even after receiving £183m in government support this year, West Sussex County Council still projects a £147m Dedicated Schools Grant deficit — a sobering reminder that the High Needs Stability Grant, which covers 90% of historic deficits for councils with an approved SEND reform plan, isn't designed to close ongoing in-year gaps. It's a useful read-across for any MAT or school watching its own LA's high-needs budget position.", "source": "Sussex Express", "url": "https://www.sussexexpress.co.uk/news/politics/council/west-sussex-county-council-still-faces-ps147m-schools-deficit-after-ps183m-government-funding-9128795", "action": "If your LA hasn't shared where it stands against its SEND reform plan and deficit trajectory, this is a reasonable moment to ask."}
-    ]},
-    {"heading": "Inclusion & SEND", "color": "magenta", "items": [
-      {"lede": "EOTAS and local SEND formula consultations now closed — response awaited.", "body": "Both twin consultations flagged in last issue — on oversight of education otherwise than at school, and on a local SEND inclusion formula letting councils raise the long-frozen £6,000 top-up threshold — closed on 18 September with no government response yet; one is expected in the coming weeks, with any changes taking effect from April 2027 at the earliest. In the meantime, councils' access to the separate High Needs Stability Grant (covering 90% of historic DSG deficits) remains conditional on a DfE-approved local SEND reform plan, tying this week's funding and inclusion stories together.", "source": "GOV.UK", "url": "https://www.gov.uk/government/consultations/upfront-funding-for-mainstream-schools-creating-a-local-send-inclusion-formula", "action": "No immediate action needed, but flag the April 2027 implementation date to whoever manages your SEND top-up funding conversations with the LA."}
-    ]},
-    {"heading": "Behaviour, exclusions & attendance", "color": "indigo", "items": [
-      {"lede": "Rotherham Schools Forum's exclusions and reduced-timetables papers still not public.", "body": "Friday 18 September's Rotherham Schools Forum agenda included the annual exclusion & suspensions report, a reduced-timetables annual report and an EHCP update, but the supporting papers hadn't been published on the council's site by this issue's deadline, so there are no fresh figures to report this week.", "source": "Rotherham MBC (Schools Forum forward plan)", "url": "https://moderngov.rotherham.gov.uk/documents/s157473/AGENDA%20ITEM%2010b%20-%20DRAFT%20Rotherham%20Schools%20Forum%20Forward%20Plan%202026-27.pdf", "action": "Worth asking your Schools Forum rep directly for the headline exclusion and reduced-timetable figures if you need them sooner."}
-    ]},
-    {"heading": "Ofsted & accountability", "color": "grey", "items": [
-      {"lede": "Inclusion's new status as a standalone graded area starts showing up in reports.", "body": "From this September, inspectors grade inclusion as its own distinct area rather than folding it into wider judgements — and Sheffield's Wisewood Nursery & Primary (see below) is an early local example of what a 'strong standard' inclusion grade actually looks like in practice, alongside expected-standard grades elsewhere in the same report."}
-    ]},
-    {"heading": "Safeguarding & wellbeing", "color": "teal", "items": [
-      {"lede": "Another quiet week — no new national announcement.", "body": "Schools remain in the early weeks of embedding KCSIE 2026's expanded duties (AI-generated content risks, the removal of the supervision exemption, mobile-phone-free defaults); nothing new landed nationally this week, so this is a reasonable moment to check those policy updates have actually been signed off rather than just diarised."}
-    ]},
-    {"heading": "Sheffield & South Yorkshire", "color": "coral", "items": [
-      {"lede": "Wisewood Nursery & Primary rated 'strong standard' for inclusion.", "body": "Ofsted's newly published report for the INOVA Multi-Academy Trust school — inspected in the summer, published this week — found a 'strong standard' in early years, inclusion, and personal development and wellbeing, and an 'expected standard' elsewhere, with safeguarding confirmed as met. Inspectors described 'a warm, family feel to the school'; head of school Claire Austin said the report recognises 'a school where every child is known, valued and given the support they need'.", "source": "The Star", "url": "https://www.thestar.co.uk/education/ofsted-praise-for-sheffield-school-and-nursery-9171208", "action": "A useful local benchmark if you're writing up your own inclusion strategy ahead of the 31 December publication deadline."},
-      {"lede": "Rotherham Schools Forum met, but outcomes aren't public yet.", "body": "See Behaviour, exclusions & attendance above — Friday's forum covered exclusions, reduced timetables and EHCPs, but papers weren't available by this issue's deadline."}
-    ]}
+    {
+      "heading": "National policy",
+      "color": "purple",
+      "items": [
+        {
+          "lede": "Powell unveils vocational GCSEs at Labour conference.",
+          "body": "Closing Labour's conference in Liverpool (27-30 September), education secretary Lucy Powell confirmed plans for new vocational GCSEs — covering subjects such as business management, child development and construction — to replace existing technical awards from 2029, sitting alongside A-levels, T-levels and the new V-levels in a reshaped 16-19 progression landscape. Powell framed it as ending ‘the snobbery towards technical education’, a message aimed as much at her own party as at schools.",
+          "source": "Schools Week (Labour conference live blog)",
+          "url": "https://schoolsweek.co.uk/labour-conference-2026-schools-week-live-blog/",
+          "action": "Nothing to action given the 2029 start date, but worth flagging to careers leads and Year 9 options teams as an early planning signal."
+        },
+        {
+          "lede": "NFER warns the new GCSEs could widen inequality if take-up is patchy.",
+          "body": "Responding within days of the conference announcement, NFER's Jude Hillary cautioned that international evidence shows earlier academic/vocational tracking tends to entrench rather than narrow socio-economic gaps, since subject choices at 14 often reflect prior attainment and family background as much as aptitude. The government insists it isn't formally splitting pupils into two tracks — but NFER's point is that uneven take-up could do exactly that in practice.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/new-gcses-risk-widening-inequalities-if-take-up-is-low-researchers-warn/",
+          "action": "A useful line to have ready if parents or governors ask whether the new qualifications are a genuine alternative route or a lower-status one by another name."
+        }
+      ]
+    },
+    {
+      "heading": "Funding",
+      "color": "amber",
+      "items": [
+        {
+          "lede": "Autumn school census opened Thursday 1 October.",
+          "body": "This year's return — which feeds directly into funding allocations including the National Funding Formula and growth funding calculations — opened on 1 October, after the DfE's final familiarisation window for checking data closed on 25 September. Local authority return deadlines vary, so don't assume the DfE's own later cut-off applies to your school.",
+          "source": "GOV.UK (DfE Update academies, 30 September 2026)",
+          "url": "https://www.gov.uk/government/publications/dfe-update-30-september-2026/dfe-update-academies-30-september-2026",
+          "action": "If this hasn't already gone through your usual data-checking process, chase whoever holds it today — errors here flow straight into next year's budget."
+        },
+        {
+          "lede": "Two further funding deadlines from this week's DfE Update.",
+          "body": "The same 30 September update confirmed the quarter 2 update to 2026-27 pupil premium allocations, with payment due to academies on Thursday 8 October, and opened funding claim forms for the Care to Learn and 16-19 Bursary Fund's defined vulnerable groups element, due by 5pm on Wednesday 11 November.",
+          "source": "GOV.UK (DfE Update academies, 30 September 2026)",
+          "url": "https://www.gov.uk/government/publications/dfe-update-30-september-2026/dfe-update-academies-30-september-2026",
+          "action": "Both dates are now in the diary below — diarise them locally too if either funding stream applies to your setting."
+        }
+      ]
+    },
+    {
+      "heading": "Inclusion & SEND",
+      "color": "magenta",
+      "items": [
+        {
+          "lede": "DfE tests draft guidance on 'reasonable' SEND adjustments for mainstream schools.",
+          "body": "As part of the wider SEND reform package, the DfE has shared draft examples with trust leaders of what counts as a reasonable — and unreasonable — adjustment for pupils with additional needs: for instance, a supervised early-arrival window and access to a low-stimulation space for a pupil whose sensory processing needs affect attendance. It's a practical companion to the Code of Practice revision promised in the schools white paper, and lands the same week Ofsted's own inclusion grading area (see below) continues to bed in, so expect the two to be read together by inspectors and schools alike.",
+          "source": "Tes",
+          "url": "https://www.tes.com/magazine/news/general/dfe-tests-expectations-for-schools-send-inclusion",
+          "action": "Worth getting in front of your SENDCo now — these examples will likely shape what Ofsted treats as 'reasonable' once finalised."
+        }
+      ]
+    },
+    {
+      "heading": "Behaviour, exclusions & attendance",
+      "color": "indigo",
+      "items": [
+        {
+          "lede": "A quiet week for English data — but Wales offers a stark illustration.",
+          "body": "Neath Port Talbot council fined 159 parents and took 48 to court over school absence in 2025/26, while 638 pupils were excluded — persistent disruptive behaviour the leading cause, and the exclusion rate among girls now nearly double its 2018/19 level. No comparable English national dataset landed this week, but the gendered shift mirrors a pattern researchers have also flagged in English figures.",
+          "source": "Swansea Bay News",
+          "url": "https://swanseabaynews.com/neath-port-talbot-council-fines-159-parents-and-takes-48-to-court-after-kids-skip-school",
+          "action": "If your own behaviour data shows a similar drift in who's being excluded, it's worth raising internally before it surfaces in an inspection."
+        }
+      ]
+    },
+    {
+      "heading": "Ofsted & accountability",
+      "color": "grey",
+      "items": [
+        {
+          "lede": "Powell signals Ofsted changes 'within the next few months'.",
+          "body": "Following NAHT's survey of over 5,000 leaders — nearly three-quarters of whom said inspection had got more stressful under the renewed framework, with the union demanding a pause on graded inspections over fears for leaders' health — Powell told Schools Week she's planning changes to make the accountability system 'more supportive and understanding'. NAHT's general secretary called a timeframe of 'months rather than weeks' a 'problem', so expect continued pressure before anything concrete lands.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/lucy-powell-planning-changes-to-ofsted-within-next-few-months/",
+          "action": "Not actionable yet, but worth watching — any framework change would affect how you prepare for inspection from next term."
+        }
+      ]
+    },
+    {
+      "heading": "Safeguarding & wellbeing",
+      "color": "teal",
+      "items": [
+        {
+          "lede": "Education secretary unveils whole-school plan to tackle misogyny.",
+          "body": "Announced 26 September, the plan gives schools practical guides, teacher training and parent-support resources to counter the influence of figures like Andrew Tate, backed by a new £150,000 RSHE expert advisory group and two programmes launched under the £16m Violence Against Women and Girls Prevention Programme. It follows Ofsted's own observation of a 'growing scourge' of classroom misogyny, linking this week's safeguarding announcement to the accountability conversation above.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/news/education-secretary-unveils-plan-for-schools-to-tackle-misogyny",
+          "action": "Check whether your RSHE lead has seen the new guides yet — they're designed to be used rather than filed."
+        }
+      ]
+    },
+    {
+      "heading": "Sheffield & South Yorkshire",
+      "color": "coral",
+      "items": [
+        {
+          "lede": "Rotherham reviews school-gate parking safety after dangerous-driving complaints.",
+          "body": "A scrutiny review — going to Rotherham's Overview and Scrutiny Management Board on 7 October — found just one council CCTV enforcement van currently covers more than 200 school access points, with parents reporting dangerous parking, blocked driveways and near-misses at drop-off and pick-up. Councillor Adam Tinsley, who chaired the review, is pushing for stronger enforcement action.",
+          "source": "Rotherham Advertiser",
+          "url": "https://rotherhamadvertiser.co.uk/news/politics/one-cctv-van-covers-200-plus-rotherham-school-entrances-as-safety-review-urges-action-9247379",
+          "action": "If this resonates, it's worth checking whether your own travel plan addresses drop-off congestion before a similar review lands locally."
+        },
+        {
+          "lede": "Five of Rotherham's 16 secondaries are oversubscribed on first choice.",
+          "body": "New analysis of government data shows five of Rotherham's 16 secondary schools received more first-choice applications than places available, with St Bernard's Catholic High School the most oversubscribed — 254 first-choice applications for 146 places. It's a reminder that place pressure isn't only a Sheffield city story; it sits alongside this week's autumn census (above) as another data point local authorities will be watching closely this term.",
+          "source": "Rotherham Advertiser",
+          "url": "https://www.rotherhamadvertiser.co.uk/news/people/surveys-finds-that-first-place-applications-for-many-high-schools-exceeds-supply-in-rotherham-9247297",
+          "action": "Useful context if parents raise oversubscription concerns with you ahead of secondary application season."
+        }
+      ]
+    }
   ],
-  "box": {"type": "datapoint", "label": "This week's number", "intro": "A stark illustration of the gap between SEND funding support and SEND funding need.", "text": "£147m — the Dedicated Schools Grant deficit West Sussex County Council still projects despite receiving £183m in government support this year. It's a reminder that even generous headline funding announcements often leave a substantial local shortfall behind."}
+  "box": {
+    "type": "jargon",
+    "label": "Jargon-buster — V-level",
+    "intro": "Comes up in this week's vocational GCSEs story (National policy, above).",
+    "text": "A new post-16 qualification sitting alongside A-levels and T-levels, aimed at 16-19 learners wanting a mix of classroom and applied vocational study. The new vocational GCSEs announced this week are pitched as the 14-16 on-ramp into this three-track system — so what you teach pre-16 will increasingly map onto one of the three routes."
+  }
 }
