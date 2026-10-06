@@ -1,23 +1,29 @@
 {
   "edition": "",
-  "date": "Friday 2 October 2026",
+  "date": "Tuesday 6 October 2026",
   "topline": [
-    {"text": "A quieter 24-48 hours nationally. The standout story: DfE's first 'Growing Up in the 2020s' survey, published yesterday, finds most Year 8 pupils positive about school and home life, but pupils receiving SEN support are notably less likely to feel they belong at school than their peers (54% v 66%).", "action": ""},
-    {"text": "Locally: High Storrs School in Sheffield wrote to families on Wednesday after police received reports of a man approaching young people near Chelsea Park/Nether Edge on recent evenings.", "action": "Worth cascading the same personal-safety reminder if any of your pupils travel through that part of the city."}
+    {"text": "The story of the day: a new NASUWT survey finds 74% of teachers say poor pupil behaviour hurt their health and wellbeing last year, up from 62% in 2022.", "action": ""},
+    {"text": "DfE launched a £22.5m Enrichment Expansion programme yesterday for 400+ disadvantaged schools, funding clubs, sport and volunteering from January 2027 - Sheffield secondaries are among those included.", "action": "Worth flagging to pastoral/enrichment leads now, ahead of January."}
   ],
   "diary": [
-    {"date": "7 Oct 2026", "color": "amber", "text": "Barnsley Council cabinet meets to approve the revised £7.37m budget for the Worsbrough Bridge specialist SEND primary school."},
+    {"date": "7 Oct 2026", "color": "indigo", "text": "National Alternative Provision Conference examines SEND reform and inclusion-first accountability."},
     {"date": "8 Oct 2026", "color": "grey", "text": "DfE pupil premium quarter 2 payments for 2026/27 made to academies."},
-    {"date": "16 Oct 2026", "color": "indigo", "text": "Midday deadline for Sheffield secondary school applications for September 2027 entry."},
+    {"date": "16 Oct 2026", "color": "amber", "text": "Midday deadline for Sheffield secondary school applications for September 2027 entry (national deadline 31 Oct)."},
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."}
   ],
   "sections": [
-    {"heading": "National: a belonging gap for pupils with SEN support", "color": "indigo", "items": [
-      {"lede": "First wave of DfE's 'Growing Up in the 2020s' study published.", "body": "The new nationally representative study of almost 8,000 Year 8 pupils - commissioned by DfE and run by Anna Freud, UCL and Ipsos - finds strong overall wellbeing (94% satisfied with life; 95-98% positive about friends and family), though a quarter show symptoms of mental ill-health. On school belonging, 63% overall agreed they felt they belonged, falling to 54% among pupils receiving SEN support (v 66% of peers) and 57% among girls (v 69% of boys).", "source": "GOV.UK / DfE, Anna Freud, UCL, Ipsos", "url": "https://www.gov.uk/government/publications/growing-up-in-the-2020s-first-survey-of-young-people-at-age-12-and-13", "action": "A useful evidence point for inclusion and pastoral teams making the case for targeted belonging work with SEN pupils and girls."}
+    {"heading": "National: poor behaviour 'corroding' teacher health, union warns", "color": "coral", "items": [
+      {"lede": "NASUWT survey links severe pupil behaviour to worse teacher health.", "body": "Among teachers facing severe incidents, 70% reported headaches/migraines (v 61% of others) and a fifth said they'd been pushed or shoved by a pupil; only a third felt their employer dealt with incidents effectively.", "source": "Schools Week / NASUWT", "url": "https://schoolsweek.co.uk/teachers-dealing-with-poor-behaviour-have-worse-health-warns-union/", "action": "Worth checking your incident-reporting and staff-support routes are actually being used."}
     ]},
-    {"heading": "Sheffield: safety alert near Chelsea Park/Nether Edge", "color": "coral", "items": [
-      {"lede": "High Storrs School wrote to parents after reports of a man approaching pupils.", "body": "The Bents Green secondary told families on Wednesday that South Yorkshire Police had received reports of an adult male approaching and trying to engage young people in conversation near Chelsea Park on recent evenings. The school asked families to go through personal safety advice for journeys to and from school.", "source": "The Star", "url": "https://www.thestar.co.uk/education/high-storrs-letter-home-oct-1-2026-9245175", "action": ""}
+    {"heading": "National: enrichment funding reaches disadvantaged schools, Sheffield included", "color": "teal", "items": [
+      {"lede": "£22.5m programme pairs 400+ schools with Enrichment Co-ordinators.", "body": "Delivered by the Youth Sport Trust, the scheme funds school clusters in deprived areas - including Sheffield sites - to map gaps in clubs, music, sport and volunteering, with support starting January 2027.", "source": "GOV.UK / DfE", "url": "https://www.gov.uk/government/news/more-enriching-activities-for-hundreds-of-thousands-of-children", "action": ""}
+    ]},
+    {"heading": "SEND: private special schools opt out of admissions duty", "color": "indigo", "items": [
+      {"lede": "Schools Week investigation finds independent special schools dropping off the Section 41 register.", "body": "Section 41 status normally obliges a school to admit any pupil named in their EHCP; some private providers are opting out to control their own capacity as the SEND places crisis and EHCP requests keep rising nationally.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/private-special-schools-take-control-of-their-admissions/", "action": "Worth checking a setting's current Section 41 status before naming it in any MAPs pupil's EHCP."}
+    ]},
+    {"heading": "South Yorkshire: house fire delays Rotherham primary's start", "color": "grey", "items": [
+      {"lede": "Trinity Croft CofE Primary's school day was pushed back after a blaze shut the road.", "body": "South Yorkshire Fire and Rescue sent six engines to a house fire on Dalton Lane, Rotherham, on Monday morning; the school delayed its start to 10.30am while the road was closed and smoke cleared.", "source": "The Star", "url": "https://www.thestar.co.uk/news/emergency-incident/avoid-the-area-warning-as-south-yorkshire-road-closed-by-fire-9266396", "action": ""}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "54% v 66%", "text": "Year 8 pupils receiving SEN support who said they felt a sense of belonging at school, against their peers without SEN support.", "attribution": "DfE / Anna Freud, UCL, Ipsos - 'Growing Up in the 2020s', published 1 Oct 2026"}
+  "box": {"type": "jargon", "label": "Jargon-buster - Section 41 register", "intro": "Came up in today's SEND story:", "text": "The DfE list of independent special schools approved to admit pupils on request. Being listed means a school must take a pupil if they're named in their EHCP, like a maintained school would; providers can choose to come off the list to control their own admissions."}
 }
