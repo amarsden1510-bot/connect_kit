@@ -1,9 +1,9 @@
 {
   "edition": "",
-  "date": "Tuesday 6 October 2026",
+  "date": "Wednesday 7 October 2026",
   "topline": [
-    {"text": "The story of the day: a new NASUWT survey finds 74% of teachers say poor pupil behaviour hurt their health and wellbeing last year, up from 62% in 2022.", "action": ""},
-    {"text": "DfE launched a £22.5m Enrichment Expansion programme yesterday for 400+ disadvantaged schools, funding clubs, sport and volunteering from January 2027 - Sheffield secondaries are among those included.", "action": "Worth flagging to pastoral/enrichment leads now, ahead of January."}
+    {"text": "The story of the day: a Guardian analysis of police FOI data (33 of England and Wales' 43 forces) finds at least 8,500 recorded sexual offences against under-13s on or near school premises between 2021-25 - nearly five a day, including close to 2,000 rapes or attempted rapes.", "action": "Worth revisiting how confidently pupils know how - and to whom - to report concerns, and whether records distinguish peer-on-peer incidents clearly enough to spot patterns."},
+    {"text": "A quieter day otherwise for national DfE announcements - today's main fixture is the National Alternative Provision Conference on SEND reform and inclusion-first accountability (see diary).", "action": ""}
   ],
   "diary": [
     {"date": "7 Oct 2026", "color": "indigo", "text": "National Alternative Provision Conference examines SEND reform and inclusion-first accountability."},
@@ -12,18 +12,12 @@
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."}
   ],
   "sections": [
-    {"heading": "National: poor behaviour 'corroding' teacher health, union warns", "color": "coral", "items": [
-      {"lede": "NASUWT survey links severe pupil behaviour to worse teacher health.", "body": "Among teachers facing severe incidents, 70% reported headaches/migraines (v 61% of others) and a fifth said they'd been pushed or shoved by a pupil; only a third felt their employer dealt with incidents effectively.", "source": "Schools Week / NASUWT", "url": "https://schoolsweek.co.uk/teachers-dealing-with-poor-behaviour-have-worse-health-warns-union/", "action": "Worth checking your incident-reporting and staff-support routes are actually being used."}
+    {"heading": "National: near-daily sexual offences recorded in or near schools, Guardian analysis finds", "color": "magenta", "items": [
+      {"lede": "FOI data from two-thirds of forces shows thousands of recorded offences against under-13s.", "body": "At least 8,500 sexual offences against under-13s were recorded on or near school premises in England and Wales between 2021 and 2025 - nearly five a day - including close to 2,000 rapes or attempted rapes; about two-thirds of under-13 victims were girls, and most identified alleged offenders were themselves children. Only 33 of 43 forces supplied data, so the true total is almost certainly higher.", "source": "The Guardian", "url": "https://www.document.news/2026/10/05/england-and-wales-nearly-five-sexual-offences-a-day-against-schoolchildren-under-the-age-of-13", "action": "Worth checking harmful sexual behaviour training and reporting routes are current, especially for younger pupils and SEND pupils who may be less able to flag concerns."}
     ]},
-    {"heading": "National: enrichment funding reaches disadvantaged schools, Sheffield included", "color": "teal", "items": [
-      {"lede": "£22.5m programme pairs 400+ schools with Enrichment Co-ordinators.", "body": "Delivered by the Youth Sport Trust, the scheme funds school clusters in deprived areas - including Sheffield sites - to map gaps in clubs, music, sport and volunteering, with support starting January 2027.", "source": "GOV.UK / DfE", "url": "https://www.gov.uk/government/news/more-enriching-activities-for-hundreds-of-thousands-of-children", "action": ""}
-    ]},
-    {"heading": "SEND: private special schools opt out of admissions duty", "color": "indigo", "items": [
-      {"lede": "Schools Week investigation finds independent special schools dropping off the Section 41 register.", "body": "Section 41 status normally obliges a school to admit any pupil named in their EHCP; some private providers are opting out to control their own capacity as the SEND places crisis and EHCP requests keep rising nationally.", "source": "Schools Week", "url": "https://schoolsweek.co.uk/private-special-schools-take-control-of-their-admissions/", "action": "Worth checking a setting's current Section 41 status before naming it in any MAPs pupil's EHCP."}
-    ]},
-    {"heading": "South Yorkshire: house fire delays Rotherham primary's start", "color": "grey", "items": [
-      {"lede": "Trinity Croft CofE Primary's school day was pushed back after a blaze shut the road.", "body": "South Yorkshire Fire and Rescue sent six engines to a house fire on Dalton Lane, Rotherham, on Monday morning; the school delayed its start to 10.30am while the road was closed and smoke cleared.", "source": "The Star", "url": "https://www.thestar.co.uk/news/emergency-incident/avoid-the-area-warning-as-south-yorkshire-road-closed-by-fire-9266396", "action": ""}
+    {"heading": "Sheffield: GCSE table lands ahead of Y7 admissions deadline", "color": "teal", "items": [
+      {"lede": "A round-up of Sheffield secondaries' GCSE grades arrives as the local application deadline nears.", "body": "The Star's look at Sheffield secondary schools' GCSE performance lands with the city's non-selective deadline to apply for September 2027 Year 7 places approaching on 16 October (national deadline 31 October) - useful context for parents weighing options this half term.", "source": "The Star", "url": "https://www.thestar.co.uk/education/best-schools-deadline-sept-25-2026-9179983", "action": "Pastoral and admissions leads may want it on hand for parent queries before half term."}
     ]}
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - Section 41 register", "intro": "Came up in today's SEND story:", "text": "The DfE list of independent special schools approved to admit pupils on request. Being listed means a school must take a pupil if they're named in their EHCP, like a maintained school would; providers can choose to come off the list to control their own admissions."}
+  "box": {"type": "datapoint", "big": "8,500+", "text": "recorded sexual offences against under-13s in or near schools in England & Wales, 2021-25 - from just 33 of 43 police forces, so the true toll is almost certainly higher.", "attribution": "The Guardian FOI analysis, Oct 2026"}
 }
