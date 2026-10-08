@@ -1,23 +1,27 @@
 {
   "edition": "",
-  "date": "Wednesday 7 October 2026",
+  "date": "Thursday 8 October 2026",
   "topline": [
-    {"text": "The story of the day: a Guardian analysis of police FOI data (33 of England and Wales' 43 forces) finds at least 8,500 recorded sexual offences against under-13s on or near school premises between 2021-25 - nearly five a day, including close to 2,000 rapes or attempted rapes.", "action": "Worth revisiting how confidently pupils know how - and to whom - to report concerns, and whether records distinguish peer-on-peer incidents clearly enough to spot patterns."},
-    {"text": "A quieter day otherwise for national DfE announcements - today's main fixture is the National Alternative Provision Conference on SEND reform and inclusion-first accountability (see diary).", "action": ""}
+    {"text": "A quiet day nationally - no big new policy or inspection story breaking in the last 24-48 hours. Today's actual developments are operational rather than headline-grabbing.", "action": ""},
+    {"text": "DfE's latest update (published yesterday) revises free school meals guidance for no-recourse-to-public-funds families, publishes fresh high-needs pupil census data, and opens the 2027/28 high-needs place-change process for local authorities.", "action": "Worth flagging to FSM/pastoral leads now the autumn census recheck deadline has moved to 2 November."},
+    {"text": "Locally: two Doncaster Catholic primaries' applications to convert to academy status and join St Francis Catholic MAT are among DfE's Yorkshire & Humber decisions due this month.", "action": ""}
   ],
   "diary": [
-    {"date": "7 Oct 2026", "color": "indigo", "text": "National Alternative Provision Conference examines SEND reform and inclusion-first accountability."},
-    {"date": "8 Oct 2026", "color": "grey", "text": "DfE pupil premium quarter 2 payments for 2026/27 made to academies."},
+    {"date": "8 Oct 2026", "color": "grey", "text": "DfE pupil premium quarter 2 payments for 2026/27 made to academies open at 1 April 2026."},
     {"date": "16 Oct 2026", "color": "amber", "text": "Midday deadline for Sheffield secondary school applications for September 2027 entry (national deadline 31 Oct)."},
-    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."}
+    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
+    {"date": "2 Nov 2026", "color": "indigo", "text": "Extended deadline for schools to complete autumn census free school meals eligibility rechecks."}
   ],
   "sections": [
-    {"heading": "National: near-daily sexual offences recorded in or near schools, Guardian analysis finds", "color": "magenta", "items": [
-      {"lede": "FOI data from two-thirds of forces shows thousands of recorded offences against under-13s.", "body": "At least 8,500 sexual offences against under-13s were recorded on or near school premises in England and Wales between 2021 and 2025 - nearly five a day - including close to 2,000 rapes or attempted rapes; about two-thirds of under-13 victims were girls, and most identified alleged offenders were themselves children. Only 33 of 43 forces supplied data, so the true total is almost certainly higher.", "source": "The Guardian", "url": "https://www.document.news/2026/10/05/england-and-wales-nearly-five-sexual-offences-a-day-against-schoolchildren-under-the-age-of-13", "action": "Worth checking harmful sexual behaviour training and reporting routes are current, especially for younger pupils and SEND pupils who may be less able to flag concerns."}
+    {"heading": "National: DfE's October update revises FSM/NRPF guidance, publishes new high-needs data", "color": "indigo", "items": [
+      {"lede": "Yesterday's DfE Update for academies revises how schools check free school meal eligibility for families with no recourse to public funds, and publishes fresh high-needs figures.", "body": "The 7 October update sets out revised guidance on free school meals for children in families with no recourse to public funds, publishes spring 2026 census figures for high-needs pupils in special schools and free schools, and opens the 2027/28 high-needs place-change process for local authorities. It also confirms the autumn census FSM eligibility recheck deadline has moved from 1 October to 2 November.", "source": "GOV.UK - DfE Update (academies), 7 October 2026", "url": "https://www.gov.uk/government/publications/dfe-update-7-october-2026/dfe-update-academies-7-october-2026", "action": "Worth flagging to your FSM/pastoral team given the moved deadline, and feeding into any high-needs place-planning conversations with the LA."}
     ]},
-    {"heading": "Sheffield: GCSE table lands ahead of Y7 admissions deadline", "color": "teal", "items": [
-      {"lede": "A round-up of Sheffield secondaries' GCSE grades arrives as the local application deadline nears.", "body": "The Star's look at Sheffield secondary schools' GCSE performance lands with the city's non-selective deadline to apply for September 2027 Year 7 places approaching on 16 October (national deadline 31 October) - useful context for parents weighing options this half term.", "source": "The Star", "url": "https://www.thestar.co.uk/education/best-schools-deadline-sept-25-2026-9179983", "action": "Pastoral and admissions leads may want it on hand for parent queries before half term."}
+    {"heading": "Funding: pupil premium quarter 2 lands with academies today", "color": "amber", "items": [
+      {"lede": "Academies open at 1 April 2026 are paid today's quarter 2 instalment of 2026/27 pupil premium funding.", "body": "Trusts can now download their quarter 2 allocation statements via DfE Sign-in; the next instalment, for academies open at 1 September 2026, follows on 11 January 2027. Maintained schools were paid on 30 September.", "source": "GOV.UK - Pupil premium: conditions of grant 2026 to 2027", "url": "https://www.gov.uk/government/publications/pupil-premium-allocations-and-conditions-of-grant-2026-to-2027/pupil-premium-conditions-of-grant-for-the-2026-to-2027-financial-year", "action": ""}
+    ]},
+    {"heading": "South Yorkshire: Doncaster Catholic primaries seek academy conversion", "color": "teal", "items": [
+      {"lede": "DfE's Yorkshire & Humber office lists two Doncaster Catholic primaries among this month's academy conversion decisions.", "body": "St Joseph and St Teresa's Catholic Primary School, and Our Lady of Perpetual Help Catholic Primary School, have applied to convert to academy status and join St Francis Catholic Multi Academy Trust, with a decision due this month.", "source": "GOV.UK - Regions Group school decisions: Yorkshire and the Humber", "url": "https://www.gov.uk/government/publications/regions-group-school-decisions-yorkshire-and-the-humber/decisions-to-be-taken-october-2026", "action": ""}
     ]}
   ],
-  "box": {"type": "datapoint", "big": "8,500+", "text": "recorded sexual offences against under-13s in or near schools in England & Wales, 2021-25 - from just 33 of 43 police forces, so the true toll is almost certainly higher.", "attribution": "The Guardian FOI analysis, Oct 2026"}
+  "box": {"type": "jargon", "label": "Jargon-buster - NRPF", "intro": "Cropping up in this week's DfE update:", "text": "No Recourse to Public Funds - families, often with insecure immigration status, who can't claim most mainstream benefits. They have a separate route into free school meals with its own income thresholds, which DfE revised this week."}
 }
