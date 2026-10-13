@@ -1,20 +1,15 @@
 {
   "edition": "",
-  "date": "Monday 12 October 2026",
+  "date": "Tuesday 13 October 2026",
   "topline": [
-    {"text": "A quiet two days since Thursday's briefing - no major new policy, inspection or funding story broke over the weekend.", "action": ""},
-    {"text": "The one genuine development: Ofsted published interim findings from an independent evaluation of its own new-look inspection framework on Friday, broadly positive but flagging workload as still unresolved.", "action": ""},
-    {"text": "Nothing new locally in Sheffield or South Yorkshire in the last 48 hours - today's diary items below are the main things on leaders' radar this fortnight.", "action": ""}
+    {"text": "A genuinely quiet 24-48 hours - no major new national policy, Ofsted, funding or safeguarding story broke overnight or over yesterday.", "action": ""},
+    {"text": "Nothing new locally in Sheffield or South Yorkshire either, so today's briefing is short rather than padded out - the diary below covers what's actually on leaders' radar this fortnight.", "action": ""}
   ],
   "diary": [
     {"date": "16 Oct 2026", "color": "amber", "text": "Midday deadline for Sheffield secondary school applications for September 2027 entry (national deadline 31 Oct)."},
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
     {"date": "2 Nov 2026", "color": "indigo", "text": "Extended deadline for schools to complete autumn census free school meals eligibility rechecks."}
   ],
-  "sections": [
-    {"heading": "Ofsted & accountability: interim evaluation finds inspections landing better, but workload still a worry", "color": "indigo", "items": [
-      {"lede": "Friday's independently-commissioned interim evaluation of Ofsted's renewed inspection framework found most inspected providers rate the experience positively so far.", "body": "IFF Research's interim findings, covering the first four survey waves since the new framework and report cards launched, found 88% of inspected providers agreed their inspection was conducted respectfully, 76% collaboratively and 78% empathetically, and 81% said their report card accurately described what it's like to be a pupil or learner there. Workload and wellbeing remain flagged as ongoing pressures, though most respondents said inspectors took steps to reduce stress on the day.", "source": "GOV.UK - Independent research finds Ofsted's new-look inspections are more collaborative and respectful, 9 October 2026", "url": "https://www.gov.uk/government/news/independent-research-finds-ofsteds-new-look-inspections-are-more-collaborative-and-respectful", "action": "Useful to share with staff anxious about inspection day - the evidence suggests the new approach is landing better than the old single-word judgements, even if workload concerns haven't gone away."}
-    ]}
-  ],
-  "box": {"type": "datapoint", "big": "88%", "text": "of providers said their Ofsted inspection under the new framework was conducted respectfully - though workload pressure remains a live concern.", "attribution": "IFF Research for Ofsted, interim findings published 9 October 2026"}
+  "sections": [],
+  "box": {"type": "jargon", "label": "Jargon-buster - the Inclusion judgement", "intro": "Since Ofsted's report-card framework began (from inspections on or after 10 November 2025), schools are graded across six core areas rather than one overall word.", "text": "Inclusion is the new standalone area - covering how well a school supports disadvantaged pupils, those with SEND, and those known to children's social care. It's graded on the same five-point scale as the others (Exceptional, Strong standard, Expected standard, Needs attention, Urgent improvement). Safeguarding sits apart from that scale, judged simply as met or not met."}
 }
