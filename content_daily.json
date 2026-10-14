@@ -1,15 +1,83 @@
 {
   "edition": "",
-  "date": "Tuesday 13 October 2026",
+  "date": "Wednesday 14 October 2026",
   "topline": [
-    {"text": "A genuinely quiet 24-48 hours - no major new national policy, Ofsted, funding or safeguarding story broke overnight or over yesterday.", "action": ""},
-    {"text": "Nothing new locally in Sheffield or South Yorkshire either, so today's briefing is short rather than padded out - the diary below covers what's actually on leaders' radar this fortnight.", "action": ""}
+    {"text": "ASCL (school/college leaders' union) has passed a motion of no confidence in Ofsted's leadership this week, citing unaddressed wellbeing harm from the report-card framework and threatening an industrial-action ballot.", "action": ""},
+    {"text": "NEU is pushing back on a ~£3.3bn teacher-pension contribution saving that DfE plans to claw back from school budgets from April 2027, rather than letting schools keep it.", "action": ""},
+    {"text": "2026 phonics check results are the first since the pandemic to match 2019 national levels (82% of Year 1) - but the disadvantage gap looks unmoved, flagged below as an uncertain figure.", "action": ""},
+    {"text": "Locally: South Yorkshire's Mayor has launched a Youth Impact Fund for 11-19 year-olds, and Sheffield councillors meet Monday to fund two secondary school expansions.", "action": ""}
   ],
   "diary": [
     {"date": "16 Oct 2026", "color": "amber", "text": "Midday deadline for Sheffield secondary school applications for September 2027 entry (national deadline 31 Oct)."},
+    {"date": "19 Oct 2026", "color": "teal", "text": "Sheffield Finance & Performance Committee votes on £602k funding for the Firth Park Academy expansion."},
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
     {"date": "2 Nov 2026", "color": "indigo", "text": "Extended deadline for schools to complete autumn census free school meals eligibility rechecks."}
   ],
-  "sections": [],
-  "box": {"type": "jargon", "label": "Jargon-buster - the Inclusion judgement", "intro": "Since Ofsted's report-card framework began (from inspections on or after 10 November 2025), schools are graded across six core areas rather than one overall word.", "text": "Inclusion is the new standalone area - covering how well a school supports disadvantaged pupils, those with SEND, and those known to children's social care. It's graded on the same five-point scale as the others (Exceptional, Strong standard, Expected standard, Needs attention, Urgent improvement). Safeguarding sits apart from that scale, judged simply as met or not met."}
+  "sections": [
+    {
+      "heading": "Accountability & Ofsted",
+      "color": "magenta",
+      "items": [
+        {
+          "lede": "ASCL declares no confidence in Ofsted leadership",
+          "body": "The union's ruling council says it has seen no meaningful progress addressing wellbeing harm from the renewed report-card inspection framework, and wants inspections paused for an urgent review. Members will now be surveyed on a possible industrial-action ballot.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/ascl-council-passes-no-confidence-vote-in-ofsteds-leadership/",
+          "action": ""
+        }
+      ]
+    },
+    {
+      "heading": "Funding",
+      "color": "amber",
+      "items": [
+        {
+          "lede": "NEU pushes back on £3.3bn pensions clawback",
+          "body": "Employer pension contributions fall from 28.6% to 17.6% from April 2027, but DfE has confirmed school funding will be reduced to reflect the saving rather than schools keeping it, unlike a similar local-government pensions saving. NEU general secretary Daniel Kebede argues the money is urgently needed by schools.",
+          "source": "Schools Week / Tes",
+          "url": "https://schoolsweek.co.uk/let-schools-keep-3-3bn-teachers-pensions-saving-neu-urges-chancellor/",
+          "action": ""
+        }
+      ]
+    },
+    {
+      "heading": "Inclusion & attainment",
+      "color": "teal",
+      "items": [
+        {
+          "lede": "Phonics results back to pre-pandemic levels - gap claims conflict",
+          "body": "DfE's 2026 phonics screening check shows 82% of Year 1 pupils met the expected standard, matching 2019 for the first time since the pandemic, with SEN attainment also at its highest since the check began. Commentators flag that more pupils not sitting the check flatters the headline, and reports disagree on whether the disadvantaged-pupil gap (cited variously at 4 or 17 percentage points) has actually narrowed - worth checking DfE's full release before quoting a figure.",
+          "source": "Explore Education Statistics (DfE)",
+          "url": "https://explore-education-statistics.service.gov.uk/find-statistics/phonics-screening-check-attainment/2025-26",
+          "action": ""
+        }
+      ]
+    },
+    {
+      "heading": "Sheffield & South Yorkshire",
+      "color": "coral",
+      "items": [
+        {
+          "lede": "Mayor launches Youth Impact Fund for South Yorkshire's 11-19s",
+          "body": "Oliver Coppard has launched grants of £2,000-£10,000 for talented young people aged 11-19 across South Yorkshire, covering coaching, equipment, course fees and travel - run with The King's Trust and South Yorkshire's Community Foundation, seeded with £25,000 from the combined authority. Teachers and community leaders can nominate pupils now.",
+          "source": "Public Sector Executive",
+          "url": "https://www.publicsectorexecutive.com/articles/south-yorkshire-mayor-launches-youth-impact-fund-support-regions-rising-stars",
+          "action": "Consider nominating MAPs pupils who'd benefit."
+        },
+        {
+          "lede": "Sheffield set to expand two secondaries for 2027-29 demand",
+          "body": "The council's finance and performance committee meets Monday 19 October to approve passing £602,000 of government funding to Firth Park Academy (admission number rising 240 to 270) and a temporary 30-place expansion at Parkwood Academy, ahead of a projected secondary places deficit in 2027/28 and 2028/29.",
+          "source": "The Star",
+          "url": "https://www.thestar.co.uk/news/politics/council/sheffield-secondary-schools-expanding-to-cope-with-need-for-more-pupil-places-9283078",
+          "action": ""
+        }
+      ]
+    }
+  ],
+  "box": {
+    "type": "datapoint",
+    "big": "82%",
+    "text": "of Year 1 pupils met the expected phonics standard in 2026 - the first time national attainment has returned to pre-pandemic (2019) levels, though analysts flag the disadvantaged-pupil gap may not have narrowed.",
+    "attribution": "DfE phonics screening check, 2026"
+  }
 }
