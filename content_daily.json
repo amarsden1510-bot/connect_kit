@@ -1,15 +1,65 @@
 {
   "edition": "",
-  "date": "Tuesday 13 October 2026",
+  "date": "Thursday 15 October 2026",
   "topline": [
-    {"text": "A genuinely quiet 24-48 hours - no major new national policy, Ofsted, funding or safeguarding story broke overnight or over yesterday.", "action": ""},
-    {"text": "Nothing new locally in Sheffield or South Yorkshire either, so today's briefing is short rather than padded out - the diary below covers what's actually on leaders' radar this fortnight.", "action": ""}
+    {"text": "Ofsted's leadership crisis sharpened overnight - a snap NEU poll found 98% no confidence in chief inspector Sir Martyn Oliver, and governors separately called report-card inspections 'brutal'.", "action": "NEU wants Oliver to go, inspections paused, and an urgent framework review - worth watching before your next inspection window."},
+    {"text": "Locally: Sheffield's finance committee votes Monday on £602k funding for a Firth Park Academy expansion adding three new SEND rooms alongside 30 extra Year 7 places.", "action": ""},
+    {"text": "From tomorrow (16 Oct), employers can start consulting staff on pay policies for the 3.5% 2026-27 teacher pay award - though the Pay Order itself still has to clear Parliament.", "action": ""}
   ],
   "diary": [
-    {"date": "16 Oct 2026", "color": "amber", "text": "Midday deadline for Sheffield secondary school applications for September 2027 entry (national deadline 31 Oct)."},
-    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
-    {"date": "2 Nov 2026", "color": "indigo", "text": "Extended deadline for schools to complete autumn census free school meals eligibility rechecks."}
+    {"date": "16 Oct 2026", "color": "amber", "text": "Employers in England can begin consulting staff on updated pay policies for the 2026-27 teacher pay award."},
+    {"date": "19 Oct 2026", "color": "teal", "text": "Sheffield City Council finance and performance committee votes on £602k funding for the Firth Park Academy SEND-places expansion."},
+    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."}
   ],
-  "sections": [],
-  "box": {"type": "jargon", "label": "Jargon-buster - the Inclusion judgement", "intro": "Since Ofsted's report-card framework began (from inspections on or after 10 November 2025), schools are graded across six core areas rather than one overall word.", "text": "Inclusion is the new standalone area - covering how well a school supports disadvantaged pupils, those with SEND, and those known to children's social care. It's graded on the same five-point scale as the others (Exceptional, Strong standard, Expected standard, Needs attention, Urgent improvement). Safeguarding sits apart from that scale, judged simply as met or not met."}
+  "sections": [
+    {
+      "heading": "Ofsted leadership under fire",
+      "color": "purple",
+      "items": [
+        {
+          "lede": "NEU snap survey: 98% no confidence.",
+          "body": "A snap poll of almost 7,000 NEU members in English state schools, run overnight 12-13 October, found 98% have no confidence in Ofsted's current leadership and 96% back an immediate pause on inspections. General secretary Daniel Kebede said Oliver 'has lost the confidence of the profession and it is time for him to go'.",
+          "source": "Tes",
+          "url": "https://www.tes.com/magazine/news/general/ofsted-crisis-neu-calls-oliver-go"
+        },
+        {
+          "lede": "Governors: inspections are 'brutal'.",
+          "body": "The National Governance Association's annual survey found governors describing report-card inspections as 'brutal', with some school leadership teams 'breaking down routinely' under the pressure - despite 71% saying their last inspection gave a fair and accurate picture, up only 3 points on 2022's record low.",
+          "source": "Tes",
+          "url": "https://www.tes.com/magazine/news/general/ofsted-report-card-inspections-are-brutal-say-governors"
+        },
+        {
+          "lede": "Second union's no-confidence vote.",
+          "body": "ASCL's council passed its own no-confidence vote in Ofsted's leadership last week over unaddressed workload and wellbeing concerns.",
+          "source": "FE Week",
+          "url": "https://feweek.co.uk/ascl-council-passes-no-confidence-vote-in-ofsteds-leadership/"
+        }
+      ]
+    },
+    {
+      "heading": "Sheffield & South Yorkshire",
+      "color": "teal",
+      "items": [
+        {
+          "lede": "Firth Park Academy set for SEND-focused expansion.",
+          "body": "Sheffield's finance and performance committee meets Monday 19 October to approve passing £602,000 of government funding to Lift Schools, part of a £701,312 scheme adding three SEND rooms, refurbished creative-arts space and upgraded science labs - raising Firth Park's admission number from 240 to 270 to help meet a projected secondary-places shortfall in 2027/28 and 2028/29.",
+          "source": "The Star",
+          "url": "https://www.thestar.co.uk/news/politics/council/sheffield-secondary-schools-expanding-to-cope-with-need-for-more-pupil-places-9283078"
+        }
+      ]
+    },
+    {
+      "heading": "Pay & funding",
+      "color": "amber",
+      "items": [
+        {
+          "lede": "Pay policy consultations open from tomorrow.",
+          "body": "From 16 October, employers can consult staff on pay policies reflecting the accepted 3.5% uplift for 2026-27 (5% at the bottom of the unqualified range), backdated to 1 September. The Pay Order itself still has to clear its parliamentary praying period before arrears follow - worth flagging to business managers as a timing uncertainty.",
+          "source": "NASUWT",
+          "url": "https://www.nasuwt.org.uk/advice/pay-pensions/pay-award/pay-award-england.html"
+        }
+      ]
+    }
+  ],
+  "box": {"type": "datapoint", "big": "98%", "text": "of NEU members surveyed say they have no confidence in Ofsted's current leadership - from a snap poll of almost 7,000 teachers in English state schools, taken 12-13 October 2026.", "attribution": "NEU snap survey"}
 }
