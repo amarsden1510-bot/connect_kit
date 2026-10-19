@@ -1,26 +1,26 @@
 {
   "edition": "",
-  "date": "Friday 16 October 2026",
+  "date": "Monday 19 October 2026",
   "topline": [
-    {"text": "CST's Annual Conference wrapped up today in Birmingham, with trust leaders focused on how the Schools White Paper and SEND reforms land in practice for mainstream inclusion.", "action": "Worth checking CST's post-event output if your trust was represented."},
-    {"text": "Today (16 Oct) employers can formally start consulting staff on pay policies for the 3.5% 2026-27 teacher pay award - the Pay Order itself still has to clear Parliament.", "action": ""},
-    {"text": "A quieter day otherwise: no major new England-wide SEND or inclusion announcements since yesterday's Ofsted leadership story, which remains unresolved.", "action": ""}
+    {"text": "A quiet national day - today's one firm development is procedural: the 2026-27 teacher Pay Order was laid in Parliament on 16 October, starting a 21-day 'praying period' that runs to 6 November before arrears can follow.", "action": ""},
+    {"text": "Locally, Sheffield City Council's finance and performance committee votes today on £602k of government funding for a Firth Park Academy expansion adding three SEND rooms and 30 extra Year 7 places, alongside a temporary Parkwood Academy expansion.", "action": "Worth a line to SLT if either school is a feeder or partner."},
+    {"text": "A reminder: Sheffield schools break for autumn half term next week (26-30 October).", "action": ""}
   ],
   "diary": [
-    {"date": "16 Oct 2026", "color": "amber", "text": "Employers in England can begin consulting staff on updated pay policies for the 2026-27 teacher pay award."},
     {"date": "19 Oct 2026", "color": "teal", "text": "Sheffield City Council finance and performance committee votes on £602k funding for the Firth Park Academy SEND-places expansion."},
-    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."}
+    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
+    {"date": "6 Nov 2026", "color": "amber", "text": "21-day parliamentary 'praying period' ends for the 2026-27 teacher Pay Order."}
   ],
   "sections": [
     {
-      "heading": "CST Annual Conference: trusts on SEND reform",
-      "color": "indigo",
+      "heading": "Sheffield & South Yorkshire",
+      "color": "teal",
       "items": [
         {
-          "lede": "Trust leaders convene on 'Connecting' theme.",
-          "body": "The Confederation of School Trusts' Annual Conference ran 15-16 October at Birmingham's ICC, with sessions on how sector and civic leaders respond to the Schools White Paper and SEND reforms - including a breakout on 'Inclusive by design: creating environments where all learners thrive'.",
-          "source": "CST",
-          "url": "https://cstuk.org.uk/events/cst-annual-conference-2026"
+          "lede": "Firth Park and Parkwood set for expansion.",
+          "body": "Sheffield's finance and performance committee meets today to approve passing £602,000 of government funding to Lift Schools, part of a £701,312 scheme giving Firth Park Academy three SEND rooms, refurbished creative-arts space and upgraded science labs - raising its admission number from 240 to 270. A temporary expansion at Parkwood Academy is bundled into the same paper, both aimed at a projected Year 7 places shortfall in 2027/28 and 2028/29.",
+          "source": "The Star",
+          "url": "https://www.thestar.co.uk/news/politics/council/sheffield-secondary-schools-expanding-to-cope-with-need-for-more-pupil-places-9283078"
         }
       ]
     },
@@ -29,13 +29,13 @@
       "color": "amber",
       "items": [
         {
-          "lede": "Pay policy consultations open today.",
-          "body": "From 16 October, employers can consult staff on pay policies reflecting the accepted 3.5% uplift for 2026-27 (5% at the bottom of the unqualified range), backdated to 1 September. The Pay Order itself still needs to clear its parliamentary praying period before arrears follow.",
-          "source": "NASUWT",
-          "url": "https://www.nasuwt.org.uk/advice/pay-pensions/pay-award/pay-award-england.html"
+          "lede": "Pay Order laid, praying period now running.",
+          "body": "The STPCD 2026-27 Teachers' Pay Order was laid in Parliament on 16 October, confirming the 3.5% uplift (5% at the bottom of the unqualified range), backdated to 1 September. MPs now have a 21-day 'praying period' to raise objections, ending 6 November - in practice this has never been exercised, so arrears should follow once it lapses.",
+          "source": "Local Government Association",
+          "url": "https://www.local.gov.uk/our-support/workforce-and-hr-support/education-and-young-people/school-teachers/school-teachers-36"
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - OAIP", "intro": "Cropping up at this week's CST conference on SEND reform:", "text": "Ordinarily Available Inclusive Practice - the support mainstream schools should provide without needing an EHCP, now being folded into local 'ordinarily available provision' guidance as part of the wider SEND reforms."}
+  "box": {"type": "jargon", "label": "Jargon-buster - Praying period", "intro": "Cropping up in today's pay story:", "text": "The 21 sitting days after a statutory instrument (like the Teachers' Pay Order) is laid in Parliament, during which an MP can table a motion against it. Rarely used, but it's why pay orders aren't final the day they're laid."}
 }
