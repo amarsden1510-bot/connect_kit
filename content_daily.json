@@ -1,15 +1,15 @@
 {
   "edition": "",
-  "date": "Monday 19 October 2026",
+  "date": "Tuesday 20 October 2026",
   "topline": [
-    {"text": "A quiet national day - today's one firm development is procedural: the 2026-27 teacher Pay Order was laid in Parliament on 16 October, starting a 21-day 'praying period' that runs to 6 November before arrears can follow.", "action": ""},
-    {"text": "Locally, Sheffield City Council's finance and performance committee votes today on £602k of government funding for a Firth Park Academy expansion adding three SEND rooms and 30 extra Year 7 places, alongside a temporary Parkwood Academy expansion.", "action": "Worth a line to SLT if either school is a feeder or partner."},
-    {"text": "A reminder: Sheffield schools break for autumn half term next week (26-30 October).", "action": ""}
+    {"text": "A genuinely quiet 48 hours nationally - no new DfE, Ofsted or safeguarding announcements since the weekend.", "action": ""},
+    {"text": "Locally, Sheffield's finance and performance committee met yesterday to decide on £602k of funding for SEND-places expansions at Firth Park and Parkwood academies - no outcome had surfaced publicly by this morning.", "action": "Worth checking with the council or Lift Schools if either is a feeder or partner."},
+    {"text": "Reminder: Sheffield schools break for autumn half term from Monday (26-30 October).", "action": ""}
   ],
   "diary": [
-    {"date": "19 Oct 2026", "color": "teal", "text": "Sheffield City Council finance and performance committee votes on £602k funding for the Firth Park Academy SEND-places expansion."},
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
-    {"date": "6 Nov 2026", "color": "amber", "text": "21-day parliamentary 'praying period' ends for the 2026-27 teacher Pay Order."}
+    {"date": "27 Oct 2026", "color": "teal", "text": "South Yorkshire Mayoral Combined Authority Board meets."},
+    {"date": "15 Dec 2026", "color": "amber", "text": "NEU's formal strike ballot over pay, funding and workload closes."}
   ],
   "sections": [
     {
@@ -17,25 +17,14 @@
       "color": "teal",
       "items": [
         {
-          "lede": "Firth Park and Parkwood set for expansion.",
-          "body": "Sheffield's finance and performance committee meets today to approve passing £602,000 of government funding to Lift Schools, part of a £701,312 scheme giving Firth Park Academy three SEND rooms, refurbished creative-arts space and upgraded science labs - raising its admission number from 240 to 270. A temporary expansion at Parkwood Academy is bundled into the same paper, both aimed at a projected Year 7 places shortfall in 2027/28 and 2028/29.",
+          "lede": "Firth Park and Parkwood expansion goes to committee.",
+          "body": "Sheffield's finance and performance committee met yesterday to approve passing £602,000 of government funding to Lift Schools, part of a £701,312 scheme giving Firth Park Academy three SEND rooms and 30 extra Year 7 places (240 to 270), bundled with a temporary expansion at Parkwood Academy. Both respond to a projected Year 7 places shortfall in 2027/28-2028/29. The committee's decision hadn't been reported publicly as of this morning.",
           "source": "The Star",
-          "url": "https://www.thestar.co.uk/news/politics/council/sheffield-secondary-schools-expanding-to-cope-with-need-for-more-pupil-places-9283078"
-        }
-      ]
-    },
-    {
-      "heading": "Pay & funding",
-      "color": "amber",
-      "items": [
-        {
-          "lede": "Pay Order laid, praying period now running.",
-          "body": "The STPCD 2026-27 Teachers' Pay Order was laid in Parliament on 16 October, confirming the 3.5% uplift (5% at the bottom of the unqualified range), backdated to 1 September. MPs now have a 21-day 'praying period' to raise objections, ending 6 November - in practice this has never been exercised, so arrears should follow once it lapses.",
-          "source": "Local Government Association",
-          "url": "https://www.local.gov.uk/our-support/workforce-and-hr-support/education-and-young-people/school-teachers/school-teachers-36"
+          "url": "https://www.thestar.co.uk/news/politics/council/sheffield-secondary-schools-expanding-to-cope-with-need-for-more-pupil-places-9283078",
+          "action": "Worth a line to SLT if either school is a feeder or partner - check back for the outcome."
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - Praying period", "intro": "Cropping up in today's pay story:", "text": "The 21 sitting days after a statutory instrument (like the Teachers' Pay Order) is laid in Parliament, during which an MP can table a motion against it. Rarely used, but it's why pay orders aren't final the day they're laid."}
+  "box": {"type": "datapoint", "big": "29.8%", "text": "Share of pupils in state-funded schools recorded as disadvantaged at the end of Key Stage 4 in 2025/26, up from 28.2% the year before - DfE attributes most of the rise to Universal Credit transitional protections. The provisional disadvantage attainment gap index narrowed slightly, to 3.82 from 3.92.", "attribution": "DfE, Key Stage 4 performance 2025/26 (published 15 Oct, provisional)"}
 }
