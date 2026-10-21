@@ -1,30 +1,51 @@
 {
   "edition": "",
-  "date": "Tuesday 20 October 2026",
+  "date": "Wednesday 21 October 2026",
   "topline": [
-    {"text": "A genuinely quiet 48 hours nationally - no new DfE, Ofsted or safeguarding announcements since the weekend.", "action": ""},
-    {"text": "Locally, Sheffield's finance and performance committee met yesterday to decide on £602k of funding for SEND-places expansions at Firth Park and Parkwood academies - no outcome had surfaced publicly by this morning.", "action": "Worth checking with the council or Lift Schools if either is a feeder or partner."},
+    {"text": "Ofsted's chief inspector has announced a pilot independent complaints review, letting schools challenge whether an inspection's outcome itself was fair - not just how a complaint was handled - after three unions passed no-confidence motions in his leadership this month.", "action": ""},
+    {"text": "The teacher pay dispute looks resolved: the NEU has paused its strike ballot after the Education Secretary confirmed schools can keep pension-contribution savings to fund the 3.5% 2026/27 award in full, without clawback.", "action": ""},
+    {"text": "Sheffield's finance and performance committee met Monday on the £602k Firth Park/Parkwood SEND and places expansion flagged yesterday - the decision hadn't surfaced publicly by this morning.", "action": "Worth a call to the council or Lift Schools for the outcome."},
     {"text": "Reminder: Sheffield schools break for autumn half term from Monday (26-30 October).", "action": ""}
   ],
   "diary": [
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
     {"date": "27 Oct 2026", "color": "teal", "text": "South Yorkshire Mayoral Combined Authority Board meets."},
-    {"date": "15 Dec 2026", "color": "amber", "text": "NEU's formal strike ballot over pay, funding and workload closes."}
+    {"date": "28 Oct 2026", "color": "amber", "text": "Autumn school census return deadline (DfE)."}
   ],
   "sections": [
+    {
+      "heading": "National policy & accountability",
+      "color": "indigo",
+      "items": [
+        {
+          "lede": "Ofsted launches independent complaints pilot.",
+          "body": "Sir Martyn Oliver has announced that schools inspected in 2026/27 can ask an independent reviewer - contracted by DfE, separate from Ofsted - to look at whether an inspection's outcome was fair, not just how a complaint was handled. Where grading is in question, the reviewer can recommend a report card be set aside and the school reinspected. It follows NEU and other unions' votes of no confidence in Oliver's leadership this month.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/new-ofsted-complaints-review-service-can-recommend-reopening-inspections/",
+          "action": ""
+        },
+        {
+          "lede": "Teacher pay dispute defused.",
+          "body": "The NEU has paused its strike ballot after Education Secretary Lucy Powell confirmed schools can keep savings from reduced pension employer contributions to cover the 3.5% 2026/27 pay award, rather than having them clawed back centrally - which the union is calling a fully-funded rise.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/government-commits-to-fully-funding-teacher-pay-rise-neu-reports/",
+          "action": ""
+        }
+      ]
+    },
     {
       "heading": "Sheffield & South Yorkshire",
       "color": "teal",
       "items": [
         {
-          "lede": "Firth Park and Parkwood expansion goes to committee.",
-          "body": "Sheffield's finance and performance committee met yesterday to approve passing £602,000 of government funding to Lift Schools, part of a £701,312 scheme giving Firth Park Academy three SEND rooms and 30 extra Year 7 places (240 to 270), bundled with a temporary expansion at Parkwood Academy. Both respond to a projected Year 7 places shortfall in 2027/28-2028/29. The committee's decision hadn't been reported publicly as of this morning.",
+          "lede": "Firth Park/Parkwood outcome still awaited.",
+          "body": "As flagged yesterday, Sheffield's finance and performance committee met on Monday to decide on passing £602,000 of government funding to Lift Schools for three SEND rooms and 30 extra Year 7 places at Firth Park Academy, bundled with a temporary expansion at Parkwood Academy. No decision had been reported publicly as of this morning.",
           "source": "The Star",
           "url": "https://www.thestar.co.uk/news/politics/council/sheffield-secondary-schools-expanding-to-cope-with-need-for-more-pupil-places-9283078",
-          "action": "Worth a line to SLT if either school is a feeder or partner - check back for the outcome."
+          "action": "Worth a call to the council or Lift Schools for the result if either is a feeder or partner."
         }
       ]
     }
   ],
-  "box": {"type": "datapoint", "big": "29.8%", "text": "Share of pupils in state-funded schools recorded as disadvantaged at the end of Key Stage 4 in 2025/26, up from 28.2% the year before - DfE attributes most of the rise to Universal Credit transitional protections. The provisional disadvantage attainment gap index narrowed slightly, to 3.82 from 3.92.", "attribution": "DfE, Key Stage 4 performance 2025/26 (published 15 Oct, provisional)"}
+  "box": {"type": "datapoint", "big": "15%", "text": "Share of state-school teachers in England now working in a school with a two-week October half-term, up from 12% in 2025 and 7% in 2023 - driven mainly by academies setting their own calendars. Sheffield schools are taking the standard one week from Monday.", "attribution": "Teacher Tapp survey of 8,112 teachers, reported this week"}
 }
