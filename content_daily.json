@@ -1,10 +1,10 @@
 {
   "edition": "",
-  "date": "Tuesday 20 October 2026",
+  "date": "Thursday 22 October 2026",
   "topline": [
-    {"text": "A genuinely quiet 48 hours nationally - no new DfE, Ofsted or safeguarding announcements since the weekend.", "action": ""},
-    {"text": "Locally, Sheffield's finance and performance committee met yesterday to decide on £602k of funding for SEND-places expansions at Firth Park and Parkwood academies - no outcome had surfaced publicly by this morning.", "action": "Worth checking with the council or Lift Schools if either is a feeder or partner."},
-    {"text": "Reminder: Sheffield schools break for autumn half term from Monday (26-30 October).", "action": ""}
+    {"text": "Another quiet stretch nationally - no new DfE, Ofsted or safeguarding announcements since Tuesday's briefing.", "action": ""},
+    {"text": "Locally, Sheffield's finance and performance committee met Monday to decide on £602k of funding for SEND-places expansions at Firth Park and Parkwood academies - the decision still hadn't surfaced publicly as of this morning.", "action": "Worth checking with the council or Lift Schools if either is a feeder or partner."},
+    {"text": "Reminder: this is the last working week before Sheffield schools break for autumn half term on Monday (26-30 October).", "action": ""}
   ],
   "diary": [
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
@@ -17,14 +17,14 @@
       "color": "teal",
       "items": [
         {
-          "lede": "Firth Park and Parkwood expansion goes to committee.",
-          "body": "Sheffield's finance and performance committee met yesterday to approve passing £602,000 of government funding to Lift Schools, part of a £701,312 scheme giving Firth Park Academy three SEND rooms and 30 extra Year 7 places (240 to 270), bundled with a temporary expansion at Parkwood Academy. Both respond to a projected Year 7 places shortfall in 2027/28-2028/29. The committee's decision hadn't been reported publicly as of this morning.",
+          "lede": "Firth Park and Parkwood expansion decision still unconfirmed.",
+          "body": "Sheffield's finance and performance committee met Monday to decide on passing £602,000 of government funding to Lift Schools - part of a £701,312 scheme giving Firth Park Academy three SEND rooms and 30 extra Year 7 places (240 to 270) - alongside a smaller, temporary expansion at Parkwood Academy. Both respond to a projected Year 7 places shortfall in 2027/28-2028/29. Three days on, no outcome has been reported publicly.",
           "source": "The Star",
           "url": "https://www.thestar.co.uk/news/politics/council/sheffield-secondary-schools-expanding-to-cope-with-need-for-more-pupil-places-9283078",
-          "action": "Worth a line to SLT if either school is a feeder or partner - check back for the outcome."
+          "action": "Still worth a line to SLT if either school is a feeder or partner - we'll flag the outcome once it's confirmed."
         }
       ]
     }
   ],
-  "box": {"type": "datapoint", "big": "29.8%", "text": "Share of pupils in state-funded schools recorded as disadvantaged at the end of Key Stage 4 in 2025/26, up from 28.2% the year before - DfE attributes most of the rise to Universal Credit transitional protections. The provisional disadvantage attainment gap index narrowed slightly, to 3.82 from 3.92.", "attribution": "DfE, Key Stage 4 performance 2025/26 (published 15 Oct, provisional)"}
+  "box": {"type": "jargon", "label": "Jargon-buster - ICR", "intro": "Ofsted announced a new complaints route for schools last week, worth knowing before it reaches your corridor.", "text": "The Independent Complaint Review (ICR) is a pilot covering schools inspected in 2026/27. Unlike the current ICASO process, which only checks whether Ofsted followed its own procedure, the ICR can also assess whether the complaint outcome itself - including a published grade - was fair, and can trigger a fresh inspection."}
 }
