@@ -1,10 +1,11 @@
 {
   "edition": "",
-  "date": "Friday 23 October 2026",
+  "date": "Monday 26 October 2026",
   "topline": [
-    {"text": "Quiet 24 hours nationally - the one notable move is a leadership change at the top of the DfE, not a policy announcement.", "action": ""},
-    {"text": "Simon Ridley has been appointed the department's new Permanent Secretary, replacing Susan Acland-Hood, who is leaving for a role outside government.", "action": ""},
-    {"text": "Today is the last working day before Sheffield schools break for autumn half term (26-30 October).", "action": ""}
+    {"text": "A quiet weekend for big policy moves, but the row over Ofsted's leadership rumbled on and ministers issued fresh pay-reform instructions.", "action": ""},
+    {"text": "Lucy Powell twice declined on Sky News to back chief inspector Sir Martyn Oliver by name; her spokesperson later said she does have confidence in him.", "action": ""},
+    {"text": "Powell has separately asked the pay review body to consider scrapping the headteacher pay ceiling entirely.", "action": ""},
+    {"text": "Locally, Sheffield has joined a new regional taskforce on NEET young people, and schools are on half term all week.", "action": ""}
   ],
   "diary": [
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
@@ -13,18 +14,51 @@
   ],
   "sections": [
     {
-      "heading": "National policy & DfE",
+      "heading": "Ofsted & accountability",
       "color": "indigo",
       "items": [
         {
-          "lede": "New Permanent Secretary named at the Department for Education.",
-          "body": "Simon Ridley - currently Second Permanent Secretary at the Home Office - has been appointed the DfE's new top civil servant, succeeding Susan Acland-Hood. Education Secretary Lucy Powell welcomed the appointment; it's an administrative change rather than a policy shift, but worth knowing given how much DfE direction runs through this role.",
-          "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/news/simon-ridley-appointed-as-new-department-for-education-permanent-secretary",
+          "lede": "Powell under fire over Ofsted confidence row.",
+          "body": "Pressed repeatedly on Sky News on whether she backed chief inspector Sir Martyn Oliver, Lucy Powell said only that she had \"confidence in Ofsted\", prompting accusations from the Conservatives of a leadership failure. A spokesperson later said she does have confidence in Oliver personally - several unions have issued no-confidence votes over the report-card inspection model.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/lucy-powell-has-confidence-in-ofsted-leader-says-spokesperson/",
+          "action": ""
+        }
+      ]
+    },
+    {
+      "heading": "Workforce & funding",
+      "color": "amber",
+      "items": [
+        {
+          "lede": "Leadership pay ceiling could be scrapped.",
+          "body": "Powell has asked the School Teachers' Review Body to assess removing the cap on headteacher pay entirely, extending existing pay flexibilities to deputy and assistant heads, and how new minimum pay floors should apply to academies under the Children's Wellbeing and Schools Act. NAHT called the remit too narrow to tackle the real pressures on leaders.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/unions-criticise-education-secretary-for-unambitious-strb-remit/",
+          "action": ""
+        },
+        {
+          "lede": "RAAC rebuilds barely moving.",
+          "body": "Work has yet to start at nearly all of the roughly 100 schools with high-risk RAAC concrete that were promised a full rebuild, with more than half of projects still not out to tender, Schools Week reports - despite the scheme now running for several years.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/in-delivery-nearly-all-raac-school-rebuilds-yet-to-begin/",
+          "action": ""
+        }
+      ]
+    },
+    {
+      "heading": "Sheffield & South Yorkshire",
+      "color": "teal",
+      "items": [
+        {
+          "lede": "Sheffield joins national NEET taskforce.",
+          "body": "The city is one of 13 Yorkshire and Humber councils joining the Government's new NEET Taskforce after recording 788 16-17 year-olds not in education, employment or training in 2025 - a 7.7% rate, the 11th-highest in England. Sheffield College is doubling places on its King's Trust programme for NEETs to 180.",
+          "source": "The Star",
+          "url": "https://www.thestar.co.uk/education/sheffield-council-commits-to-action-on-number-of-people-not-in-employment-or-education-9273677",
           "action": ""
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - Permanent Secretary", "intro": "Today's top story is about the DfE's new Permanent Secretary - a role that shapes education policy long after ministers move on.", "text": "The Permanent Secretary is the most senior civil servant in a government department, running it day-to-day and advising ministers. Unlike the Education Secretary (currently Lucy Powell), a political appointee, the Permanent Secretary stays in post across changes of government and minister."}
+  "box": {"type": "jargon", "label": "Jargon-buster - STRB", "intro": "Today's funding story centres on the pay body ministers just gave fresh instructions to.", "text": "The School Teachers' Review Body (STRB) is the independent panel that recommends annual pay and conditions for teachers and school leaders in England. Each year the Education Secretary sets its \"remit\" - what it's asked to look at. Ministers aren't bound to accept its recommendations, but usually do, in large part."}
 }
