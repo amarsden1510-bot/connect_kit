@@ -1,48 +1,29 @@
 {
   "edition": "",
-  "date": "Monday 26 October 2026",
+  "date": "Tuesday 27 October 2026",
   "topline": [
-    {"text": "A quiet weekend for big policy moves, but the row over Ofsted's leadership rumbled on and ministers issued fresh pay-reform instructions.", "action": ""},
-    {"text": "Lucy Powell twice declined on Sky News to back chief inspector Sir Martyn Oliver by name; her spokesperson later said she does have confidence in him.", "action": ""},
-    {"text": "Powell has separately asked the pay review body to consider scrapping the headteacher pay ceiling entirely.", "action": ""},
-    {"text": "Locally, Sheffield has joined a new regional taskforce on NEET young people, and schools are on half term all week.", "action": ""}
+    {"text": "The big thing to watch this week: Chancellor John Healey delivers his first Budget tomorrow (Wednesday), alongside the OBR's updated economic and fiscal outlook.", "action": ""},
+    {"text": "Healey has signalled cost-of-living support will be \"targeted and temporary\" rather than universal - there's no confirmed steer yet on mainstream or high-needs school funding.", "action": ""},
+    {"text": "Otherwise a genuinely quiet half-term week - Sheffield schools are closed until Monday 2 November, and there's no major new national education story in the last day.", "action": ""},
+    {"text": "Locally, Sheffield remains one of four finalists for UK City of Culture 2029, alongside Blackpool, Milton Keynes and Wrexham.", "action": ""}
   ],
   "diary": [
-    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term."},
-    {"date": "27 Oct 2026", "color": "teal", "text": "South Yorkshire Mayoral Combined Authority Board meets."},
-    {"date": "15 Dec 2026", "color": "amber", "text": "NEU's formal strike ballot over pay, funding and workload closes."}
+    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term continues."},
+    {"date": "28 Oct 2026", "color": "amber", "text": "Chancellor John Healey's first Budget, with the OBR's Economic and Fiscal Outlook published alongside it."},
+    {"date": "15 Dec 2026", "color": "coral", "text": "NEU's formal strike ballot over pay, funding and workload closes."},
+    {"date": "Early 2027", "color": "teal", "text": "UK City of Culture 2029 winner announced; Sheffield is one of four finalists."}
   ],
   "sections": [
     {
-      "heading": "Ofsted & accountability",
-      "color": "indigo",
-      "items": [
-        {
-          "lede": "Powell under fire over Ofsted confidence row.",
-          "body": "Pressed repeatedly on Sky News on whether she backed chief inspector Sir Martyn Oliver, Lucy Powell said only that she had \"confidence in Ofsted\", prompting accusations from the Conservatives of a leadership failure. A spokesperson later said she does have confidence in Oliver personally - several unions have issued no-confidence votes over the report-card inspection model.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/lucy-powell-has-confidence-in-ofsted-leader-says-spokesperson/",
-          "action": ""
-        }
-      ]
-    },
-    {
-      "heading": "Workforce & funding",
+      "heading": "National policy & funding",
       "color": "amber",
       "items": [
         {
-          "lede": "Leadership pay ceiling could be scrapped.",
-          "body": "Powell has asked the School Teachers' Review Body to assess removing the cap on headteacher pay entirely, extending existing pay flexibilities to deputy and assistant heads, and how new minimum pay floors should apply to academies under the Children's Wellbeing and Schools Act. NAHT called the remit too narrow to tackle the real pressures on leaders.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/unions-criticise-education-secretary-for-unambitious-strb-remit/",
-          "action": ""
-        },
-        {
-          "lede": "RAAC rebuilds barely moving.",
-          "body": "Work has yet to start at nearly all of the roughly 100 schools with high-risk RAAC concrete that were promised a full rebuild, with more than half of projects still not out to tender, Schools Week reports - despite the scheme now running for several years.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/in-delivery-nearly-all-raac-school-rebuilds-yet-to-begin/",
-          "action": ""
+          "lede": "All eyes on tomorrow's Budget.",
+          "body": "Chancellor John Healey delivers his first Budget on Wednesday, with the Office for Budget Responsibility publishing its updated Economic and Fiscal Outlook alongside it. Healey has said living-cost support will be \"targeted and temporary\" rather than universal; nothing has been confirmed either way yet on further top-ups to mainstream or high-needs school funding, so treat any pre-Budget schools figures circulating this week as speculation until it's delivered.",
+          "source": "GB News",
+          "url": "https://www.gbnews.com/money/john-healey-s-first-budget-date-confirmed",
+          "action": "Hold off on budget-planning assumptions until Wednesday's statement and the DfE's response to it are out."
         }
       ]
     },
@@ -51,14 +32,14 @@
       "color": "teal",
       "items": [
         {
-          "lede": "Sheffield joins national NEET taskforce.",
-          "body": "The city is one of 13 Yorkshire and Humber councils joining the Government's new NEET Taskforce after recording 788 16-17 year-olds not in education, employment or training in 2025 - a 7.7% rate, the 11th-highest in England. Sheffield College is doubling places on its King's Trust programme for NEETs to 180.",
+          "lede": "Sheffield in the final four for City of Culture 2029.",
+          "body": "Sheffield is competing with Blackpool, Milton Keynes and Wrexham for the UK City of Culture 2029 title after making the shortlist; all four get at least £125,000 to develop their bids, with £10 million for the eventual winner. Council leader Fran Belbin has pointed to potential benefits for young people's career pathways and aspirations as part of the city's bid.",
           "source": "The Star",
-          "url": "https://www.thestar.co.uk/education/sheffield-council-commits-to-action-on-number-of-people-not-in-employment-or-education-9273677",
+          "url": "https://www.thestar.co.uk/whats-on/arts-and-entertainment/sheffield-punches-above-its-weight-as-city-bids-for-culture-title-9305002",
           "action": ""
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - STRB", "intro": "Today's funding story centres on the pay body ministers just gave fresh instructions to.", "text": "The School Teachers' Review Body (STRB) is the independent panel that recommends annual pay and conditions for teachers and school leaders in England. Each year the Education Secretary sets its \"remit\" - what it's asked to look at. Ministers aren't bound to accept its recommendations, but usually do, in large part."}
+  "box": {"type": "jargon", "label": "Jargon-buster - OBR", "intro": "Wednesday's Budget comes with an independent verdict attached.", "text": "The Office for Budget Responsibility (OBR) is the UK's independent fiscal watchdog. It publishes an Economic and Fiscal Outlook alongside every Budget, checking the Chancellor's sums against the government's own borrowing and debt rules - its verdict often shapes how much room a Chancellor really has to spend."}
 }
