@@ -1,15 +1,15 @@
 {
   "edition": "",
-  "date": "Tuesday 27 October 2026",
+  "date": "Wednesday 28 October 2026",
   "topline": [
-    {"text": "The big thing to watch this week: Chancellor John Healey delivers his first Budget tomorrow (Wednesday), alongside the OBR's updated economic and fiscal outlook.", "action": ""},
-    {"text": "Healey has signalled cost-of-living support will be \"targeted and temporary\" rather than universal - there's no confirmed steer yet on mainstream or high-needs school funding.", "action": ""},
-    {"text": "Otherwise a genuinely quiet half-term week - Sheffield schools are closed until Monday 2 November, and there's no major new national education story in the last day.", "action": ""},
-    {"text": "Locally, Sheffield remains one of four finalists for UK City of Culture 2029, alongside Blackpool, Milton Keynes and Wrexham.", "action": ""}
+    {"text": "Today's the big one: Chancellor John Healey delivers his first Budget this afternoon, with the OBR's updated Economic and Fiscal Outlook published alongside it.", "action": ""},
+    {"text": "Healey has declined to rule tax rises in or out; economists think the fiscal headroom his predecessor built up has likely narrowed, so treat any school-funding figures doing the rounds today as speculation until the statement itself.", "action": ""},
+    {"text": "Otherwise a genuinely quiet day - Sheffield schools stay closed for half term until Monday 2 November, and no major new UK schools story broke in the last 24 hours.", "action": ""},
+    {"text": "Reminder: the NEU's formal strike ballot over pay, funding and workload is still open and closes 15 December - turnout in the earlier indicative vote was under 50%.", "action": ""}
   ],
   "diary": [
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term continues."},
-    {"date": "28 Oct 2026", "color": "amber", "text": "Chancellor John Healey's first Budget, with the OBR's Economic and Fiscal Outlook published alongside it."},
+    {"date": "28 Oct 2026", "color": "amber", "text": "Today: Chancellor John Healey's first Budget, with the OBR's Economic and Fiscal Outlook published alongside it."},
     {"date": "15 Dec 2026", "color": "coral", "text": "NEU's formal strike ballot over pay, funding and workload closes."},
     {"date": "Early 2027", "color": "teal", "text": "UK City of Culture 2029 winner announced; Sheffield is one of four finalists."}
   ],
@@ -19,27 +19,21 @@
       "color": "amber",
       "items": [
         {
-          "lede": "All eyes on tomorrow's Budget.",
-          "body": "Chancellor John Healey delivers his first Budget on Wednesday, with the Office for Budget Responsibility publishing its updated Economic and Fiscal Outlook alongside it. Healey has said living-cost support will be \"targeted and temporary\" rather than universal; nothing has been confirmed either way yet on further top-ups to mainstream or high-needs school funding, so treat any pre-Budget schools figures circulating this week as speculation until it's delivered.",
-          "source": "GB News",
-          "url": "https://www.gbnews.com/money/john-healey-s-first-budget-date-confirmed",
-          "action": "Hold off on budget-planning assumptions until Wednesday's statement and the DfE's response to it are out."
-        }
-      ]
-    },
-    {
-      "heading": "Sheffield & South Yorkshire",
-      "color": "teal",
-      "items": [
+          "lede": "All eyes on this afternoon's Budget.",
+          "body": "Chancellor John Healey - who took the role in July when Andy Burnham became Prime Minister - delivers his first Budget today, with the Office for Budget Responsibility's forecast published alongside it. He has so far declined to confirm or rule out tax rises, and analysts think the fiscal headroom built up by his predecessor has likely shrunk on weaker growth and higher borrowing costs. Nothing is confirmed yet on mainstream or high-needs school funding.",
+          "source": "LBC",
+          "url": "https://www.lbc.co.uk/politics/uk-politics/john-healey-fresh-challenge-ahead-of-first-budget-as-uk-debt-approaches-3tn/",
+          "action": "Hold off on budget-planning assumptions until this afternoon's statement and the DfE's response to it."
+        },
         {
-          "lede": "Sheffield in the final four for City of Culture 2029.",
-          "body": "Sheffield is competing with Blackpool, Milton Keynes and Wrexham for the UK City of Culture 2029 title after making the shortlist; all four get at least £125,000 to develop their bids, with £10 million for the eventual winner. Council leader Fran Belbin has pointed to potential benefits for young people's career pathways and aspirations as part of the city's bid.",
-          "source": "The Star",
-          "url": "https://www.thestar.co.uk/whats-on/arts-and-entertainment/sheffield-punches-above-its-weight-as-city-bids-for-culture-title-9305002",
+          "lede": "NEU ballot still running.",
+          "body": "The NEU's formal strike ballot over pay, funding and workload - covering teachers and support staff separately - remains open and closes 15 December. In the earlier indicative ballot, 96% of responding teachers backed rejecting the pay offer and said they'd be prepared to take action, though turnout was under 50%.",
+          "source": "NEU",
+          "url": "https://www.neu.org.uk/latest/press-releases/neu-launch-formal-ballot-strike-action",
           "action": ""
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - OBR", "intro": "Wednesday's Budget comes with an independent verdict attached.", "text": "The Office for Budget Responsibility (OBR) is the UK's independent fiscal watchdog. It publishes an Economic and Fiscal Outlook alongside every Budget, checking the Chancellor's sums against the government's own borrowing and debt rules - its verdict often shapes how much room a Chancellor really has to spend."}
+  "box": {"type": "jargon", "label": "Jargon-buster - fiscal headroom", "intro": "Today's Budget speculation keeps coming back to this phrase.", "text": "\"Fiscal headroom\" is the gap between what the Chancellor plans to spend or borrow and the limit set by the government's own fiscal rules, as judged by OBR forecasts. Less headroom this time around means less room for new spending promises - schools included - without tax rises or cuts elsewhere."}
 }
