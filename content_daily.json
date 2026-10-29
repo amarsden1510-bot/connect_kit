@@ -1,15 +1,15 @@
 {
   "edition": "",
-  "date": "Wednesday 28 October 2026",
+  "date": "Thursday 29 October 2026",
   "topline": [
-    {"text": "Today's the big one: Chancellor John Healey delivers his first Budget this afternoon, with the OBR's updated Economic and Fiscal Outlook published alongside it.", "action": ""},
-    {"text": "Healey has declined to rule tax rises in or out; economists think the fiscal headroom his predecessor built up has likely narrowed, so treat any school-funding figures doing the rounds today as speculation until the statement itself.", "action": ""},
-    {"text": "Otherwise a genuinely quiet day - Sheffield schools stay closed for half term until Monday 2 November, and no major new UK schools story broke in the last 24 hours.", "action": ""},
-    {"text": "Reminder: the NEU's formal strike ballot over pay, funding and workload is still open and closes 15 December - turnout in the earlier indicative vote was under 50%.", "action": ""}
+    {"text": "The morning after: Chancellor John Healey's first Budget landed yesterday with little new money specifically for schools, and the OBR's forecast flags a widening SEND funding gap - full DfE detail is still to follow.", "action": ""},
+    {"text": "Treat any school-funding figures doing the rounds today as provisional until the Department for Education publishes its own breakdown of the settlement.", "action": ""},
+    {"text": "Genuinely quiet locally too - Sheffield schools stay closed for half term until Monday 2 November, so no new city-level stories broke in the last 24 hours.", "action": ""},
+    {"text": "Reminder: the NEU's formal strike ballot over pay, funding and workload is still open and closes 15 December.", "action": ""}
   ],
   "diary": [
     {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term continues."},
-    {"date": "28 Oct 2026", "color": "amber", "text": "Today: Chancellor John Healey's first Budget, with the OBR's Economic and Fiscal Outlook published alongside it."},
+    {"date": "30 Oct 2026", "color": "amber", "text": "First Schools Budget Support Grant 2026 payments due to go out to local authorities."},
     {"date": "15 Dec 2026", "color": "coral", "text": "NEU's formal strike ballot over pay, funding and workload closes."},
     {"date": "Early 2027", "color": "teal", "text": "UK City of Culture 2029 winner announced; Sheffield is one of four finalists."}
   ],
@@ -19,21 +19,34 @@
       "color": "amber",
       "items": [
         {
-          "lede": "All eyes on this afternoon's Budget.",
-          "body": "Chancellor John Healey - who took the role in July when Andy Burnham became Prime Minister - delivers his first Budget today, with the Office for Budget Responsibility's forecast published alongside it. He has so far declined to confirm or rule out tax rises, and analysts think the fiscal headroom built up by his predecessor has likely shrunk on weaker growth and higher borrowing costs. Nothing is confirmed yet on mainstream or high-needs school funding.",
-          "source": "LBC",
-          "url": "https://www.lbc.co.uk/politics/uk-politics/john-healey-fresh-challenge-ahead-of-first-budget-as-uk-debt-approaches-3tn/",
-          "action": "Hold off on budget-planning assumptions until this afternoon's statement and the DfE's response to it."
+          "lede": "Budget lands light for schools.",
+          "body": "Chancellor John Healey's first Budget, delivered yesterday alongside the OBR's updated forecast, included few new schools-specific announcements. The OBR's figures point to councils' cumulative SEND deficits continuing to widen sharply over the next couple of years - treat the exact scale as a reported, not independently verified, figure until DfE's own breakdown lands. Commentary also flagged that mainstream per-pupil funding is on track to fall in real terms, as funding is held flat against falling pupil numbers, with no new grant confirmed to cover schools' rising minimum-wage costs.",
+          "source": "Tes",
+          "url": "https://www.tes.com/magazine/news/general/budget-2026-everything-schools-need-know",
+          "action": "Hold off on budget-planning assumptions until the DfE publishes its own schools-funding breakdown of yesterday's settlement."
         },
         {
-          "lede": "NEU ballot still running.",
-          "body": "The NEU's formal strike ballot over pay, funding and workload - covering teachers and support staff separately - remains open and closes 15 December. In the earlier indicative ballot, 96% of responding teachers backed rejecting the pay offer and said they'd be prepared to take action, though turnout was under 50%.",
-          "source": "NEU",
-          "url": "https://www.neu.org.uk/latest/press-releases/neu-launch-formal-ballot-strike-action",
+          "lede": "SEND still the pressure point.",
+          "body": "Education Secretary Lucy Powell inherits a department where SEND cost pressures remain the dominant budget issue for schools and councils alike; expect more detail on how the Budget settlement feeds into the wider SEND reform programme in the coming weeks rather than today.",
+          "source": "Schools Week",
+          "url": "https://schoolsweek.co.uk/lucy-powell-appointed-education-secretary-in-andy-burnhams-reshuffle/",
+          "action": ""
+        }
+      ]
+    },
+    {
+      "heading": "Sheffield & South Yorkshire",
+      "color": "teal",
+      "items": [
+        {
+          "lede": "Still half term.",
+          "body": "Sheffield schools remain closed for the autumn half term until Monday 2 November. Academies can set their own dates, so it's worth double-checking individual school calendars before assuming a city-wide return.",
+          "source": "Sheffield City Council (via SaveMyExams term dates)",
+          "url": "https://www.savemyexams.com/learning-hub/school-holidays/england/south-yorkshire/sheffield-city-council/",
           "action": ""
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - fiscal headroom", "intro": "Today's Budget speculation keeps coming back to this phrase.", "text": "\"Fiscal headroom\" is the gap between what the Chancellor plans to spend or borrow and the limit set by the government's own fiscal rules, as judged by OBR forecasts. Less headroom this time around means less room for new spending promises - schools included - without tax rises or cuts elsewhere."}
+  "box": {"type": "datapoint", "big": "£5.7bn", "text": "The OBR's forecast for English councils' cumulative SEND overspend by 2027-28, cited in Budget coverage - a directional figure to watch rather than a confirmed exact one.", "attribution": "OBR, via Tes Budget 2026 coverage"}
 }
