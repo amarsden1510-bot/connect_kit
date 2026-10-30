@@ -1,15 +1,16 @@
 {
   "edition": "",
-  "date": "Thursday 29 October 2026",
+  "date": "Friday 30 October 2026",
   "topline": [
-    {"text": "The morning after: Chancellor John Healey's first Budget landed yesterday with little new money specifically for schools, and the OBR's forecast flags a widening SEND funding gap - full DfE detail is still to follow.", "action": ""},
-    {"text": "Treat any school-funding figures doing the rounds today as provisional until the Department for Education publishes its own breakdown of the settlement.", "action": ""},
-    {"text": "Genuinely quiet locally too - Sheffield schools stay closed for half term until Monday 2 November, so no new city-level stories broke in the last 24 hours.", "action": ""},
+    {"text": "Today is payment day for the 2026 Schools Budget Support Grant - about £635m nationally going out to local authorities - but it's a continuation of existing cost-pressure funding, not new Budget money.", "action": ""},
+    {"text": "DfE still hasn't published its own breakdown of Wednesday's Budget settlement, so keep treating school-funding figures doing the rounds - including on the SEND gap - as provisional.", "action": ""},
+    {"text": "Today is the final day of Sheffield schools' autumn half term; pupils return Monday 2 November - check individual academy calendars rather than assuming a uniform city-wide date.", "action": ""},
     {"text": "Reminder: the NEU's formal strike ballot over pay, funding and workload is still open and closes 15 December.", "action": ""}
   ],
   "diary": [
-    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term continues."},
-    {"date": "30 Oct 2026", "color": "amber", "text": "First Schools Budget Support Grant 2026 payments due to go out to local authorities."},
+    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term - today is the final day."},
+    {"date": "30 Oct 2026", "color": "amber", "text": "First Schools Budget Support Grant 2026 payments go out to local authorities."},
+    {"date": "2 Nov 2026", "color": "indigo", "text": "Sheffield schools return from half term."},
     {"date": "15 Dec 2026", "color": "coral", "text": "NEU's formal strike ballot over pay, funding and workload closes."},
     {"date": "Early 2027", "color": "teal", "text": "UK City of Culture 2029 winner announced; Sheffield is one of four finalists."}
   ],
@@ -19,17 +20,17 @@
       "color": "amber",
       "items": [
         {
-          "lede": "Budget lands light for schools.",
-          "body": "Chancellor John Healey's first Budget, delivered yesterday alongside the OBR's updated forecast, included few new schools-specific announcements. The OBR's figures point to councils' cumulative SEND deficits continuing to widen sharply over the next couple of years - treat the exact scale as a reported, not independently verified, figure until DfE's own breakdown lands. Commentary also flagged that mainstream per-pupil funding is on track to fall in real terms, as funding is held flat against falling pupil numbers, with no new grant confirmed to cover schools' rising minimum-wage costs.",
-          "source": "Tes",
-          "url": "https://www.tes.com/magazine/news/general/budget-2026-everything-schools-need-know",
-          "action": "Hold off on budget-planning assumptions until the DfE publishes its own schools-funding breakdown of yesterday's settlement."
+          "lede": "First SBSG 2026 payments land today.",
+          "body": "DfE is distributing roughly £635m nationally this financial year through the Schools Budget Support Grant 2026, covering centrally employed local-authority staff plus early years and post-16 provision; the first tranche reaches local authorities today, with academies paid in November. It's a continuation of existing cost-pressure support rather than new Budget money - the mainstream-schools element has already been folded into the national funding formula for 2026-27.",
+          "source": "GOV.UK - Department for Education",
+          "url": "https://www.gov.uk/government/publications/schools-budget-support-grant-2026-sbsg-26/schools-budget-support-grant-2026-methodology",
+          "action": "Check your local authority's payment schedule if you're relying on this grant for centrally-employed-staff costs this term."
         },
         {
-          "lede": "SEND still the pressure point.",
-          "body": "Education Secretary Lucy Powell inherits a department where SEND cost pressures remain the dominant budget issue for schools and councils alike; expect more detail on how the Budget settlement feeds into the wider SEND reform programme in the coming weeks rather than today.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/lucy-powell-appointed-education-secretary-in-andy-burnhams-reshuffle/",
+          "lede": "Budget breakdown still pending.",
+          "body": "Two days on from Chancellor John Healey's Budget, DfE has yet to publish its own schools-funding breakdown of the settlement. Keep holding off on budget-planning assumptions, including on the scale of the SEND funding gap, until that lands.",
+          "source": "Tes",
+          "url": "https://www.tes.com/magazine/news/general/budget-2026-everything-schools-need-know",
           "action": ""
         }
       ]
@@ -39,8 +40,8 @@
       "color": "teal",
       "items": [
         {
-          "lede": "Still half term.",
-          "body": "Sheffield schools remain closed for the autumn half term until Monday 2 November. Academies can set their own dates, so it's worth double-checking individual school calendars before assuming a city-wide return.",
+          "lede": "Half term's last day.",
+          "body": "Today is the final day of Sheffield's autumn half term before pupils return on Monday 2 November. Academies can set their own calendar, so it's worth checking individual school dates rather than assuming a uniform city-wide return.",
           "source": "Sheffield City Council (via SaveMyExams term dates)",
           "url": "https://www.savemyexams.com/learning-hub/school-holidays/england/south-yorkshire/sheffield-city-council/",
           "action": ""
@@ -48,5 +49,5 @@
       ]
     }
   ],
-  "box": {"type": "datapoint", "big": "£5.7bn", "text": "The OBR's forecast for English councils' cumulative SEND overspend by 2027-28, cited in Budget coverage - a directional figure to watch rather than a confirmed exact one.", "attribution": "OBR, via Tes Budget 2026 coverage"}
+  "box": {"type": "datapoint", "big": "£635m", "text": "DfE's Schools Budget Support Grant for 2026-27, covering centrally employed staff, early years and post-16 provision - first local-authority payments go out today.", "attribution": "DfE, Schools Budget Support Grant 2026 methodology"}
 }
