@@ -1,35 +1,25 @@
 {
-  "edition": "Issue 07",
-  "date": "week ending Friday 23 October 2026",
+  "edition": "Issue 08",
+  "date": "week ending Friday 30 October 2026",
   "topline": [
     {
-      "text": "Government has accepted all 27 recommendations of Sir David Bell's independent review into antisemitism in schools and colleges, published 21 October. Ofsted and the Independent Schools Inspectorate will get a new thematic-scrutiny role over how trusts handle discriminatory incidents, alongside new leader training.",
-      "action": "Worth flagging to your safeguarding and EDI leads now — 'how we handle discriminatory incidents' looks set to become an explicit watch point at trust level, not just for schools with a prior incident."
+      "text": "Chancellor John Healey delivered his first Autumn Budget on Wednesday 28 October, and it landed light for schools: no new core funding grant, and the OBR's own forecast flags councils' cumulative SEND overspend reaching roughly £5.7bn by 2027-28 (a directional figure, not a confirmed exact one). The two confirmed education lines were a £60m-a-year uplift for PE and school sport partnerships, and up to £5m a year for three years from 2027-28 to get more books to pre-school children.",
+      "action": "Don't build budget-planning assumptions on today's commentary — wait for the DfE's own schools-funding breakdown of the settlement before adjusting any forecasts."
     },
     {
-      "text": "Susan Acland-Hood is stepping down as the DfE's permanent secretary after six years in the role; Home Office second permanent secretary Simon Ridley takes over in November.",
-      "action": "No direct action, but worth knowing of the change in the civil servant leading DfE's delivery of SEND reform, the Education for All Bill and the Ofsted framework review."
+      "text": "The Local Government Association's post-Budget briefing welcomes the already-announced 90% write-off of historic council SEND deficits, but says the Budget gave no clarity on how deficits building up in 2026-27 and 2027-28 will be handled once the Dedicated Schools Grant accounting override ends in 2028. Separately, some councils' write-offs are still being finalised rather than banked.",
+      "action": "If your trust works closely with Sheffield City Council on SEND placements or EHCP funding, it's worth asking where the council's own deficit write-off stands before assuming the financial pressure has eased."
     },
     {
-      "text": "The Autumn Budget lands Wednesday 28 October — Chancellor John Healey's first since replacing Rachel Reeves. Commentators flag the mounting high-needs deficit and the 2027-28 end of the Dedicated Schools Grant accounting override as a major risk to watch for.",
-      "action": "Nothing to do yet, but worth blocking time just after half-term to read the schools and SEND funding detail once it's published."
+      "text": "The DfE has opened a call for evidence on exclusion reform, covering a time-limited internal suspension framework, formal reintegration-support partnerships after a suspension, and the day-one schoolwork duty flagged in last week's edition. It closes 19 November.",
+      "action": "Worth a look from whoever leads your behaviour policy — this is the detail stage of reforms that could reshape how suspensions and reintegration work, and responding now is the way to influence the final shape."
     },
     {
-      "text": "A genuinely quiet week for SEND, behaviour/exclusions and Sheffield-specific news — nothing new and reliably dated surfaced on any of those beats this week, so we're saying so rather than padding.",
-      "action": "No action needed — a good week to clear any backlog from the last few weeks' heavier editions instead."
+      "text": "A genuinely quiet week nationally for Ofsted and safeguarding specifically, and Sheffield schools have been shut for half term since Monday — so this edition is lighter than usual on those two beats rather than padded out.",
+      "action": "No action needed — a reasonable week to catch up on the exclusion reform call for evidence or the Budget detail instead."
     }
   ],
   "diary": [
-    {
-      "date": "28 Oct 2026",
-      "color": "amber",
-      "text": "Autumn school census deadline — the DfE says T Level and ILR data errors cannot be corrected after this date."
-    },
-    {
-      "date": "28 Oct 2026",
-      "color": "indigo",
-      "text": "Autumn Budget 2026 — Chancellor John Healey's first, with SEND and high-needs funding a key watch point."
-    },
     {
       "date": "6 Nov 2026",
       "color": "grey",
@@ -39,32 +29,29 @@
       "date": "11 Nov 2026",
       "color": "coral",
       "text": "5pm deadline for Care to Learn and 16-19 Bursary Fund claim forms, per the DfE's 30 September Update."
+    },
+    {
+      "date": "19 Nov 2026",
+      "color": "amber",
+      "text": "DfE's call for evidence on exclusion reform (internal suspension, reintegration partnerships, day-one schoolwork) closes."
+    },
+    {
+      "date": "15 Dec 2026",
+      "color": "indigo",
+      "text": "NEU's formal strike ballot of teachers and support staff over pay, funding and workload closes."
     }
   ],
   "sections": [
-    {
-      "heading": "Ofsted & accountability",
-      "color": "purple",
-      "items": [
-        {
-          "lede": "Antisemitism review lands with 27 accepted recommendations — and a new Ofsted remit.",
-          "body": "Sir David Bell's independent review, launched after Bristol Brunel Academy postponed a visit from Jewish MP Damien Egan earlier this year, reported on 21 October with 27 recommendations covering leader training and how schools respond to external campaigners. Government has accepted all of them in full. Among the changes: Ofsted and the Independent Schools Inspectorate will carry out thematic scrutiny of how academy trusts implement and oversee antisemitism policy, rather than leaving it solely to individual school inspections. It lands only a fortnight after ASCL and NAHT's no-confidence motions in Ofsted's leadership over the report-card framework's wellbeing toll — handing Ofsted a new, specific accountability role at the same moment its general capacity and credibility are under the heaviest scrutiny in years.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/antisemitism-review-new-training-and-ofsted-trust-scrutiny-pledged/",
-          "action": "Worth a line in your next safeguarding/EDI self-evaluation on how your trust (not just your school) records and responds to discriminatory incidents, since that trust-level view is now explicitly inspectable."
-        }
-      ]
-    },
     {
       "heading": "National policy",
       "color": "indigo",
       "items": [
         {
-          "lede": "DfE's top civil servant departs as multiple reform threads stay live.",
-          "body": "Susan Acland-Hood is stepping down as DfE permanent secretary after six years in the post; Simon Ridley, currently second permanent secretary at the Home Office, takes over in November. The handover comes mid-stream on several fronts the department is juggling at once: the Ofsted framework review ministers have asked for, the SEND reforms expected via the Education for All Bill, and Wednesday's Autumn Budget. Flag: no reporting yet on whether the change affects timelines for any of those.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/acland-hood-replaced-as-dfe-permanent-secretary/",
-          "action": "No direct action for schools, but worth knowing of the change if your trust deals directly with DfE officials on live consultations."
+          "lede": "Budget lands light for schools, with the SEND funding gap the real story.",
+          "body": "Chancellor John Healey's first Budget included few schools-specific announcements beyond the £60m-a-year PE and school sport uplift and the £15m pre-school books commitment. The bigger signal was the OBR's own forecast of a widening council SEND deficit, and commentary that mainstream per-pupil funding is on track to fall in real terms as funding is held flat against falling pupil numbers, with no new grant confirmed to cover schools' rising minimum-wage costs. It's the first full fiscal event under Education Secretary Lucy Powell, who took over from Bridget Phillipson in the summer reshuffle that also brought in Healey as Chancellor.",
+          "source": "Tes",
+          "url": "https://www.tes.com/magazine/news/general/budget-2026-everything-schools-need-know",
+          "action": "Hold off on budget-planning assumptions until the DfE publishes its own schools-funding breakdown of this settlement, expected in the coming weeks."
         }
       ]
     },
@@ -73,11 +60,11 @@
       "color": "teal",
       "items": [
         {
-          "lede": "No new DfE Update this week — but the Autumn Budget is five days away.",
-          "body": "There's no fresh DfE Update bulletin to report since 7 October's edition on census and high-needs deadlines (both in the diary below). The bigger story is what's coming: Chancellor John Healey delivers his first Autumn Budget on Wednesday 28 October, the first fiscal event of Andy Burnham's premiership. Budget-watchers are flagging the growing council SEND deficit and the 2027-28 end of the Dedicated Schools Grant statutory override as a major risk area, though there's no detail yet on what, if anything, the Budget will do about it.",
-          "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/news/budget-to-move-power-and-money-out-of-westminster-and-into-every-postcode-around-britain",
-          "action": "Hold off reacting until the Budget detail lands on the 28th — but worth reading the schools/SEND coverage that day or the morning after, given how much rides on it."
+          "lede": "SEND deficit write-off welcomed, but the next two years are still unresolved.",
+          "body": "The LGA's Autumn Budget briefing says councils welcomed the previously-announced 90% write-off of historic Dedicated Schools Grant deficits, but is disappointed there's no clarity in this Budget on how deficits accruing in 2026-27 and 2027-28 will be addressed before the accounting override ends in 2028. Separately, councils are reportedly unhappy that surpluses in other DSG blocks will offset their deficits in practice, meaning some will see less than a full 90% write-off — and a number of councils won't have their deficits written off this autumn at all because their SEND reform plans need more work. It's the same structural problem the Budget was meant to start answering, and didn't.",
+          "source": "Local Government Association",
+          "url": "https://www.local.gov.uk/autumn-budget-2026",
+          "action": "Worth checking directly with Sheffield City Council's finance team where its own write-off and SEND reform plan stand, rather than assuming national coverage reflects the local position."
         }
       ]
     },
@@ -86,11 +73,24 @@
       "color": "magenta",
       "items": [
         {
-          "lede": "Quiet week — both beats are in a holding pattern.",
-          "body": "Nothing new and reliably dated surfaced this week on SEND reform or on behaviour, exclusions and attendance. The Education for All Bill, confirmed at May's King's Speech, still hasn't been introduced to Parliament, and most of its reforms aren't expected before 2029. The DfE's consultation on a statutory duty to set suspended pupils' work from day one — opened in mid-October and covered last week — remains open, with no reaction piece yet from sector bodies. We're flagging the quiet week rather than padding with older material.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/dfe-plans-legal-duty-for-schools-to-set-work-during-first-five-days-of-exclusion/",
-          "action": "No action needed this week — but if you haven't already, it's worth checking your current suspension-work process against a day-one standard ahead of that consultation closing."
+          "lede": "Exclusion reform moves from consultation to call for evidence.",
+          "body": "The DfE has opened a formal call for evidence on three proposals trailed in the Schools White Paper: a time-limited internal suspension framework that keeps pupils on-site rather than sending them home, formal reintegration-support partnerships with an agreed plan after a suspension, and the day-one schoolwork duty covered in last week's edition. It closes 19 November. A charity response from Contact has already flagged that most exclusions are linked to needs not being properly supported, and says it will push for the reforms to work for children with SEND specifically — a reminder that behaviour and SEND policy are, in practice, the same conversation.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/calls-for-evidence/school-exclusion-reform",
+          "action": "If your school or trust has a view on internal suspension or reintegration practice, this is the window to feed it in before the policy hardens — treat current proposals as indicative, not settled."
+        }
+      ]
+    },
+    {
+      "heading": "Ofsted & accountability",
+      "color": "purple",
+      "items": [
+        {
+          "lede": "Quiet week — nothing new and reliably dated surfaced nationally.",
+          "body": "No fresh Ofsted policy announcement or framework change was reliably dated to this week in our searches. We're flagging the quiet week rather than reaching back into older Big Listen or report-card coverage to pad this section out.",
+          "source": "Editorial note",
+          "url": "https://www.gov.uk/government/organisations/ofsted",
+          "action": "No action needed this week."
         }
       ]
     },
@@ -99,11 +99,11 @@
       "color": "coral",
       "items": [
         {
-          "lede": "This week's safeguarding story sits under Ofsted & accountability, above.",
-          "body": "The antisemitism review's new training and trust-scrutiny commitments are the week's main safeguarding-relevant development — see the Ofsted & accountability section above for the full detail. Beyond that, it's a quiet week: KCSIE and RSHE 2026 have been in effect since 1 September with no amendments reported, and there's no dated follow-up yet to the Bradford social-media-use trial covered in last week's edition.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/antisemitism-review-new-training-and-ofsted-trust-scrutiny-pledged/",
-          "action": "No action needed — results from the Bradford trial aren't expected before next year."
+          "lede": "Quiet week nationally on safeguarding specifically.",
+          "body": "Nothing new and reliably dated on safeguarding policy surfaced this week beyond the ongoing NEU formal strike ballot over pay, funding and workload, which closes 15 December and sits as much in the wellbeing and workload space as in industrial relations (see diary). KCSIE 2026 remains in effect since 1 September with no amendments reported.",
+          "source": "NEU",
+          "url": "https://neu.org.uk/latest/press-releases/neu-launch-formal-ballot-strike-action",
+          "action": "Worth keeping half an eye on the NEU ballot outcome in December, given the direct read-across to staff workload and wellbeing conversations in your own setting."
         }
       ]
     },
@@ -112,19 +112,19 @@
       "color": "grey",
       "items": [
         {
-          "lede": "Quiet locally — and last week's Firth Park Academy funding decision is still unconfirmed.",
-          "body": "Sheffield City Council's finance and performance committee was due to consider releasing £602,000 for Lift Firth Park Academy's secondary expansion at its 19 October meeting (flagged in last week's edition). We couldn't find any published outcome from that meeting in this week's searches — no council minutes or follow-up coverage have surfaced yet. No other new Sheffield or South Yorkshire education story was reliably dated this week.",
+          "lede": "A strong set of local Ofsted results, but half term keeps the wider picture quiet.",
+          "body": "The Star's latest round-up reports ten Sheffield schools and nurseries praised in reports published across September and October, including High Storrs School's top grade in all seven areas and Bright Horizons Millhouses Day Nursery matching it. Beyond that, the city's schools have been closed for the autumn half term since Monday 26 October, returning 2 November, so no new city-level education story broke this week. Last week's unresolved Firth Park Academy funding decision still has no published outcome in our searches.",
           "source": "The Star",
-          "url": "https://www.thestar.co.uk/news/politics/council/sheffield-secondary-schools-expanding-to-cope-with-need-for-more-pupil-places-9283078",
-          "action": "If you need to know the outcome, it's worth checking directly with the council rather than waiting for it to surface in press coverage."
+          "url": "https://www.thestar.co.uk/education/ofsted-round-up-oct-26-2026-9310799",
+          "action": "If you need the Firth Park funding outcome, it's still worth checking directly with the council rather than waiting for it to surface in press coverage."
         }
       ]
     }
   ],
   "box": {
-    "type": "jargon",
-    "label": "Jargon-buster",
-    "intro": "DSG override",
-    "text": "Short for the Dedicated Schools Grant statutory override — an accounting rule that lets councils keep SEND overspends off their main balance sheet, rather than counting as a historic deficit against their reserves. Government has already written off around £5bn of deficits built up under it, and the OBR expects another £8.6bn to accrue before the override is due to end in 2028. What happens then, with councils' SEND deficits no longer ring-fenced, is one of the biggest unresolved questions hanging over this week's Autumn Budget."
+    "type": "corridor",
+    "label": "From the corridor",
+    "quote": "A Budget with two schools-specific lines and one eight-figure SEND deficit forecast tells you where the real pressure sits this year.",
+    "author": "Editor's note"
   }
 }
