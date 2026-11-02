@@ -1,35 +1,40 @@
 {
   "edition": "",
-  "date": "Thursday 29 October 2026",
+  "date": "Monday 2 November 2026",
   "topline": [
-    {"text": "The morning after: Chancellor John Healey's first Budget landed yesterday with little new money specifically for schools, and the OBR's forecast flags a widening SEND funding gap - full DfE detail is still to follow.", "action": ""},
-    {"text": "Treat any school-funding figures doing the rounds today as provisional until the Department for Education publishes its own breakdown of the settlement.", "action": ""},
-    {"text": "Genuinely quiet locally too - Sheffield schools stay closed for half term until Monday 2 November, so no new city-level stories broke in the last 24 hours.", "action": ""},
-    {"text": "Reminder: the NEU's formal strike ballot over pay, funding and workload is still open and closes 15 December.", "action": ""}
+    {"text": "Genuinely quiet 24-48 hours nationally and in Sheffield - no major DfE, Ofsted or local stories broke over the weekend, so today's edition runs short rather than padded.", "action": ""},
+    {"text": "Correction to flag: the NEU's formal pay/funding strike ballot is paused, not open - drop any reference to it closing 15 December.", "action": ""},
+    {"text": "Sheffield's community and voluntary-controlled schools return from half term today; academies can set their own dates, so some may differ.", "action": ""},
+    {"text": "Worth a diary note: DfE's call for evidence on school exclusion reform closes in under three weeks, on 19 November.", "action": "Consider whether the MAPs programme's alternative-provision experience is worth feeding into that call before it closes."}
   ],
   "diary": [
-    {"date": "26-30 Oct 2026", "color": "purple", "text": "Sheffield schools' autumn half term continues."},
-    {"date": "30 Oct 2026", "color": "amber", "text": "First Schools Budget Support Grant 2026 payments due to go out to local authorities."},
-    {"date": "15 Dec 2026", "color": "coral", "text": "NEU's formal strike ballot over pay, funding and workload closes."},
-    {"date": "Early 2027", "color": "teal", "text": "UK City of Culture 2029 winner announced; Sheffield is one of four finalists."}
+    {"date": "2 Nov 2026", "color": "teal", "text": "Sheffield's community and voluntary-controlled schools return from autumn half term (academies may vary)."},
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes."},
+    {"date": "Early 2027", "color": "purple", "text": "UK City of Culture 2029 winner announced; Sheffield is one of four finalists."}
   ],
   "sections": [
     {
-      "heading": "National policy & funding",
-      "color": "amber",
+      "heading": "Behaviour, exclusions & inclusion",
+      "color": "coral",
       "items": [
         {
-          "lede": "Budget lands light for schools.",
-          "body": "Chancellor John Healey's first Budget, delivered yesterday alongside the OBR's updated forecast, included few new schools-specific announcements. The OBR's figures point to councils' cumulative SEND deficits continuing to widen sharply over the next couple of years - treat the exact scale as a reported, not independently verified, figure until DfE's own breakdown lands. Commentary also flagged that mainstream per-pupil funding is on track to fall in real terms, as funding is held flat against falling pupil numbers, with no new grant confirmed to cover schools' rising minimum-wage costs.",
-          "source": "Tes",
-          "url": "https://www.tes.com/magazine/news/general/budget-2026-everything-schools-need-know",
-          "action": "Hold off on budget-planning assumptions until the DfE publishes its own schools-funding breakdown of yesterday's settlement."
-        },
+          "lede": "Exclusion reform evidence call closes 19 November.",
+          "body": "DfE's call for evidence on school exclusion reform - covering behaviour management strategies, in-school units and managed moves - closes in under three weeks. Responses will feed into the government's wider 'Every child achieving and thriving' reform programme, so it's a live channel for sector views on AP and inclusion practice rather than a done deal.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/calls-for-evidence/school-exclusion-reform",
+          "action": "Flag the 19 November deadline to anyone in the MAPs network who wants to submit evidence."
+        }
+      ]
+    },
+    {
+      "heading": "Pay & funding - correction",
+      "color": "grey",
+      "items": [
         {
-          "lede": "SEND still the pressure point.",
-          "body": "Education Secretary Lucy Powell inherits a department where SEND cost pressures remain the dominant budget issue for schools and councils alike; expect more detail on how the Budget settlement feeds into the wider SEND reform programme in the coming weeks rather than today.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/lucy-powell-appointed-education-secretary-in-andy-burnhams-reshuffle/",
+          "lede": "NEU ballot is paused, not live.",
+          "body": "Contrary to a line that's been doing the rounds, the NEU's national executive paused its planned formal strike ballot over pay, funding and workload in late September, after the government ruled out clawing back schools' pension-contribution savings. No new ballot date has been set, so the 15 December closing date some coverage still cites is out of date.",
+          "source": "LBC / NEU",
+          "url": "https://www.lbc.co.uk/article/largest-education-union-pauses-ballot-on-strike-action-over-teacher-pay-5HjdhyH_2/",
           "action": ""
         }
       ]
@@ -39,14 +44,14 @@
       "color": "teal",
       "items": [
         {
-          "lede": "Still half term.",
-          "body": "Sheffield schools remain closed for the autumn half term until Monday 2 November. Academies can set their own dates, so it's worth double-checking individual school calendars before assuming a city-wide return.",
-          "source": "Sheffield City Council (via SaveMyExams term dates)",
-          "url": "https://www.savemyexams.com/learning-hub/school-holidays/england/south-yorkshire/sheffield-city-council/",
+          "lede": "Back from half term, on a high.",
+          "body": "Sheffield's community and voluntary-controlled schools return today. Over half term, The Star's round-up of recent Ofsted outcomes highlighted a strong run for the city, with ten schools and nurseries inspected describing them as happy, welcoming and ambitious.",
+          "source": "The Star",
+          "url": "https://www.thestar.co.uk/education/ofsted-round-up-oct-26-2026-9310799",
           "action": ""
         }
       ]
     }
   ],
-  "box": {"type": "datapoint", "big": "£5.7bn", "text": "The OBR's forecast for English councils' cumulative SEND overspend by 2027-28, cited in Budget coverage - a directional figure to watch rather than a confirmed exact one.", "attribution": "OBR, via Tes Budget 2026 coverage"}
+  "box": {"type": "datapoint", "big": "19 Nov", "text": "Closing date for DfE's call for evidence on school exclusion reform, covering behaviour strategies, in-school units and managed moves.", "attribution": "GOV.UK call for evidence"}
 }
