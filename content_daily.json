@@ -1,14 +1,14 @@
 {
   "edition": "",
-  "date": "Wednesday 4 November 2026",
+  "date": "Thursday 5 November 2026",
   "topline": [
-    {"text": "Another genuinely quiet 24-48 hours - across DfE, Ofsted, safeguarding, funding and Sheffield/South Yorkshire sources, nothing cleared the bar for new, properly corroborated news, so today's edition runs short rather than padded.", "action": ""},
-    {"text": "One to put on the radar: DfE's accredited statistics release for autumn-term 2025/26 suspensions and permanent exclusions is due this month, with no exact day confirmed yet.", "action": ""},
-    {"text": "Reminder, not new: DfE's call for evidence on school exclusion reform still closes 19 November - under three weeks away.", "action": ""}
+    {"text": "Another quiet 24-48 hours - across DfE, Ofsted, safeguarding, funding and Sheffield/South Yorkshire sources, nothing new and properly corroborated cleared the bar, so today's edition runs short rather than padded.", "action": ""},
+    {"text": "Reminder, not new: DfE's call for evidence on school exclusion reform now closes in two weeks, on 19 November.", "action": ""},
+    {"text": "Still on the radar: DfE's accredited statistics release for autumn-term 2025/26 suspensions and permanent exclusions is due this month, with no exact day confirmed yet.", "action": ""}
   ],
   "diary": [
-    {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."},
-    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes."}
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (white paper proposals on internal suspension, reintegration and parental engagement) closes."},
+    {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."}
   ],
   "sections": [
     {
@@ -16,14 +16,14 @@
       "color": "coral",
       "items": [
         {
-          "lede": "Autumn exclusion stats due this month.",
-          "body": "DfE's accredited statistics announcement confirms the autumn term 2025/26 suspensions and permanent exclusions release - broken down by school type, with reasons - is scheduled for November, though an exact publication day hasn't been set. It'll be the first in-year readout since the 2024/25 full-year figures came out in the summer.",
+          "lede": "Exclusion-reform call for evidence: two weeks left to respond.",
+          "body": "DfE's call for evidence on school exclusion reform - part of the 'Every child achieving and thriving' white paper - is seeking views from practitioners and researchers on proposals including wider use of internal suspension, reintegration support and parental engagement. It closes 19 November.",
           "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/statistics/announcements/suspensions-and-permanent-exclusions-autumn-202526",
-          "action": "Worth flagging to the inclusion team as one to watch for this year's AP and exclusions trend once it lands."
+          "url": "https://www.gov.uk/government/calls-for-evidence/school-exclusion-reform",
+          "action": "Worth a quick nudge to anyone on the inclusion team who wants input in before the window closes."
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - managed move", "intro": "Comes up throughout DfE's live exclusion-reform consultation.", "text": "A voluntary, agreed transfer of a pupil to a different mainstream school - with both schools' and the parents' consent - used as an alternative to permanent exclusion. It's one of the behaviour tools DfE's call for evidence (closing 19 Nov) is asking the sector to weigh in on."}
+  "box": {"type": "jargon", "label": "Jargon-buster - internal suspension", "intro": "Comes up throughout DfE's live exclusion-reform call for evidence.", "text": "Removing a pupil from their usual class or timetable for a fixed period while keeping them on the school site, supervised separately, rather than issuing a formal suspension. DfE is asking the sector whether wider, more consistent use of it could reduce reliance on off-site suspensions."}
 }
