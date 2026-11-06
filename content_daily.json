@@ -1,29 +1,29 @@
 {
   "edition": "",
-  "date": "Wednesday 4 November 2026",
+  "date": "Friday 6 November 2026",
   "topline": [
-    {"text": "Another genuinely quiet 24-48 hours - across DfE, Ofsted, safeguarding, funding and Sheffield/South Yorkshire sources, nothing cleared the bar for new, properly corroborated news, so today's edition runs short rather than padded.", "action": ""},
-    {"text": "One to put on the radar: DfE's accredited statistics release for autumn-term 2025/26 suspensions and permanent exclusions is due this month, with no exact day confirmed yet.", "action": ""},
-    {"text": "Reminder, not new: DfE's call for evidence on school exclusion reform still closes 19 November - under three weeks away.", "action": ""}
+    {"text": "Another quiet 24-48 hours - across DfE, Ofsted, safeguarding, funding and Sheffield/South Yorkshire sources, nothing cleared the bar for new, properly corroborated news, so today's edition runs short rather than padded.", "action": ""},
+    {"text": "Clock's ticking: DfE's call for evidence on school exclusion reform now closes in under two weeks (19 Nov).", "action": ""},
+    {"text": "Still pending: DfE's autumn 2025/26 suspensions and permanent exclusions statistics were due \"this month\" but no exact publication day has been confirmed yet.", "action": ""}
   ],
   "diary": [
-    {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."},
-    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes."}
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes."},
+    {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."}
   ],
   "sections": [
     {
-      "heading": "Behaviour & exclusions",
+      "heading": "Behaviour & exclusions reform",
       "color": "coral",
       "items": [
         {
-          "lede": "Autumn exclusion stats due this month.",
-          "body": "DfE's accredited statistics announcement confirms the autumn term 2025/26 suspensions and permanent exclusions release - broken down by school type, with reasons - is scheduled for November, though an exact publication day hasn't been set. It'll be the first in-year readout since the 2024/25 full-year figures came out in the summer.",
+          "lede": "Exclusion reform call for evidence - under two weeks left to respond.",
+          "body": "DfE's call for evidence on school exclusion reform, covering behaviour strategies, in-school units and managed moves, closes 19 November. It's seeking views from practitioners on reintegration barriers, parental engagement and what support works for different pupil groups - worth a look if the inclusion team wants its evidence reflected before it shuts.",
           "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/statistics/announcements/suspensions-and-permanent-exclusions-autumn-202526",
-          "action": "Worth flagging to the inclusion team as one to watch for this year's AP and exclusions trend once it lands."
+          "url": "https://www.gov.uk/government/calls-for-evidence/school-exclusion-reform",
+          "action": "Flag the 19 Nov deadline to the inclusion team now if a response is wanted."
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - managed move", "intro": "Comes up throughout DfE's live exclusion-reform consultation.", "text": "A voluntary, agreed transfer of a pupil to a different mainstream school - with both schools' and the parents' consent - used as an alternative to permanent exclusion. It's one of the behaviour tools DfE's call for evidence (closing 19 Nov) is asking the sector to weigh in on."}
+  "box": {"type": "jargon", "label": "Jargon-buster - in-school unit (ISU)", "intro": "One of the behaviour tools DfE's live exclusion-reform call for evidence is asking about.", "text": "A supervised space within a mainstream school - sometimes called a reintegration or support unit - where a pupil is placed for a fixed period, away from mainstream lessons, to manage behaviour before returning to class. It's used as a step short of suspension or exclusion."}
 }
