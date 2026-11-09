@@ -1,29 +1,42 @@
 {
   "edition": "",
-  "date": "Wednesday 4 November 2026",
+  "date": "Monday 9 November 2026",
   "topline": [
-    {"text": "Another genuinely quiet 24-48 hours - across DfE, Ofsted, safeguarding, funding and Sheffield/South Yorkshire sources, nothing cleared the bar for new, properly corroborated news, so today's edition runs short rather than padded.", "action": ""},
-    {"text": "One to put on the radar: DfE's accredited statistics release for autumn-term 2025/26 suspensions and permanent exclusions is due this month, with no exact day confirmed yet.", "action": ""},
-    {"text": "Reminder, not new: DfE's call for evidence on school exclusion reform still closes 19 November - under three weeks away.", "action": ""}
+    {"text": "Sheffield's Talbot Specialist School - a council-run SEND school - saw NEU members walk out on 5 November, with further strike days threatened across the month in a dispute over workload and safe working practices.", "action": "Worth noting if AP/SEND placement conversations touch Talbot's capacity over the coming weeks."},
+    {"text": "Otherwise another quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding or funding story cleared the corroboration bar, so today's edition stays short rather than padded.", "action": ""},
+    {"text": "Reminder: DfE's call for evidence on exclusion reform closes in 10 days, on 19 November.", "action": ""}
   ],
   "diary": [
-    {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."},
-    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes."}
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes - 10 days away."},
+    {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."}
   ],
   "sections": [
     {
-      "heading": "Behaviour & exclusions",
-      "color": "coral",
+      "heading": "Sheffield & South Yorkshire",
+      "color": "teal",
       "items": [
         {
-          "lede": "Autumn exclusion stats due this month.",
-          "body": "DfE's accredited statistics announcement confirms the autumn term 2025/26 suspensions and permanent exclusions release - broken down by school type, with reasons - is scheduled for November, though an exact publication day hasn't been set. It'll be the first in-year readout since the 2024/25 full-year figures came out in the summer.",
-          "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/statistics/announcements/suspensions-and-permanent-exclusions-autumn-202526",
-          "action": "Worth flagging to the inclusion team as one to watch for this year's AP and exclusions trend once it lands."
+          "lede": "NEU strike action hits Talbot Specialist School.",
+          "body": "Staff at Talbot Specialist School - one of the few Sheffield schools still maintained directly by the council rather than a trust - walked out on Thursday 5 November, with the NEU threatening several more strike days across November. The union cites excessive workload and unsafe working practices; the council has asked members to reconsider.",
+          "source": "The Star (Sheffield)",
+          "url": "https://www.thestar.co.uk/education/talbot-specialist-school-nov-6-2026-9334061",
+          "action": "Flag to the inclusion team if ongoing disruption affects SEND placement or referral capacity at Talbot over the coming weeks."
+        }
+      ]
+    },
+    {
+      "heading": "Behaviour & exclusions",
+      "color": "amber",
+      "items": [
+        {
+          "lede": "Exclusion reform feedback window narrows.",
+          "body": "DfE's call for evidence on exclusion reform - covering behaviour strategies, in-school units and managed moves - closes in 10 days, on 19 November. The accompanying autumn 2025/26 suspensions and permanent exclusions statistics are still due this month, with no exact publication date confirmed yet.",
+          "source": "Local Government Lawyer / GOV.UK",
+          "url": "https://localgovernmentlawyer.co.uk/education-law/394-education-news/102055-department-for-education-in-call-for-evidence-on-school-exclusion-reforms",
+          "action": "Last call for the inclusion team to get any evidence in before the window closes."
         }
       ]
     }
   ],
-  "box": {"type": "jargon", "label": "Jargon-buster - managed move", "intro": "Comes up throughout DfE's live exclusion-reform consultation.", "text": "A voluntary, agreed transfer of a pupil to a different mainstream school - with both schools' and the parents' consent - used as an alternative to permanent exclusion. It's one of the behaviour tools DfE's call for evidence (closing 19 Nov) is asking the sector to weigh in on."}
+  "box": {"type": "corridor", "quote": "Failing to engage in meaningful dialogue.", "author": "Rafia Hussain, NEU Sheffield branch secretary, on the Talbot dispute"}
 }
