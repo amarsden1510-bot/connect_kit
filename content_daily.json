@@ -1,26 +1,27 @@
 {
   "edition": "",
-  "date": "Monday 9 November 2026",
+  "date": "Tuesday 10 November 2026",
   "topline": [
-    {"text": "Sheffield's Talbot Specialist School - a council-run SEND school - saw NEU members walk out on 5 November, with further strike days threatened across the month in a dispute over workload and safe working practices.", "action": "Worth noting if AP/SEND placement conversations touch Talbot's capacity over the coming weeks."},
-    {"text": "Otherwise another quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding or funding story cleared the corroboration bar, so today's edition stays short rather than padded.", "action": ""},
-    {"text": "Reminder: DfE's call for evidence on exclusion reform closes in 10 days, on 19 November.", "action": ""}
+    {"text": "Another quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding, SEND or funding announcement cleared the corroboration bar, so today's edition stays short rather than padded.", "action": ""},
+    {"text": "Anti-Bullying Week 2026 runs 16-20 November under the theme 'Break the Silence', set by the Anti-Bullying Alliance with input from 200+ children and young people.", "action": "Worth slotting into next week's assembly/PSHE calendar now if it isn't locked in already."},
+    {"text": "Reminder: DfE's call for evidence on exclusion reform closes in 9 days, on 19 November.", "action": ""}
   ],
   "diary": [
-    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes - 10 days away."},
+    {"date": "16-20 Nov 2026", "color": "coral", "text": "Anti-Bullying Week 2026 - 'Break the Silence' theme; Odd Socks Day opens the week on 16 Nov."},
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes - 9 days away."},
     {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."}
   ],
   "sections": [
     {
-      "heading": "Sheffield & South Yorkshire",
+      "heading": "Safeguarding & wellbeing",
       "color": "teal",
       "items": [
         {
-          "lede": "NEU strike action hits Talbot Specialist School.",
-          "body": "Staff at Talbot Specialist School - one of the few Sheffield schools still maintained directly by the council rather than a trust - walked out on Thursday 5 November, with the NEU threatening several more strike days across November. The union cites excessive workload and unsafe working practices; the council has asked members to reconsider.",
-          "source": "The Star (Sheffield)",
-          "url": "https://www.thestar.co.uk/education/talbot-specialist-school-nov-6-2026-9334061",
-          "action": "Flag to the inclusion team if ongoing disruption affects SEND placement or referral capacity at Talbot over the coming weeks."
+          "lede": "Anti-Bullying Week sets 'Break the Silence' theme.",
+          "body": "The Anti-Bullying Alliance has confirmed Anti-Bullying Week 2026 runs 16-20 November, with this year's theme - shaped directly by over 200 children and young people - highlighting that many still don't tell anyone when they're bullied. Odd Socks Day on 16 November opens the week, and free assembly, lesson and discussion resources are already available.",
+          "source": "NCB / Anti-Bullying Alliance",
+          "url": "https://www.ncb.org.uk/about-us/media-centre/news-opinion/children-suffering-bullying-silence-anti-bullying-week-2026",
+          "action": "Useful lead time to build into next week's assembly/PSHE planning if not already in the diary."
         }
       ]
     },
@@ -29,14 +30,14 @@
       "color": "amber",
       "items": [
         {
-          "lede": "Exclusion reform feedback window narrows.",
-          "body": "DfE's call for evidence on exclusion reform - covering behaviour strategies, in-school units and managed moves - closes in 10 days, on 19 November. The accompanying autumn 2025/26 suspensions and permanent exclusions statistics are still due this month, with no exact publication date confirmed yet.",
-          "source": "Local Government Lawyer / GOV.UK",
-          "url": "https://localgovernmentlawyer.co.uk/education-law/394-education-news/102055-department-for-education-in-call-for-evidence-on-school-exclusion-reforms",
+          "lede": "Exclusion reform feedback window narrows further.",
+          "body": "DfE's call for evidence on exclusion reform - covering behaviour strategies, in-school units and managed moves - now closes in 9 days, on 19 November. The accompanying autumn 2025/26 suspensions and permanent exclusions statistics are still due this month, with no exact publication date yet confirmed on GOV.UK.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/statistics/announcements/suspensions-and-permanent-exclusions-in-england-2025-to-2026",
           "action": "Last call for the inclusion team to get any evidence in before the window closes."
         }
       ]
     }
   ],
-  "box": {"type": "corridor", "quote": "Failing to engage in meaningful dialogue.", "author": "Rafia Hussain, NEU Sheffield branch secretary, on the Talbot dispute"}
+  "box": {"type": "jargon", "label": "Jargon-buster - Odd Socks Day", "intro": "Seen it in Anti-Bullying Week materials and wondering what it means?", "text": "Odd Socks Day (16 Nov) is the Anti-Bullying Alliance's campaign opener - pupils and staff wear mismatched socks to mark that everyone is unique, used as an icebreaker for assembly conversations about bullying and difference."}
 }
