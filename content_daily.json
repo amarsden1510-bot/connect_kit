@@ -1,24 +1,25 @@
 {
   "edition": "",
-  "date": "Wednesday 11 November 2026",
+  "date": "Thursday 12 November 2026",
   "topline": [
     {"text": "Another quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding, SEND or funding announcement cleared the corroboration bar, so today's edition stays short rather than padded.", "action": ""},
-    {"text": "The one live local story: NEU strike action at Talbot Specialist School in Norton Lees - a council-maintained SEND school - remains unresolved, with five further strike days called over workload, safety and governance concerns.", "action": "Worth flagging to anyone who routes SEND placements or respite support through Talbot, in case further strike days this month disrupt provision."},
-    {"text": "Reminder: DfE's call for evidence on exclusion reform closes in 8 days, on 19 November.", "action": ""}
+    {"text": "Locally, the Talbot Specialist School dispute (the Norton Lees SEND school maintained by Sheffield City Council) remains unresolved, with the NEU's six called strike days continuing through the month.", "action": "Keep an eye on further strike days this month if you route SEND placements or respite support through Talbot."},
+    {"text": "Reminder: DfE's call for evidence on exclusion reform closes in 7 days, on 19 November.", "action": ""}
   ],
   "diary": [
     {"date": "16-20 Nov 2026", "color": "coral", "text": "Anti-Bullying Week 2026 - 'Break the Silence' theme; Odd Socks Day opens the week on 16 Nov."},
-    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes - 8 days away."},
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes - 7 days away."},
+    {"date": "31 Dec 2026", "color": "indigo", "text": "Deadline for every mainstream school in England to publish its first statutory inclusion strategy statement."},
     {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."}
   ],
   "sections": [
     {
       "heading": "Sheffield & South Yorkshire",
-      "color": "grey",
+      "color": "teal",
       "items": [
         {
-          "lede": "Strike dispute continues at Sheffield SEND school.",
-          "body": "NEU members at Talbot Specialist School, the Norton Lees school for pupils with SEND maintained directly by Sheffield City Council, walked out on 5 November citing 'excessive workload, safe working practices and a lack of transparency in school governance'. Five further strike days have been called over the following fortnight; the council says it has 'asked the NEU and its members... to reconsider their proposed action', with no resolution confirmed yet.",
+          "lede": "Talbot dispute still unresolved as strike days continue.",
+          "body": "The NEU's dispute with Sheffield City Council over workload, safe working practices and governance at Talbot Specialist School remains unresolved more than a week after the first walkout on 5 November; the union has called six strike days across the month in total, and no settlement has been reported.",
           "source": "The Star / Yorkshire Post",
           "url": "https://www.thestar.co.uk/education/talbot-specialist-school-nov-6-2026-9334061",
           "action": "Worth flagging to any mainstream colleagues who route SEND placements or respite support through Talbot, in case further strike days this month disrupt provision."
@@ -26,5 +27,5 @@
       ]
     }
   ],
-  "box": {"type": "corridor", "quote": "failing to engage in meaningful dialogue", "author": "Rafia Hussain, NEU Sheffield branch secretary, on the Talbot dispute"}
+  "box": {"type": "jargon", "label": "Jargon-buster - inclusion strategy statement", "intro": "A new statutory duty landing on every mainstream school in England.", "text": "By 31 December 2026, schools must publish a short (around 500-word) statement on their website setting out what they're doing - and spending, including any Inclusive Mainstream Fund money - to remove barriers to learning and participation. DfE issued a template in June; statements must be reviewed annually."}
 }
