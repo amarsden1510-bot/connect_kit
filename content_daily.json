@@ -1,30 +1,39 @@
 {
   "edition": "",
-  "date": "Wednesday 11 November 2026",
+  "date": "Friday 13 November 2026",
   "topline": [
-    {"text": "Another quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding, SEND or funding announcement cleared the corroboration bar, so today's edition stays short rather than padded.", "action": ""},
-    {"text": "The one live local story: NEU strike action at Talbot Specialist School in Norton Lees - a council-maintained SEND school - remains unresolved, with five further strike days called over workload, safety and governance concerns.", "action": "Worth flagging to anyone who routes SEND placements or respite support through Talbot, in case further strike days this month disrupt provision."},
-    {"text": "Reminder: DfE's call for evidence on exclusion reform closes in 8 days, on 19 November.", "action": ""}
+    {"text": "Another quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding, SEND or funding announcement cleared the corroboration bar today.", "action": ""},
+    {"text": "The Talbot Specialist School (Norton Lees, SEND) strike dispute remains unresolved more than a week after NEU members walked out over workload, safety and governance concerns.", "action": "Worth checking directly with Talbot if you route SEND placements or respite support there this month, in case further strike days disrupt provision."},
+    {"text": "Sheffield City Council decides on Monday whether to fund a 90-place temporary expansion at Hinde House 2-16 School, one of three secondary expansions addressing a city-wide shortage of places.", "action": ""},
+    {"text": "Reminder: DfE's call for evidence on exclusion reform (behaviour strategies, in-school units, managed moves) closes in 6 days, on 19 November.", "action": ""}
   ],
   "diary": [
+    {"date": "16 Nov 2026", "color": "indigo", "text": "Sheffield City Council policy committee due to decide £1.1m funding for Hinde House 2-16 School's temporary 90-place expansion."},
     {"date": "16-20 Nov 2026", "color": "coral", "text": "Anti-Bullying Week 2026 - 'Break the Silence' theme; Odd Socks Day opens the week on 16 Nov."},
-    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes - 8 days away."},
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (behaviour strategies, in-school units, managed moves) closes - 6 days away."},
     {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."}
   ],
   "sections": [
     {
       "heading": "Sheffield & South Yorkshire",
-      "color": "grey",
+      "color": "teal",
       "items": [
         {
-          "lede": "Strike dispute continues at Sheffield SEND school.",
-          "body": "NEU members at Talbot Specialist School, the Norton Lees school for pupils with SEND maintained directly by Sheffield City Council, walked out on 5 November citing 'excessive workload, safe working practices and a lack of transparency in school governance'. Five further strike days have been called over the following fortnight; the council says it has 'asked the NEU and its members... to reconsider their proposed action', with no resolution confirmed yet.",
+          "lede": "Talbot strike still unresolved, over a week on.",
+          "body": "NEU members at Talbot Specialist School, the Norton Lees SEND school maintained directly by Sheffield City Council, walked out on 5 November over 'excessive workload, safe working practices and a lack of transparency in school governance', with further strike days called into this fortnight. No settlement has been reported; the council says it has asked the union 'to reconsider their proposed action'.",
           "source": "The Star / Yorkshire Post",
           "url": "https://www.thestar.co.uk/education/talbot-specialist-school-nov-6-2026-9334061",
-          "action": "Worth flagging to any mainstream colleagues who route SEND placements or respite support through Talbot, in case further strike days this month disrupt provision."
+          "action": "Worth checking directly with the school if you route SEND placements or respite support there this month."
+        },
+        {
+          "lede": "Council to rule on Hinde House expansion funding.",
+          "body": "Sheffield City Council's policy committee meets 16 November to approve £1.1m for a temporary 90-place expansion at Hinde House 2-16 School in Shiregreen - one of three secondary expansions, alongside Forge Valley and Yewlands, planned to meet a forecast shortage of Year 7 places across the city.",
+          "source": "The Star",
+          "url": "https://www.thestar.co.uk/news/politics/council/three-sheffield-schools-set-for-expansion-to-tackle-shortage-of-secondary-school-places-9342018",
+          "action": ""
         }
       ]
     }
   ],
-  "box": {"type": "corridor", "quote": "failing to engage in meaningful dialogue", "author": "Rafia Hussain, NEU Sheffield branch secretary, on the Talbot dispute"}
+  "box": {"type": "jargon", "label": "Jargon-buster - in-school units & managed moves", "intro": "Two terms likely to recur as DfE's exclusion reform call for evidence closes on 19 November:", "text": "An in-school unit is an on-site space pupils are moved to for part of the day instead of being suspended; a managed move is an agreed, time-limited transfer to a different mainstream school, used as an alternative to permanent exclusion."}
 }
