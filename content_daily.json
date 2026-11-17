@@ -1,43 +1,44 @@
 {
   "edition": "",
-  "date": "Monday 16 November 2026",
+  "date": "Tuesday 17 November 2026",
   "topline": [
-    {"text": "Another quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding, SEND or funding announcement cleared the corroboration bar, so today's edition stays short rather than padded.", "action": ""},
-    {"text": "Anti-Bullying Week 2026 launches today under the Anti-Bullying Alliance's 'Break the Silence' theme, opening with Odd Socks Day; the Alliance says many bullied children still don't tell a trusted adult.", "action": "Worth a line in today's briefing or assembly - the theme speaks directly to why pupils with SEND or EHCPs can be slower to disclose."},
-    {"text": "Reminder: DfE's call for evidence on exclusion reform (internal suspension, reintegration partnerships, schoolwork during suspension) closes in 3 days, on 19 November.", "action": ""}
+    {"text": "Sheffield City Council's finance and performance policy committee approved funding yesterday to expand three secondary schools - Hinde House, Forge Valley and Yewlands - as officers warn the city faces a shortage of Year 7 places through 2029.", "action": "Worth knowing whether any MAPs partner schools sit in these expansion catchments as places tighten."},
+    {"text": "Reminder: DfE's call for evidence on exclusion reform (internal suspension, reintegration partnerships, schoolwork during suspension) closes in 2 days, on Thursday 19 November.", "action": ""},
+    {"text": "Anti-Bullying Week 2026 continues under the 'Break the Silence' theme - today is day two of five.", "action": ""},
+    {"text": "Otherwise a quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding or funding announcement cleared the corroboration bar today.", "action": ""}
   ],
   "diary": [
-    {"date": "16-20 Nov 2026", "color": "coral", "text": "Anti-Bullying Week 2026 - 'Break the Silence' theme; Odd Socks Day opens the week today."},
-    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (internal suspension, reintegration partnerships, managed moves) closes - 3 days away."},
+    {"date": "16-20 Nov 2026", "color": "coral", "text": "Anti-Bullying Week 2026 continues - 'Break the Silence' theme; day two of five today."},
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (internal suspension, reintegration partnerships, managed moves) closes - 2 days away."},
     {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."}
   ],
   "sections": [
     {
-      "heading": "Safeguarding & wellbeing",
-      "color": "teal",
+      "heading": "Sheffield & South Yorkshire",
+      "color": "indigo",
       "items": [
         {
-          "lede": "Anti-Bullying Week 2026 opens today with 'Break the Silence' theme.",
-          "body": "The Anti-Bullying Alliance's annual week runs 16-20 November, its theme shaped by input from over 200 children and young people, opening with Odd Socks Day. Alliance director Martha Boateng says many children experiencing bullying still don't tell a trusted adult; NCB cites more than one in five children reporting being bullied each year (exact disclosure-rate figure not given in the source - flagged as approximate).",
-          "source": "National Children's Bureau / Anti-Bullying Alliance",
-          "url": "https://www.ncb.org.uk/about-us/media-centre/news-opinion/children-suffering-bullying-silence-anti-bullying-week-2026",
-          "action": "Worth flagging to pastoral leads given the theme's direct relevance to disclosure barriers for SEND and vulnerable pupils."
+          "lede": "Three Sheffield secondary schools approved for expansion as council plans for a place shortage.",
+          "body": "Sheffield City Council's finance and performance policy committee has approved a package of works: a £1.1m temporary expansion adding 90 places at Hinde House in Shiregreen, a £4.5m three-storey extension at Forge Valley School in Stannington, and £200,000 to explore options at Yewlands Academy. Officers say Year 7 demand will keep rising across the city to 2029 and the council risks breaching its statutory duty to provide enough places if it doesn't act now.",
+          "source": "The Star",
+          "url": "https://www.thestar.co.uk/news/politics/council/three-sheffield-schools-set-for-expansion-to-tackle-shortage-of-secondary-school-places-9342018",
+          "action": "Worth checking whether any MAPs partner schools sit in these catchments - rising Year 7 numbers can squeeze SEND and inclusion provision fastest."
         }
       ]
     },
     {
-      "heading": "National policy",
+      "heading": "Behaviour & exclusions",
       "color": "amber",
       "items": [
         {
-          "lede": "DfE's exclusion reform call for evidence enters its final week.",
-          "body": "The call for evidence on behaviour management - covering internal suspension, reintegration support partnerships and schoolwork provision during the first five days of a suspension or permanent exclusion - closes 19 November. It feeds the 'Every Child Achieving and Thriving' white paper's proposed time-limited internal suspension framework.",
+          "lede": "Exclusion reform call for evidence enters its final 48 hours.",
+          "body": "The DfE's call for evidence on internal suspension, reintegration support partnerships and schoolwork provision during the first days of a suspension or permanent exclusion closes Thursday 19 November. It feeds the 'Every Child Achieving and Thriving' white paper's proposed time-limited internal suspension framework.",
           "source": "GOV.UK",
           "url": "https://www.gov.uk/government/calls-for-evidence/school-exclusion-reform",
-          "action": "Last chance for any Sheffield-side input before Wednesday's deadline."
+          "action": "Last chance for any Sheffield-side input before Thursday's deadline."
         }
       ]
     }
   ],
-  "box": {"type": "datapoint", "big": "1 in 5+", "text": "children in England report being bullied each year, NCB says ahead of Anti-Bullying Week - many never tell a trusted adult (precise disclosure rate not published).", "attribution": "National Children's Bureau / Anti-Bullying Alliance, Nov 2026"}
+  "box": {"type": "datapoint", "big": "90", "text": "additional Year 7 places Sheffield City Council plans to add at Hinde House alone, part of a wider package addressing forecast secondary place shortages to 2029.", "attribution": "Sheffield City Council, via The Star, Nov 2026"}
 }
