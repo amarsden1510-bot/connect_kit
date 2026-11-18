@@ -1,43 +1,56 @@
 {
   "edition": "",
-  "date": "Monday 16 November 2026",
+  "date": "Wednesday 18 November 2026",
   "topline": [
-    {"text": "Another quiet 24-48 hours nationally - no new DfE, Ofsted, safeguarding, SEND or funding announcement cleared the corroboration bar, so today's edition stays short rather than padded.", "action": ""},
-    {"text": "Anti-Bullying Week 2026 launches today under the Anti-Bullying Alliance's 'Break the Silence' theme, opening with Odd Socks Day; the Alliance says many bullied children still don't tell a trusted adult.", "action": "Worth a line in today's briefing or assembly - the theme speaks directly to why pupils with SEND or EHCPs can be slower to disclose."},
-    {"text": "Reminder: DfE's call for evidence on exclusion reform (internal suspension, reintegration partnerships, schoolwork during suspension) closes in 3 days, on 19 November.", "action": ""}
+    {"text": "Alan Milburn's long-awaited final review into youth inactivity has been published, calling for a legal 'Young People's Guarantee' - a route into work, education or training for every under-25. His interim findings found SEND pupils roughly 80% more likely to become NEET than their peers.", "action": "Could usefully inform post-16 transition planning conversations for SEND cohorts."},
+    {"text": "Government signals possible concessions on SEND reform - reportedly weighing new routes (an ombudsman or independent review panel) for families to challenge support decisions, after backlash over plans to remove Tribunal access for most pupils.", "action": ""},
+    {"text": "Last call: DfE's call for evidence on exclusion reform (internal suspension, reintegration partnerships, schoolwork during suspension) closes tomorrow, 19 November.", "action": "Last chance for any Sheffield-side input before tomorrow's deadline."}
   ],
   "diary": [
-    {"date": "16-20 Nov 2026", "color": "coral", "text": "Anti-Bullying Week 2026 - 'Break the Silence' theme; Odd Socks Day opens the week today."},
-    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (internal suspension, reintegration partnerships, managed moves) closes - 3 days away."},
+    {"date": "19 Nov 2026", "color": "amber", "text": "DfE's call for evidence on school exclusion reform (internal suspension, reintegration partnerships, managed moves) closes - tomorrow."},
+    {"date": "16-20 Nov 2026", "color": "coral", "text": "Anti-Bullying Week 2026 - 'Break the Silence' theme - continues, wraps up Friday."},
     {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."}
   ],
   "sections": [
-    {
-      "heading": "Safeguarding & wellbeing",
-      "color": "teal",
-      "items": [
-        {
-          "lede": "Anti-Bullying Week 2026 opens today with 'Break the Silence' theme.",
-          "body": "The Anti-Bullying Alliance's annual week runs 16-20 November, its theme shaped by input from over 200 children and young people, opening with Odd Socks Day. Alliance director Martha Boateng says many children experiencing bullying still don't tell a trusted adult; NCB cites more than one in five children reporting being bullied each year (exact disclosure-rate figure not given in the source - flagged as approximate).",
-          "source": "National Children's Bureau / Anti-Bullying Alliance",
-          "url": "https://www.ncb.org.uk/about-us/media-centre/news-opinion/children-suffering-bullying-silence-anti-bullying-week-2026",
-          "action": "Worth flagging to pastoral leads given the theme's direct relevance to disclosure barriers for SEND and vulnerable pupils."
-        }
-      ]
-    },
     {
       "heading": "National policy",
       "color": "amber",
       "items": [
         {
-          "lede": "DfE's exclusion reform call for evidence enters its final week.",
-          "body": "The call for evidence on behaviour management - covering internal suspension, reintegration support partnerships and schoolwork provision during the first five days of a suspension or permanent exclusion - closes 19 November. It feeds the 'Every Child Achieving and Thriving' white paper's proposed time-limited internal suspension framework.",
+          "lede": "Milburn's final NEET review calls for a legal 'Young People's Guarantee'.",
+          "body": "The long-delayed final report from Alan Milburn's review into youth inactivity proposes a legal duty on government to guarantee under-25s a route into work, education or training, modelled on local authorities' existing duties toward homeless people. It builds on his May interim report, which found young people with SEND are around 80% more likely to be NEET than their peers - a gap Milburn says needs addressing earlier than the post-16 transition point. Coverage cites a multi-billion-pound funding package attached to the plan, but the exact figure isn't yet corroborated across other reporting, so treat any number with caution until DfE confirms it.",
+          "source": "The Big Issue",
+          "url": "https://www.bigissue.com/news/employment/milburn-review-youth-unemployment-neets-report/",
+          "action": "Worth a look for anyone shaping post-16 transition or careers provision for SEND pupils."
+        }
+      ]
+    },
+    {
+      "heading": "Inclusion, SEND & alternative provision",
+      "color": "indigo",
+      "items": [
+        {
+          "lede": "Ministers reportedly weighing concessions on SEND appeal rights.",
+          "body": "Amid continued backlash over plans to replace most EHCPs with Individual Support Plans - which, as proposed, would remove access to the independent SEND Tribunal for anyone below the top support tier - government sources suggest new appeal routes, potentially an ombudsman or independent review panel, are now under consideration. Campaigners are pushing for firm guarantees before the Education for All Bill, which isn't expected until early 2027.",
+          "source": "Independent Schools Council daily news summary",
+          "url": "https://www.isc.co.uk/media-enquiries/isc-daily-news-summary/2026/november/isc-daily-news-summary-16-november-2026/",
+          "action": ""
+        }
+      ]
+    },
+    {
+      "heading": "Behaviour, exclusions & attendance",
+      "color": "coral",
+      "items": [
+        {
+          "lede": "Exclusion reform call for evidence closes tomorrow.",
+          "body": "The DfE's call for evidence on behaviour management - covering internal suspension, reintegration support partnerships and schoolwork provision during the first days of a suspension or exclusion - closes 19 November. It feeds proposals in the 'Every Child Achieving and Thriving' white paper for a time-limited internal suspension framework.",
           "source": "GOV.UK",
           "url": "https://www.gov.uk/government/calls-for-evidence/school-exclusion-reform",
-          "action": "Last chance for any Sheffield-side input before Wednesday's deadline."
+          "action": "Last chance for any Sheffield-side input before tomorrow's deadline."
         }
       ]
     }
   ],
-  "box": {"type": "datapoint", "big": "1 in 5+", "text": "children in England report being bullied each year, NCB says ahead of Anti-Bullying Week - many never tell a trusted adult (precise disclosure rate not published).", "attribution": "National Children's Bureau / Anti-Bullying Alliance, Nov 2026"}
+  "box": {"type": "datapoint", "big": "~80%", "text": "more likely that a young person with SEND becomes NEET (not in education, employment or training) than their peers, Alan Milburn's review into youth inactivity has found.", "attribution": "Milburn Review into Young People and Work, 2026"}
 }
