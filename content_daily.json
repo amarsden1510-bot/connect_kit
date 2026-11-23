@@ -1,42 +1,27 @@
 {
   "edition": "",
-  "date": "Friday 20 November 2026",
+  "date": "Monday 23 November 2026",
   "topline": [
-    {"text": "A quieter 24-48 hours nationally - the main mover is a school funding story on teacher pensions, plus official autumn exclusions statistics due any day.", "action": ""},
-    {"text": "Schools Week reports the DfE has confirmed it will claw back the savings schools make when teachers' pension employer contributions fall in 2027, rather than letting schools keep the saving in full.", "action": "Worth flagging to finance/SLT now - this affects medium-term budget planning, not just next year's."},
-    {"text": "DfE's autumn 2025/26 suspensions and permanent exclusions statistics for England are due for release around now - last year's equivalent landed on 20 November.", "action": "Worth checking Explore Education Statistics over the next few days for the first hard autumn-term exclusion data."}
+    {"text": "A quiet weekend for UK education news - the one real mover is the DfE's first autumn-term 2025/26 exclusion and suspension figures, which have now actually landed (last week's briefing had flagged these as due but unpublished).", "action": ""},
+    {"text": "Permanent exclusions fell 12% and suspensions fell 7% year-on-year in autumn 2025/26, though the permanent exclusion rate held flat at 0.04% of pupils - see Behaviour below.", "action": "Worth checking the SEND and disadvantaged-pupil breakdowns once the full characteristic tables land on Explore Education Statistics - they feed straight into MAPs placement and inclusion planning."}
   ],
   "diary": [
-    {"date": "Nov 2026 (exact day tbc)", "color": "grey", "text": "DfE's autumn 2025/26 suspensions and permanent exclusions statistics for England due - last year's release landed on 20 November."},
-    {"date": "1 Apr 2027", "color": "indigo", "text": "Teachers' Pension Scheme employer contribution rate falls from 28.6% to 17.6% - the change behind this week's funding clawback story."}
+    {"date": "Spring term 2025/26 (exact date tbc, likely ~April 2027)", "color": "grey", "text": "DfE's next suspensions & permanent exclusions release is due - today's autumn-term figures are only a partial-year picture."}
   ],
   "sections": [
-    {
-      "heading": "Funding",
-      "color": "amber",
-      "items": [
-        {
-          "lede": "DfE confirms clawback of teacher pension savings.",
-          "body": "Schools Week reports the department has confirmed schools will not keep the full saving when the Teachers' Pension Scheme employer contribution rate falls from 28.6% to 17.6% from April 2027 - some of it will be clawed back centrally instead. Reported totals for the clawback have varied across different stages of coverage this autumn, so treat any single headline figure as provisional pending the DfE's own methodology note.",
-          "source": "Schools Week",
-          "url": "https://schoolsweek.co.uk/dfe-confirms-2-6bn-pension-savings-clawback/",
-          "action": "Raise with finance/SLT now rather than waiting for the 2027 budget round - this changes medium-term planning assumptions for every school."
-        }
-      ]
-    },
     {
       "heading": "Behaviour, exclusions & attendance",
       "color": "coral",
       "items": [
         {
-          "lede": "Official autumn exclusion figures due any day.",
-          "body": "The DfE's accredited statistics release covering suspensions and permanent exclusions in England for autumn term 2025/26 is scheduled for November 2026, with last year's equivalent published on 20 November - so the first official autumn data, rather than the unofficial early estimates that have been circulating, could land this week.",
-          "source": "GOV.UK (Explore Education Statistics)",
-          "url": "https://www.gov.uk/government/statistics/announcements/suspensions-and-permanent-exclusions-autumn-202526",
-          "action": "Worth checking the DfE release directly once published - the SEND breakdown within it feeds directly into MAPs placement and inclusion planning."
+          "lede": "First hard data on autumn 2025/26 exclusions and suspensions.",
+          "body": "The DfE's autumn term 2025/26 release records around 3,300 permanent exclusions in England, down 12% on the roughly 3,700 recorded in autumn 2024/25, though the permanent exclusion rate held flat at 0.04% of pupils (4 in every 10,000). Suspensions fell 7% to around 312,000, with 47% lasting a single day or less. Flag: the rounded headline totals vary slightly from the underlying dataset (which shows 3,273 and 3,715 respectively), so treat any single figure as provisional pending the full characteristic breakdowns.",
+          "source": "DfE / Explore Education Statistics",
+          "url": "https://www.gov.uk/government/statistics/suspensions-and-permanent-exclusions-in-england-autumn-term-2025-to-2026",
+          "action": "Worth checking the SEND and free-school-meals breakdowns once the full tables land - they feed directly into MAPs placement and inclusion planning."
         }
       ]
     }
   ],
-  "box": {"type": "datapoint", "big": "28.6% → 17.6%", "text": "The fall in employer contribution rates to the Teachers' Pension Scheme from April 2027 - the saving at the centre of this week's DfE funding clawback story.", "attribution": "DfE / Schools Week"}
+  "box": {"type": "datapoint", "big": "3,300 (-12%)", "text": "Permanent exclusions in England in autumn term 2025/26, down on the roughly 3,700 recorded a year earlier - though the permanent exclusion rate held flat at 0.04% of pupils.", "attribution": "DfE / Explore Education Statistics"}
 }
