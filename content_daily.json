@@ -1,13 +1,13 @@
 {
   "edition": "",
-  "date": "Tuesday 24 November 2026",
+  "date": "Wednesday 25 November 2026",
   "topline": [
-    {"text": "A genuinely quiet 24-48 hours for UK education news - no major DfE, Ofsted, SEND/AP, behaviour, safeguarding or funding stories broke overnight, and nothing new has surfaced from Sheffield or South Yorkshire either.", "action": ""},
-    {"text": "Rather than pad this out with last week's stories, today's briefing is short - normal service (and length) resumes as soon as something genuinely new lands.", "action": ""}
+    {"text": "Another quiet 24-48 hours - a thorough sweep of DfE, Ofsted, SEND/AP, behaviour, safeguarding, funding and Sheffield/South Yorkshire sources found nothing genuinely new since yesterday's briefing.", "action": ""},
+    {"text": "Keeping this short rather than padding it out with older stories you've likely already seen - normal-length service resumes as soon as something new breaks.", "action": ""}
   ],
   "diary": [
-    {"date": "Thursday 26 November 2026", "color": "grey", "text": "ONS publishes its latest NEET (not in education, employment or training) statistics for the UK - relevant to post-16 pathways and AP/SEND transitions work."}
+    {"date": "Thursday 26 November 2026", "color": "grey", "text": "ONS publishes its next NEET (not in education, employment or training) statistics for the UK, 9:30am - relevant to post-16 pathways and AP/SEND transitions work."}
   ],
   "sections": [],
-  "box": {"type": "jargon", "label": "Jargon-buster - AP", "intro": "Seen in SEND reform coverage this term:", "text": "'Alternative Provision' (AP) - education arranged for pupils who can't attend mainstream school, including due to exclusion, illness or SEND. Current reform proposals would shift AP toward earlier, in-school support rather than off-site placement after things break down."}
+  "box": {"type": "datapoint", "big": "9 in 10", "text": "schools say literacy is a key challenge for their disadvantaged pupils, with 8 in 10 citing attendance too - the two issues inclusion leads are most often firefighting together.", "attribution": "Education Endowment Foundation survey of schools"}
 }
