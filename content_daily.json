@@ -1,13 +1,11 @@
 {
   "edition": "",
-  "date": "Tuesday 24 November 2026",
+  "date": "Thursday 26 November 2026",
   "topline": [
-    {"text": "A genuinely quiet 24-48 hours for UK education news - no major DfE, Ofsted, SEND/AP, behaviour, safeguarding or funding stories broke overnight, and nothing new has surfaced from Sheffield or South Yorkshire either.", "action": ""},
-    {"text": "Rather than pad this out with last week's stories, today's briefing is short - normal service (and length) resumes as soon as something genuinely new lands.", "action": ""}
+    {"text": "Another quiet 24-48 hours nationally - no major new DfE, Ofsted, behaviour, safeguarding or funding stories broke overnight, and nothing fresh has surfaced from Sheffield or South Yorkshire either.", "action": ""},
+    {"text": "The one thing to flag: ONS publishes its quarterly NEET (not in education, employment or training) statistics for the UK this morning (26 Nov, 9:30am) - figures weren't yet published at the time of writing, so check the ONS release directly for today's number.", "action": ""}
   ],
-  "diary": [
-    {"date": "Thursday 26 November 2026", "color": "grey", "text": "ONS publishes its latest NEET (not in education, employment or training) statistics for the UK - relevant to post-16 pathways and AP/SEND transitions work."}
-  ],
+  "diary": [],
   "sections": [],
-  "box": {"type": "jargon", "label": "Jargon-buster - AP", "intro": "Seen in SEND reform coverage this term:", "text": "'Alternative Provision' (AP) - education arranged for pupils who can't attend mainstream school, including due to exclusion, illness or SEND. Current reform proposals would shift AP toward earlier, in-school support rather than off-site placement after things break down."}
+  "box": {"type": "datapoint", "big": "981,000", "text": "young people aged 16-24 in the UK were NEET in April-June 2026 (13.0%) - the last confirmed ONS figure, up 30,000 on a year earlier. Today's newer quarter figure is due but unconfirmed at time of writing.", "attribution": "ONS, Young people not in education, employment or training (NEET), UK - August 2026 bulletin"}
 }
