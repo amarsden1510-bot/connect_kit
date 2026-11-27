@@ -1,106 +1,83 @@
 {
-  "edition": "Issue 10",
-  "date": "week ending Friday 13 November 2026",
+  "edition": "Issue 11",
+  "date": "week ending Friday 27 November 2026",
   "topline": [
     {
-      "text": "A genuinely quiet week for new national policy: nothing fresh on SEND reform, exclusions guidance or Ofsted's framework beyond last week's committee hearing. What did land was more operational — a six-monthly Ofsted statistics refresh, an escalating sixth-form college pay dispute, and two live Sheffield stories: a strike at a council-maintained SEND school and a secondary-places funding decision due at next week's council meeting.",
-      "action": "No single big-ticket item to action nationally this week — but see the Sheffield section below, since both local stories are the kind governors and SLT get asked about directly."
+      "text": "The dominant story for schools this fortnight is the Milburn review of youth unemployment, published 17 November: a 277-page final report commissioned by the Work and Pensions Secretary that sets a headline target of cutting the NEET rate from 13% to around 5% by 2036, and explicitly blames schools being judged on qualifications rather than destinations as part of the problem.",
+      "action": "Expect post-16 destination data and careers provision to move up the accountability agenda — worth reviewing your own destinations tracking now, ahead of any formal policy response."
     },
     {
-      "text": "Ofsted's twice-yearly statistics release, updated 10 November, gives the first reasonably full look at outcomes under the renewed inspection framework that came into force a year ago — covering provisional data for April to August 2026 alongside revised figures back to November 2025. We haven't been able to verify the headline outcome percentages from the published tables at the time of writing, so treat any breakdown you see quoted elsewhere with care until you've checked the source directly.",
-      "action": "If your trust wants a view on how the new framework's first full year is landing, pull the data from the GOV.UK release directly rather than relying on secondary write-ups."
+      "text": "DfE's own autumn term 2025/26 suspensions and exclusions statistics, published 19 November, show both measures falling — suspensions down 7% to around 312,000 and permanent exclusions down 12% to around 3,300 — which cuts against some of the 'record high' framing that's circulated this year, most of it referring to older or full-year data rather than this release.",
+      "action": "If you're using national exclusion data in a governors' report or benchmarking exercise, check you're citing this autumn-term release and not an older or misremembered figure."
     },
     {
-      "text": "The sixth-form college pay dispute escalated this week, with FE Week reporting four more strike dates lodged on 8 November after the NEU rejected the Sixth Form Colleges' Association's 3.5% offer for 2026/27. A union-commissioned survey found over three-quarters of sixth-form college teachers would back strike action, with the underlying grievance a pay gap between sixth-form college and school-based teachers that's persisted for years despite repeated pay-restoration pledges.",
-      "action": "If your school runs 16-19 provision or shares staff or partnership arrangements with a sixth-form college, flag the dispute to whoever manages those relationships — more strike days are now locked in."
+      "text": "Two safeguarding threads landed close together: DfE quietly clarified on 17 November that most work-experience placements don't need a DBS check, while separately two multi-academy trusts (Oasis, 59 schools; GLF, 43 schools) withdrew David Walliams's books from library shelves pending unproven misconduct allegations, with ASCL now asking DfE for national guidance rather than leaving individual schools to decide.",
+      "action": "Hold off changing library stock unilaterally — worth waiting for ASCL/DfE guidance given the allegations are contested and the trust decisions are precautionary, not findings of fact."
     },
     {
-      "text": "Nothing new on SEND this week since last week's committee hearing confirmed the reform legislation's slip to early next year. The one live, actionable thread is the DfE's call for evidence on exclusion reform — covering internal suspension, reintegration partnerships and day-one schoolwork — which closes 19 November.",
-      "action": "If your trust hasn't yet submitted a view on the exclusion reform call for evidence, this is the week to do it — the window closes next Wednesday."
+      "text": "Locally, Sheffield had two live threads this week: a mass student walkout on 20 November over defence spending that drew in High Storrs, King Edward VII and Dronfield Henry Fanshawe pupils, and the continuing NEU strike at Talbot Specialist School, the council-maintained SEND school in Norton Lees, where further strike days are running through the rest of November.",
+      "action": "If your catchment overlaps with the schools named in the walkout coverage, it's worth checking how your own attendance and safeguarding response compared on the day."
     }
   ],
   "diary": [
     {
-      "date": "16 Nov 2026",
-      "color": "grey",
-      "text": "Sheffield City Council's policy committee due to decide on ~£1.1m funding to temporarily expand Hinde House School by 90 places."
-    },
-    {
-      "date": "16 Nov 2026",
+      "date": "4 Dec 2026",
       "color": "amber",
-      "text": "Free breakfast clubs attendance monitoring form opens, covering the 9-13 November census week; closes 4 December."
-    },
-    {
-      "date": "16-20 Nov 2026",
-      "color": "coral",
-      "text": "Anti-Bullying Week 2026, theme 'Break the Silence', opens with Odd Socks Day on the Monday."
-    },
-    {
-      "date": "19 Nov 2026",
-      "color": "magenta",
-      "text": "DfE's call for evidence on exclusion reform (internal suspension, reintegration partnerships, day-one schoolwork) closes."
-    },
-    {
-      "date": "Nov 2026 (exact day tbc)",
-      "color": "purple",
-      "text": "DfE due to publish autumn 2025/26 suspensions and permanent exclusions statistics for England."
+      "text": "Free breakfast clubs attendance monitoring form (covering the 9-13 November census week) closes."
     },
     {
       "date": "15 Dec 2026",
       "color": "indigo",
       "text": "NEU's formal strike ballot of teachers and support staff over pay, funding and workload closes."
+    },
+    {
+      "date": "Dec 2026 (exact day tbc)",
+      "color": "amber",
+      "text": "DfE's adult skills fund performance management review for 2026."
+    },
+    {
+      "date": "31 Dec 2026",
+      "color": "grey",
+      "text": "Deadline for further education college financial statements, per DfE Update 4 November."
     }
   ],
   "sections": [
     {
-      "heading": "Ofsted & accountability",
+      "heading": "National policy & accountability",
       "color": "purple",
       "items": [
         {
-          "lede": "Ofsted's stats refresh lands quietly, giving the first full-year view under the renewed framework.",
-          "body": "GOV.UK's 'state-funded schools inspections and outcomes' release was updated on 10 November, combining provisional inspection outcomes for April to August 2026 with revised data stretching back to when the renewed Education Inspection Framework came into force on 10 November 2025. It's the first release letting anyone compare a genuinely full cycle of inspections under the new report-card system against the old one — useful context for last week's revelation that Powell wants inspection consequences to change for high-SEND-cohort schools. We weren't able to confirm specific outcome percentages from the published tables in time for this edition, so treat any headline figures quoted elsewhere this week with caution until checked against the source.",
+          "lede": "Milburn's final NEET report lands with a steep target and a direct critique of school accountability.",
+          "body": "The Department for Work and Pensions published Alan Milburn's final report, 'From a welfare state to a working state', on 17 November — following his interim report in May — setting a target of cutting England's NEET rate from 13% to around 5% by 2036. Among its schools-facing recommendations: primary schools identifying pupils at risk of becoming NEET far earlier, work experience becoming a statutory duty rather than, as the review puts it, 'a statutory duty without enforcement', and schools held accountable for what happens to pupils after they leave rather than just the qualifications they leave with. Early commentary from the IFS and the Institute for Government is sceptical about deliverability — the recommendations span several government departments and tiers of government, and nothing here is funded or legislated yet.",
           "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/statistics/state-funded-schools-inspections-and-outcomes-as-at-31-august-2026",
-          "action": "Worth pulling the actual tables if your trust is building a case on how the new framework is landing for schools with large SEND cohorts — don't rely on secondary commentary this week."
+          "url": "https://www.gov.uk/government/publications/from-a-welfare-state-to-a-working-state-a-new-settlement-for-the-next-generation",
+          "action": "Nothing to action immediately since this is a recommendations document, not policy — but post-16 destinations tracking and careers provision are likely to get more scrutiny, so it's worth knowing where your own data stands."
         }
       ]
     },
     {
-      "heading": "Workforce, pay & industrial action",
-      "color": "indigo",
-      "items": [
-        {
-          "lede": "Sixth-form college teachers add four more strike dates in an escalating pay dispute.",
-          "body": "FE Week reported on 8 November that NEU members at sixth-form colleges have lodged four additional strike dates, after rejecting the Sixth Form Colleges' Association's 3.5% pay offer for 2026/27. A separate union-commissioned survey found more than three-quarters of sixth-form college teachers would support strike action — a figure worth treating as indicative rather than an official turnout result, since it comes from campaign research rather than a formal ballot. The underlying grievance, a persistent pay gap between sixth-form college and school-based teachers, sits alongside the broader NEU pay-and-funding ballot of school staff that remains open until 15 December.",
-          "source": "FE Week",
-          "url": "https://feweek.co.uk/sixth-form-college-teachers-add-4-more-days-of-strike-action",
-          "action": "Relevant mainly if you run or partner with 16-19 provision — check whether any shared staffing or timetabling arrangements are exposed to the new strike dates."
-        }
-      ]
-    },
-    {
-      "heading": "SEND, inclusion & behaviour",
-      "color": "magenta",
-      "items": [
-        {
-          "lede": "A quiet week on substance, but the exclusion reform window is closing.",
-          "body": "Nothing new has surfaced on SEND system reform since last week's committee hearing confirmed the legislative slip to early 2027, and there's no fresh movement on behaviour or exclusions guidance either. The one thing actually moving is the clock: the DfE's call for evidence on exclusion reform — covering internal suspension, reintegration partnerships and day-one schoolwork for suspended pupils — closes on 19 November, after which the department will presumably start shaping its response.",
-          "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/calls-for-evidence/school-exclusion-reform",
-          "action": "If you or your trust has a view on internal suspension or reintegration partnerships, this is genuinely the last practical week to get it in before the call for evidence closes."
-        }
-      ]
-    },
-    {
-      "heading": "Attendance & funding",
+      "heading": "Behaviour & attendance",
       "color": "teal",
       "items": [
         {
-          "lede": "Breakfast club census week falls this week — and funding depends on it.",
-          "body": "Schools in the free breakfast clubs programme are required to record daily attendance for Reception to Year 6 during this year's census week, which runs 9-13 November; the monitoring form built on that data opens 16 November and closes 4 December. Per-pupil funding under the scheme is calculated from average recorded attendance, and DfE guidance warns that submissions made after the closing date delay payment by a further term — so this has become a funding deadline as much as a pastoral one.",
+          "lede": "Official exclusions data shows suspensions and permanent exclusions both falling, not rising.",
+          "body": "DfE's autumn term 2025/26 release, published 19 November, shows the suspension rate falling to 3.77 per 10,000 pupils from 4.02 a year earlier — around 312,000 suspensions, a 7% drop from roughly 336,000. Permanent exclusions fell further, down 12% to around 3,300 from about 3,700, with the rate holding at 0.04. Persistent disruptive behaviour remains by far the most common reason cited for suspension. This is worth flagging because some sector commentary this year has described suspensions as being at a 'record' or 'six-year high' — that framing appears to trace back to a different (likely full academic year 2024/25) dataset rather than this autumn-term release, so treat any such claim with caution until you've checked which release it's citing.",
+          "source": "GOV.UK / Explore Education Statistics",
+          "url": "https://www.gov.uk/government/statistics/suspensions-and-permanent-exclusions-in-england-autumn-term-2025-to-2026",
+          "action": "Worth double-checking which release any 'record high' claim you see is based on before using it in a governors' paper — this one shows the opposite direction."
+        }
+      ]
+    },
+    {
+      "heading": "Funding",
+      "color": "amber",
+      "items": [
+        {
+          "lede": "Schools operational guide update folds the schools budget support grant into the national funding formula from 2027/28.",
+          "body": "DfE's Schools Operational Guide for 2027 to 2028, updated 19 November, confirms the schools budget support grant (SBSG) — introduced as a top-up in 2026/27 — is being rolled into the national funding formula rather than continuing as a separate grant. That's a technical change rather than a funding cut or boost in itself, but it will affect how individual schools see their allocation presented from 2027/28, and finance teams will want to understand the mechanics before the next budget-setting cycle rather than after allocations land. It sits alongside the IFS's broader forecast of a roughly 9% real-terms rise in per-pupil spending between 2025/26 and 2028/29, which is the most optimistic funding outlook the sector has had in some years.",
           "source": "GOV.UK",
-          "url": "https://www.gov.uk/government/publications/free-breakfast-clubs-grant-2026-to-2027-academic-year/free-breakfast-clubs-grant-conditions-of-grant-for-september-2026-to-july-2027",
-          "action": "If your setting runs the free breakfast clubs programme, check this week that registers are being completed properly — a missed or late submission costs a term's funding."
+          "url": "https://www.gov.uk/government/publications/pre-16-schools-funding-local-authority-guidance-for-2027-to-2028/schools-operational-guide-2027-to-2028",
+          "action": "Finance leads should read the updated operational guide now rather than wait for the 2027/28 allocation letters, since the SBSG-into-NFF change affects how your budget line will be presented."
         }
       ]
     },
@@ -109,11 +86,18 @@
       "color": "coral",
       "items": [
         {
-          "lede": "Anti-Bullying Week 2026 arrives next week, themed 'Break the Silence'.",
-          "body": "The Anti-Bullying Alliance's Anti-Bullying Week runs 16-20 November, opening with Odd Socks Day on the Monday; this year's theme highlights children who suffer bullying without telling anyone. There's no new DfE guidance attached to it this year, so it's a campaign and assembly-planning moment for pastoral teams rather than a policy one — but it sits naturally alongside KCSIE 2026's rewritten mental health section, which already asks schools to take a more whole-school approach to emotional wellbeing.",
-          "source": "National Children's Bureau",
-          "url": "https://www.ncb.org.uk/about-us/media-centre/news-opinion/children-suffering-bullying-silence-anti-bullying-week-2026",
-          "action": "Worth getting assembly and PSHE materials for Anti-Bullying Week into pastoral teams' hands this week if that hasn't happened already."
+          "lede": "DfE clarifies that most work-experience placements don't need a DBS check.",
+          "body": "Guidance published on GOV.UK on 17 November confirms that employers don't need a DBS check — including an enhanced certificate — to offer work experience to pupils aged 16 and over under normal supervision, and that family members supervising a placement don't need one either. The position for under-16 placements is less clean: barred list checks may still be required where a child under 16 is being supervised, and legal commentary (Browne Jacobson, The Key) notes the guidance doesn't say much about how schools should evidence that the exemption conditions are actually met. Tes reports school leaders remain concerned this ambiguity could discourage smaller employers from offering placements at all.",
+          "source": "GOV.UK",
+          "url": "https://www.gov.uk/government/publications/work-experience-placements-for-under-16s-dbs-checks-and-regulated-activity/work-experience-placements-for-under-16s-dbs-checks-and-regulated-activity--2",
+          "action": "Safeguarding leads reviewing work-experience policy this term should check it against this guidance directly, particularly for any under-16 placements, rather than relying on last year's position."
+        },
+        {
+          "lede": "Trusts pull David Walliams's books from library shelves as ASCL seeks DfE guidance.",
+          "body": "Oasis Community Learning (59 schools) and GLF Schools (43 schools) have temporarily withdrawn David Walliams's books from their school libraries following misconduct allegations the author denies. ASCL has asked DfE for national guidance rather than leaving the decision to individual schools, and the response elsewhere is inconsistent — Kent County Council has made no change to its public libraries, while Camden has moved copies into storage. It's worth being clear that these are precautionary decisions by individual institutions, not findings against Walliams, and no formal process has concluded.",
+          "source": "NationalWorld",
+          "url": "https://www.nationalworld.com/news/david-walliams-books-school-library-ban-allegations-9346820",
+          "action": "If you're being asked by staff or parents what your school's position is, it's reasonable to say you're waiting for ASCL/DfE guidance rather than making a unilateral call on unproven allegations."
         }
       ]
     },
@@ -122,26 +106,26 @@
       "color": "grey",
       "items": [
         {
-          "lede": "Strike action continues at Talbot Specialist School.",
-          "body": "NEU members at Talbot Specialist School, a council-maintained SEND school in Norton Lees, walked out on 5 November in a dispute over workload, safety and staffing levels, with the union citing a failure by the school to engage in meaningful talks; further strike days are planned across the rest of November. Unlike most Sheffield secondaries, Talbot sits under direct council control rather than an academy trust, which puts the dispute squarely in the council's lap rather than a trust's.",
+          "lede": "Mass student walkout over defence spending draws in several Sheffield secondaries.",
+          "body": "Students at High Storrs School, King Edward VII School and Dronfield Henry Fanshawe School were among those expected to join a Socialist Students-organised walkout in Sheffield city centre on Friday 20 November, opposing the government's defence budget increase; Sheffield College and both city universities were also involved. High Storrs wrote to parents beforehand saying it would 'strongly prefer' pupils to stay in lessons, citing safety concerns, while South Yorkshire Police said they were planning an increased city-centre presence for the day. We haven't seen confirmed turnout figures or reports of disruption from the day itself.",
           "source": "The Star",
-          "url": "https://www.thestar.co.uk/education/talbot-specialist-school-nov-6-2026-9334061",
-          "action": "Worth watching if your trust has SEND provision staffed similarly, since workload and safety are the specific grounds cited — not pay."
+          "url": "https://www.thestar.co.uk/news/politics/sheffield-students-mass-walkout-oppose-defence-spending-9352489",
+          "action": "Worth checking with pastoral staff how your own attendance and any parental correspondence around the 20th compared with neighbouring schools named in the coverage."
         },
         {
-          "lede": "Council set to approve funding for a secondary-places expansion.",
-          "body": "Sheffield City Council's policy committee is due to decide on 16 November whether to approve around £1.1m to temporarily expand Hinde House School in Shiregreen by 90 places, one of several moves the council is considering to meet a forecast shortage of secondary places running to 2029. It's the latest instalment in a running theme for Sheffield this year — place-planning pressure building faster than permanent capacity can be added, with temporary expansions used as the stopgap.",
+          "lede": "Strike action continues at Talbot Specialist School.",
+          "body": "NEU members at Talbot Specialist School, the council-maintained SEND school in Norton Lees, walked out on 5 November in a dispute over workload, safety and staffing levels, with the union citing a failure by the school to engage in meaningful talks. Five further strike days were planned across the rest of November, which means the action is continuing through this week; we haven't seen reporting confirming the dispute has been resolved. Unlike most Sheffield secondaries, Talbot sits under direct council control rather than an academy trust, which keeps the dispute squarely with the council rather than a trust.",
           "source": "The Star",
-          "url": "https://www.thestar.co.uk/news/politics/council/three-sheffield-schools-set-for-expansion-to-tackle-shortage-of-secondary-school-places-9342018",
-          "action": "Worth knowing if your catchment overlaps with north Sheffield — this is the clearest sign yet of where the council expects pressure to land first."
+          "url": "https://www.thestar.co.uk/education/talbot-specialist-school-nov-6-2026-9334061",
+          "action": "Worth watching if your trust has SEND provision staffed similarly, since workload and safety — not pay — are the specific grounds cited."
         }
       ]
     }
   ],
   "box": {
     "type": "datapoint",
-    "big": "75%+",
-    "text": "More than three-quarters of sixth-form college teachers say they'd back strike action over pay, per a union-commissioned survey reported this week — though as campaign research rather than a formal ballot result, it's a sentiment figure, not an official turnout number. It's the backdrop to the four new strike dates NEU members at sixth-form colleges lodged on 8 November.",
-    "attribution": "The Star / FE Week, 8 November 2026"
+    "big": "13% → 5%",
+    "text": "The Milburn review's headline target: cutting England's NEET rate from around 13% now to roughly 5% by 2036. It's an ambition, not a funded commitment — nothing in the report is yet legislated or budgeted, and the IFS and Institute for Government have both flagged deliverability as the open question.",
+    "attribution": "DWP / Alan Milburn review, published 17 November 2026"
   }
 }
