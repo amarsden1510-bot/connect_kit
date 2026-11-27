@@ -1,13 +1,30 @@
 {
   "edition": "",
-  "date": "Tuesday 24 November 2026",
+  "date": "Friday 27 November 2026",
   "topline": [
-    {"text": "A genuinely quiet 24-48 hours for UK education news - no major DfE, Ofsted, SEND/AP, behaviour, safeguarding or funding stories broke overnight, and nothing new has surfaced from Sheffield or South Yorkshire either.", "action": ""},
-    {"text": "Rather than pad this out with last week's stories, today's briefing is short - normal service (and length) resumes as soon as something genuinely new lands.", "action": ""}
+    {"text": "The one genuinely new story in the last 24-48 hours: ONS figures published yesterday show NEET numbers easing on the quarter but still up on the year - and it's young women driving that annual rise, worth flagging for transitions and post-16 work.", "action": ""},
+    {"text": "Otherwise a quiet 24-48 hours - no fresh DfE, Ofsted, SEND/AP, exclusions, safeguarding or funding stories broke, and nothing new from Sheffield or South Yorkshire either, so today's briefing is short rather than padded.", "action": ""}
   ],
-  "diary": [
-    {"date": "Thursday 26 November 2026", "color": "grey", "text": "ONS publishes its latest NEET (not in education, employment or training) statistics for the UK - relevant to post-16 pathways and AP/SEND transitions work."}
+  "diary": [],
+  "sections": [
+    {
+      "heading": "NEETs & transitions",
+      "color": "teal",
+      "items": [
+        {
+          "lede": "NEET total dips on the quarter, but the annual trend is going the wrong way for young women",
+          "body": "ONS estimates 959,000 16-24-year-olds in the UK were NEET in July-September 2026 - down 22,000 on the previous quarter, but up 17,000 on a year earlier. The breakdown: roughly 476,000 young women NEET (up ~41,000 on the year) against about 483,000 young men (down ~24,000). Youth Futures Foundation says the figures underline the need for sustained, evidence-based action rather than one-off interventions - relevant context for schools tracking post-16 destinations and early identification of pupils at risk of disengaging.",
+          "source": "ONS",
+          "url": "https://www.ons.gov.uk/employmentandlabourmarket/peoplenotinwork/unemployment/bulletins/youngpeoplenotineducationemploymentortrainingneet/november2026",
+          "action": ""
+        }
+      ]
+    }
   ],
-  "sections": [],
-  "box": {"type": "jargon", "label": "Jargon-buster - AP", "intro": "Seen in SEND reform coverage this term:", "text": "'Alternative Provision' (AP) - education arranged for pupils who can't attend mainstream school, including due to exclusion, illness or SEND. Current reform proposals would shift AP toward earlier, in-school support rather than off-site placement after things break down."}
+  "box": {
+    "type": "datapoint",
+    "big": "959,000",
+    "text": "16-24-year-olds in the UK classed as NEET in July-September 2026 - down 22,000 on the quarter, but up 17,000 on the year. Figures come from the Labour Force Survey, so the ONS flags normal sampling variability on sub-group breakdowns.",
+    "attribution": "ONS NEET statistics, published 26 November 2026"
+  }
 }
